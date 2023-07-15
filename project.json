@@ -1,0 +1,33 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "staging.styleguide.transjournalists.org",
+      "path": ""
+    },
+    "live": {
+      "bucket": "styleguide.transjournalists.org",
+      "path": ""
+    }
+  },
+  "styles": {
+    "src/css/seed.less": "build/style.css"
+  },
+  "scripts": {
+    "src/js/main.js": "build/app.js"
+  },
+  "title": "Trans Journalists Association Styleguide",
+  "description": "",
+  "url": "https://styleguide.transjournalists.org",
+  "image": "assets/logo.png",
+  "analytics": {
+    "topicIDs": [],
+    "primaryTopic": "",
+    "secondaryTopics": []
+  },
+  "sheets": [],
+  "docs": {
+    "2.0": "1_1QRqJ61CVOTPRUnELtPNrpoXag_qLuXfcn532fXb1s"
+  },
+  "embedded": true,
+  "production": false
+}

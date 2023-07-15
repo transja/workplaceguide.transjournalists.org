@@ -1,0 +1,140 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  padding: 0;
+  margin: 0;
+  touch-action: manipulation;
+  font-family: "IBM Plex Serif", Times, serif;
+  font-size: 18px;
+  line-height: 1.4;
+  color: #393939;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+body main {
+  flex: 1;
+}
+img,
+svg {
+  max-width: 100%;
+}
+h1 {
+  font-size: 44px;
+  font-family: "Barlow Condensed", Helvetica, Arial, sans-serif;
+}
+@media (max-width: 600px) {
+  h1 {
+    font-size: 34px;
+  }
+}
+h2 {
+  font-size: 30px;
+  font-family: "Barlow Condensed", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+}
+@media (max-width: 600px) {
+  h2 {
+    font-size: 24px;
+  }
+}
+a,
+a:visited {
+  color: #178287;
+}
+a:hover,
+a:active,
+a:focus {
+  color: #178287;
+  border-bottom: none;
+}
+img:not([alt]) {
+  outline: 3px solid red;
+}
+[aria-hidden] img:not([alt]),
+[role="img"] img:not([alt]) {
+  outline: none;
+}
+/* Chalkbeat header */
+header.chalkbeat {
+  background: black;
+  color: white;
+}
+header.chalkbeat .cb__justified {
+  padding: 16px;
+  display: flex;
+  margin: auto;
+  max-width: 1100px;
+  justify-content: space-between;
+  align-items: center;
+}
+header.chalkbeat .cb__logo {
+  max-height: 60px;
+}
+@media (max-width: 600px) {
+  header.chalkbeat .cb__logo {
+    max-width: 120px;
+  }
+}
+header.chalkbeat .cb__buttons a {
+  display: inline-block;
+  padding: 10px 16px;
+  color: #222222;
+  text-decoration: none;
+  background: #178287;
+  font-family: "Barlow Condensed", Helvetica, Arial, sans-serif;
+  font-size: 19px;
+  font-weight: bold;
+}
+@media (max-width: 600px) {
+  header.chalkbeat .cb__buttons a {
+    padding: 8px;
+    font-size: 14px;
+  }
+}
+header.chalkbeat .cb__buttons svg {
+  height: 2ch;
+  vertical-align: baseline;
+  display: inline-block;
+}
+header.chalkbeat .cb__buttons .cb__newsletters {
+  background: #BD75AC;
+  margin-right: 8px;
+}
+header.chalkbeat .cb__buttons .cb__donate {
+  background: #F4C96C;
+}
+/* Chalkbeat footer */
+footer.chalkbeat {
+  background: black;
+  color: white;
+}
+footer.chalkbeat .cb__justified {
+  max-width: 1100px;
+  margin: auto;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@media (max-width: 600px) {
+  footer.chalkbeat .cb__justified {
+    display: block;
+    text-align: center;
+  }
+}
+footer.chalkbeat .cb__logo {
+  max-width: 120px;
+  margin-right: 20px;
+}
+footer.chalkbeat .cb__links {
+  font-size: 14px;
+}
+footer.chalkbeat .cb__links a {
+  margin: 0 1em;
+}
