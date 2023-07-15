@@ -8,7 +8,7 @@
 # 6. If you make any changes, run `sudo systemctl daemon-reload` before restarting
 
 [Unit]
-Description=Chalkbeat interactive project
+Description=TJA interactive project
 StartLimitIntervalSec=0
 
 [Service]
