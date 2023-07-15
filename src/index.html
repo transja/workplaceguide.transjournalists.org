@@ -7,12 +7,8 @@
   <body>
 
     <%= t.include("partials/_header.html") %>
-
-    <main>
-      
-      <h1>This space intentionally left blank</h1>
-
-    </main>
+    
+    <%= t.renderMarkdown(archieml.v2) %>
 
     <%= t.include("partials/_footer.html") %>
 

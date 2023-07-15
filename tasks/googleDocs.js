@@ -46,28 +46,49 @@ module.exports = function (grunt) {
             documentId,
             suggestionsViewMode,
           });
-          console.log(docResponse.data.namedStyles.styles);
+
           var name = key + ".docs.txt";
           var body = docResponse.data.body.content;
           var text = "";
 
           var lists = docResponse.data.lists;
 
-          body.forEach(function (block) {
+          body.forEach(function (block, idx, arr) {
+            // if (block.paragraph?.paragraphStyle?.namedStyleType)
+            //   console.log(block.paragraph?.paragraphStyle?.namedStyleType);
             if (!block.paragraph) return;
-            if (block.paragraph.bullet) {
-              var list = lists[block.paragraph.bullet.listId];
-              var level = block.paragraph.bullet.nestingLevel || 0;
-              var style = list.listProperties.nestingLevels[level];
-              var bullet = "- ";
+
+            const { namedStyleType } = block.paragraph?.paragraphStyle;
+
+            let bullet = "";
+            if (block.paragraph?.bullet) {
+              const list = lists[block.paragraph.bullet?.listId];
+              const level = block.paragraph.bullet.nestingLevel || 0;
+              const style = list.listProperties.nestingLevels[level];
+              bullet = "ul";
+
               if (style) {
                 if (style.glyphType == "DECIMAL") {
-                  bullet = "1. ";
+                  bullet = "ol";
                 }
               }
-              var indent = "  ".repeat(level);
-              text += indent + bullet;
+              // var indent = "  ".repeat(level);
+              if (
+                arr.findIndex(
+                  (d) =>
+                    d?.paragraph?.bullet?.listId ===
+                    block.paragraph.bullet?.listId
+                ) === idx
+              ) {
+                text += `<${bullet}>\n`;
+              }
+              text += "<li>";
+            } else if (namedStyleType.startsWith("HEADING_")) {
+              text += `<h${namedStyleType.replace("HEADING_", "")}>`;
+            } else if (namedStyleType === "NORMAL_TEXT") {
+              text += `<p>`;
             }
+
             block.paragraph.elements.forEach(function (element) {
               // console.log(element);
               if (!element.textRun) return;
@@ -82,9 +103,33 @@ module.exports = function (grunt) {
                 }
               text += content;
             });
+
+            if (block.paragraph?.bullet) {
+              text += "</li>\n";
+              const lastIdx =
+                arr.length -
+                [...arr]
+                  .reverse()
+                  .findIndex(
+                    (d) =>
+                      d.paragraph?.bullet?.listId ===
+                      block.paragraph.bullet?.listId
+                  ) -
+                1;
+              if (idx === lastIdx) {
+                text += `</${bullet}>\n`;
+              }
+            } else if (namedStyleType.startsWith("HEADING_")) {
+              text += `</h${namedStyleType.replace("HEADING_", "")}>\n`;
+            } else if (namedStyleType === "NORMAL_TEXT") {
+              text += `</p>\n`;
+            }
           });
 
-          text = text.replace(/\x0b/g, "\n");
+          text = text
+            .replace(/\x0b/g, "\n")
+            .replace(/<p>\n?<\/p>\n?/g, "")
+            .replace(/\n<\/(p|h\d|li)>/g, "</$1>");
 
           console.log(`Writing document as data/${name}`);
           grunt.file.write(path.join("data", name), text);

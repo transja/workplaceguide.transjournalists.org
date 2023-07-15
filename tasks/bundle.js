@@ -1,12 +1,11 @@
 /*
 Build a bundled app.js file using browserify
 */
-module.exports = function(grunt) {
-
+module.exports = function (grunt) {
   var { rollup } = require("rollup");
   var { nodeResolve } = require("@rollup/plugin-node-resolve");
   var commonJS = require("@rollup/plugin-commonjs");
-  var { babel }  = require("@rollup/plugin-babel");
+  var { babel } = require("@rollup/plugin-babel");
   var less = require("less");
   var fs = require("fs").promises;
   var path = require("path");
@@ -14,74 +13,71 @@ module.exports = function(grunt) {
   var { importText, importLESS } = require("./lib/rollup-plugins");
   var cache = null;
 
-  grunt.registerTask("bundle", "Build app.js using browserify", function(mode) {
-    //run in dev mode unless otherwise specified
-    mode = mode || "dev";
-    var done = this.async();
+  grunt.registerTask(
+    "bundle",
+    "Build app.js using browserify",
+    function (mode) {
+      //run in dev mode unless otherwise specified
+      mode = mode || "dev";
+      var done = this.async();
 
-    //specify starter files here - if you need additionally built JS, just add it.
-    var config = grunt.file.readJSON("project.json");
-    var seeds = config.scripts;
+      //specify starter files here - if you need additionally built JS, just add it.
+      var config = grunt.file.readJSON("project.json");
+      var seeds = config.scripts;
 
-    var plugins = [
-      nodeResolve({
-        rootDir: "node_modules",
-        browser: true
-      }),
-      importText(),
-      importLESS(),
-      commonJS({
-        requireReturnsDefault: "auto"
-      }),
-      babel({
-        targets: { browsers: ["safari >= 14"]},
-        babelHelpers: "bundled",
-        presets: [
-          "@babel/preset-env",
-        ]
-      })
-    ];
+      var plugins = [
+        nodeResolve({
+          rootDir: "node_modules",
+          browser: true,
+        }),
+        importText(),
+        importLESS(),
+        commonJS({
+          requireReturnsDefault: "auto",
+        }),
+        babel({
+          targets: { browsers: ["safari >= 14"] },
+          babelHelpers: "bundled",
+          presets: ["@babel/preset-env"],
+        }),
+      ];
 
-    grunt.file.mkdir("build");
+      grunt.file.mkdir("docs");
 
-    var bundle = async function() {
+      var bundle = async function () {
+        for (var [src, dest] of Object.entries(seeds)) {
+          var rolled = await rollup({
+            input: src,
+            plugins,
+            cache,
+          });
 
-      for (var [src, dest] of Object.entries(seeds)) {
+          cache = rolled.cache;
 
-        var rolled = await rollup({
-          input: src,
-          plugins,
-          cache
-        });
+          var { output } = await rolled.generate({
+            name: "interactive",
+            format: "umd",
+            sourcemap: true,
+            interop: "default",
+          });
 
-        cache = rolled.cache;
+          var [bundle] = output;
 
-        var { output } = await rolled.generate({
-          name: "interactive",
-          format: "umd",
-          sourcemap: true,
-          interop: "default"
-        });
+          var { code, map } = bundle;
 
-        var [ bundle ] = output;
+          // add source map reference
+          var smURL = `./${path.basename(dest)}.map`;
+          code += `\n//# sourceMappingURL=${smURL}`;
 
-        var { code, map } = bundle;
+          var writeCode = fs.writeFile(dest, code);
+          var writeMap = fs.writeFile(dest + ".map", map.toString());
 
-        // add source map reference
-        var smURL = `./${path.basename(dest)}.map`;
-        code += `\n//# sourceMappingURL=${smURL}`;
+          await Promise.all([writeCode, writeMap]);
+          console.log(`Wrote ${src} -> ${dest}`);
+        }
+      };
 
-        var writeCode = fs.writeFile(dest, code);
-        var writeMap = fs.writeFile(dest + ".map", map.toString());
-
-        await Promise.all([writeCode, writeMap]);
-        console.log(`Wrote ${src} -> ${dest}`);
-      }
-
-    };
-
-    bundle().then(done).catch(done);
-
-  });
-
+      bundle().then(done).catch(done);
+    }
+  );
 };

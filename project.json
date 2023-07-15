@@ -10,10 +10,10 @@
     }
   },
   "styles": {
-    "src/css/seed.less": "build/style.css"
+    "src/css/seed.less": "docs/style.css"
   },
   "scripts": {
-    "src/js/main.js": "build/app.js"
+    "src/js/main.js": "docs/app.js"
   },
   "title": "Trans Journalists Association Styleguide",
   "description": "",
@@ -26,7 +26,7 @@
   },
   "sheets": [],
   "docs": {
-    "2.0": "1_1QRqJ61CVOTPRUnELtPNrpoXag_qLuXfcn532fXb1s"
+    "v2": "1_1QRqJ61CVOTPRUnELtPNrpoXag_qLuXfcn532fXb1s"
   },
   "embedded": true,
   "production": false
