@@ -33,7 +33,7 @@ Common tasks that you may want to run include:
 * ``google-auth`` - authenticates your account against Google for private files
 * ``static`` - rebuilds files but doesn't start the dev server
 * ``cron`` - runs builds and deploys on a timer (see ``tasks/cron.js`` for details)
-* ``publish`` - ~~uploads files to the staging S3 bucket~~
+* ``publish`` - uploads files to the staging S3 bucket
 
   * ``publish:live`` uploads to production
   * ``publish:simulated`` does a dry run of uploaded files and their compressed sizes
@@ -43,7 +43,7 @@ Hosting
 
 Auth for TJA users
 -------------
-Create a file called `auth.json` in the project root folder using the shared credentials `Webmasters` vault.
+Create a file called ``auth.json`` in the project root folder using the shared credentials `Webmasters` vault.
 
 Troubleshooting
 ---------------
