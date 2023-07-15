@@ -14,7 +14,7 @@ To run this project you will need:
 
 With those installed, you can then set the project up using your terminal:
 
-#. Pull the code - ``git clone git@github.com:chalkbeat/styleguide.transjournalists.org``
+#. Pull the code - ``git clone git@github.com:transja/styleguide.transjournalists.org``
 #. Enter the project folder - ``cd styleguide.transjournalists.org``
 #. Install dependencies from NPM - ``npm install``
 #. Start the server - ``grunt``
@@ -24,6 +24,8 @@ Running tasks
 
 Like all interactive-template projects, this application uses the Grunt task runner to handle various build steps and deployment processes. To see all tasks available, run ``grunt --help``. ``grunt`` by itself will run the "default" task, which processes data and starts the development server. However, you can also specify a list of steps as arguments to Grunt, and it will run those in sequence. For example, you can just update the JavaScript and CSS assets in the build folder by using ``grunt bundle less``.
 
+Note that this repo will modify NPR's standard interactive-template project workflow to host on Github Pages instead of s3.
+
 Common tasks that you may want to run include:
 
 * ``sheets`` - updates local data from Google Sheets
@@ -31,10 +33,17 @@ Common tasks that you may want to run include:
 * ``google-auth`` - authenticates your account against Google for private files
 * ``static`` - rebuilds files but doesn't start the dev server
 * ``cron`` - runs builds and deploys on a timer (see ``tasks/cron.js`` for details)
-* ``publish`` - uploads files to the staging S3 bucket
+* ``publish`` - ~~uploads files to the staging S3 bucket~~
 
   * ``publish:live`` uploads to production
   * ``publish:simulated`` does a dry run of uploaded files and their compressed sizes
+
+Hosting
+---------------
+
+Auth for TJA users
+-------------
+Create a file called `auth.json` in the project root folder using the shared credentials `Webmasters` vault.
 
 Troubleshooting
 ---------------
