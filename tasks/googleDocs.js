@@ -47,20 +47,34 @@ module.exports = function (grunt) {
             suggestionsViewMode,
           });
 
-          var name = key + ".docs.txt";
+          var name = key + ".docs";
           var body = docResponse.data.body.content;
           var text = "";
 
           var lists = docResponse.data.lists;
+          const sections = [];
+          let currentSection = "";
 
           body.forEach(function (block) {
             if (!block.paragraph) return;
             const { namedStyleType } = block.paragraph?.paragraphStyle;
 
-            // if (namedStyleType.startsWith("HEADING_")) {
-            //   const level = Number(namedStyleType.replace("HEADING_", ""));
-            //   text += `${Array(level).fill("#").join("")} `;
-            // }
+            if (namedStyleType.startsWith("HEADING_")) {
+              const level = Number(namedStyleType.replace("HEADING_", ""));
+              if (level === 1) {
+                if (currentSection !== "") sections.push(currentSection);
+                currentSection = "";
+              }
+              if (
+                block.paragraph.elements
+                  .map((e) => e?.textRun.content)
+                  .join("")
+                  .trim() !== ""
+              ) {
+                text += `${Array(level).fill("#").join("")} `;
+                currentSection += `${Array(level).fill("#").join("")} `;
+              }
+            }
 
             if (block.paragraph.bullet) {
               var list = lists[block.paragraph.bullet.listId];
@@ -74,7 +88,9 @@ module.exports = function (grunt) {
               }
               var indent = "  ".repeat(level);
               text += indent + bullet;
+              currentSection += indent + bullet;
             }
+
             block.paragraph.elements.forEach(function (element) {
               // console.log(element);
               if (!element.textRun) return;
@@ -88,13 +104,20 @@ module.exports = function (grunt) {
                   }
                 }
               text += content;
+              currentSection += content;
             });
           });
 
           text = text.replace(/\x0b/g, "\n");
 
-          console.log(`Writing document as data/${name}`);
-          grunt.file.write(path.join("data", name), text);
+          console.log(`Writing document as data/${name}.txt`);
+          console.log(`Writing document as data/${name}.json`);
+
+          grunt.file.write(path.join("data", name + ".txt"), text);
+          grunt.file.write(
+            path.join("data", name + ".json"),
+            JSON.stringify(sections)
+          );
         });
         await Promise.all(batch);
       }

@@ -12,19 +12,19 @@ module.exports = function (grunt) {
     "Loads ArchieML files from data/*.txt",
     function () {
       grunt.task.requires("state");
-      grunt.data.archieml = {};
+      grunt.data.md = {};
 
       var files = grunt.file.expand("data/*.txt");
 
       files.forEach(function (f) {
         var name = path.basename(f).replace(/(\.docs)?\.txt$/, "");
-        var contents = grunt.file.read(f);
+        var raw = grunt.file.read(f);
+        var sections = JSON.parse(grunt.file.read(f.replace(".txt", ".json")));
 
-        var parsed = betty.parse(contents, {
-          onFieldName: (t) => t[0].toLowerCase() + t.slice(1),
-        });
-
-        grunt.data.archieml[name] = parsed;
+        grunt.data.md[name] = {
+          raw,
+          sections,
+        };
       });
     }
   );

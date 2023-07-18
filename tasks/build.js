@@ -10,16 +10,16 @@ var template = require("./lib/template");
 
 var path = require("path");
 var typogr = require("typogr");
-var stmd = require("commonmark");
+var MarkdownIt = require("markdown-it");
+var md = new MarkdownIt();
+var markdownItAttrs = require("markdown-it-attrs");
+var markdownItTocs = require("markdown-it-table-of-contents");
 
-var writer = new stmd.HtmlRenderer();
-var reader = new stmd.Parser();
-
-//monkey-patch writer to handle typographical entities
-var escape = writer.escape;
-writer.escape = function (str) {
-  return escape(str, true);
-};
+md.use(markdownItAttrs);
+md.use(markdownItTocs, {
+  format: (content) => content,
+  includeLevel: [1, 2, 3],
+});
 
 module.exports = function (grunt) {
   var process = function (source, data, filename) {
@@ -68,31 +68,31 @@ module.exports = function (grunt) {
   };
 
   grunt.template.renderMarkdown = function (input) {
-    var parsed = reader.parse(typogr.typogrify(input));
+    var rendered = md.render(input);
 
-    var walker = parsed.walker();
-    //merge text nodes together
-    var e;
-    var previous;
-    while ((e = walker.next())) {
-      var node = e.node;
-      //is this an adjacent text node?
-      if (
-        node &&
-        previous &&
-        previous.parent == node.parent &&
-        previous.type == "Text" &&
-        node.type == "Text"
-      ) {
-        previous.literal += node.literal;
-        // grunt.log.oklns(previous.literal);
-        node.unlink();
-      } else {
-        previous = node;
-      }
-    }
+    // var walker = parsed.walker();
+    // //merge text nodes together
+    // var e;
+    // var previous;
+    // while ((e = walker.next())) {
+    //   var node = e.node;
+    //   //is this an adjacent text node?
+    //   if (
+    //     node &&
+    //     previous &&
+    //     previous.parent == node.parent &&
+    //     previous.type == "Text" &&
+    //     node.type == "Text"
+    //   ) {
+    //     previous.literal += node.literal;
+    //     // grunt.log.oklns(previous.literal);
+    //     node.unlink();
+    //   } else {
+    //     previous = node;
+    //   }
+    // }
 
-    var rendered = writer.render(parsed);
+    // var rendered = writer.render(parsed);
     return rendered
       .replace(/&#8211;/g, "&mdash;")
       .replace(/([’']) ([”"])/g, "$1&nbsp;$2");

@@ -1,4 +1,1 @@
-<% for (const section in archieml.v2.styleguide) { %>
-<a href="#<%= section %>"><h1 id="<%= section %>"><%= archieml.v2.styleguide[section].headline %></h1></a>
-<%= t.renderMarkdown(archieml.v2.styleguide[section].text) %>
-<% } %>
+<%= t.renderMarkdown(md.v2.raw) %>
