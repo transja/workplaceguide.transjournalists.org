@@ -14,12 +14,14 @@ var MarkdownIt = require("markdown-it");
 var md = new MarkdownIt();
 var markdownItAttrs = require("markdown-it-attrs");
 var markdownItTocs = require("markdown-it-table-of-contents");
+var markdownItAnchor = require("markdown-it-anchor");
 
-md.use(markdownItAttrs);
 md.use(markdownItTocs, {
   format: (content) => content,
   includeLevel: [1, 2, 3],
 });
+md.use(markdownItAttrs);
+md.use(markdownItAnchor);
 
 module.exports = function (grunt) {
   var process = function (source, data, filename) {
