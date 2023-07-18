@@ -1,18 +1,4 @@
-<!doctype html>
-<html lang="en-US">
-  <head>
-    <%= t.include("partials/_head.html", grunt.data.json.project) %>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-
-    <%= t.include("partials/_header.html") %>
-    
-    <%= t.renderMarkdown(archieml.v2) %>
-
-    <%= t.include("partials/_footer.html") %>
-
-    <script src="app.js" async></script>
-    <%= t.include("partials/_analytics.html") %>
-  </body>
-</html>
+<% for (const section in archieml.v2.styleguide) { %>
+<a href="#<%= section %>"><h1 id="<%= section %>"><%= archieml.v2.styleguide[section].headline %></h1></a>
+<%= t.renderMarkdown(archieml.v2.styleguide[section].text) %>
+<% } %>

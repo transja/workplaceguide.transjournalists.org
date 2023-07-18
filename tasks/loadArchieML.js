@@ -24,7 +24,7 @@ module.exports = function (grunt) {
           onFieldName: (t) => t[0].toLowerCase() + t.slice(1),
         });
 
-        grunt.data.archieml[name] = contents;
+        grunt.data.archieml[name] = parsed;
       });
     }
   );

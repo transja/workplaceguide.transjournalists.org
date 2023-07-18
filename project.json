@@ -1,16 +1,6 @@
 {
-  "s3": {
-    "stage": {
-      "bucket": "staging.styleguide.transjournalists.org",
-      "path": ""
-    },
-    "live": {
-      "bucket": "styleguide.transjournalists.org",
-      "path": ""
-    }
-  },
   "styles": {
-    "src/css/seed.less": "docs/style.css"
+    "src/css/style.less": "docs/style.css"
   },
   "scripts": {
     "src/js/main.js": "docs/app.js"

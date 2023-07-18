@@ -22,9 +22,9 @@ module.exports = function (grunt) {
     var docs = google.docs({ auth, version: "v1" }).documents;
 
     var formatters = {
-      link: (text, style) => `<a href="${style.link.url}">${text}</a>`,
-      bold: (text) => `<b>${text}</b>`,
-      italic: (text) => `<i>${text}</i>`,
+      link: (text, style) => `[${text}](${style.link.url})`,
+      bold: (text) => `**${text}**`,
+      italic: (text) => `_${text}_`,
     };
 
     /*
@@ -53,42 +53,28 @@ module.exports = function (grunt) {
 
           var lists = docResponse.data.lists;
 
-          body.forEach(function (block, idx, arr) {
-            // if (block.paragraph?.paragraphStyle?.namedStyleType)
-            //   console.log(block.paragraph?.paragraphStyle?.namedStyleType);
+          body.forEach(function (block) {
             if (!block.paragraph) return;
-
             const { namedStyleType } = block.paragraph?.paragraphStyle;
 
-            let bullet = "";
-            if (block.paragraph?.bullet) {
-              const list = lists[block.paragraph.bullet?.listId];
-              const level = block.paragraph.bullet.nestingLevel || 0;
-              const style = list.listProperties.nestingLevels[level];
-              bullet = "ul";
+            // if (namedStyleType.startsWith("HEADING_")) {
+            //   const level = Number(namedStyleType.replace("HEADING_", ""));
+            //   text += `${Array(level).fill("#").join("")} `;
+            // }
 
+            if (block.paragraph.bullet) {
+              var list = lists[block.paragraph.bullet.listId];
+              var level = block.paragraph.bullet.nestingLevel || 0;
+              var style = list.listProperties.nestingLevels[level];
+              var bullet = "- ";
               if (style) {
                 if (style.glyphType == "DECIMAL") {
-                  bullet = "ol";
+                  bullet = "1. ";
                 }
               }
-              // var indent = "  ".repeat(level);
-              if (
-                arr.findIndex(
-                  (d) =>
-                    d?.paragraph?.bullet?.listId ===
-                    block.paragraph.bullet?.listId
-                ) === idx
-              ) {
-                text += `<${bullet}>\n`;
-              }
-              text += "<li>";
-            } else if (namedStyleType.startsWith("HEADING_")) {
-              text += `<h${namedStyleType.replace("HEADING_", "")}>`;
-            } else if (namedStyleType === "NORMAL_TEXT") {
-              text += `<p>`;
+              var indent = "  ".repeat(level);
+              text += indent + bullet;
             }
-
             block.paragraph.elements.forEach(function (element) {
               // console.log(element);
               if (!element.textRun) return;
@@ -103,33 +89,9 @@ module.exports = function (grunt) {
                 }
               text += content;
             });
-
-            if (block.paragraph?.bullet) {
-              text += "</li>\n";
-              const lastIdx =
-                arr.length -
-                [...arr]
-                  .reverse()
-                  .findIndex(
-                    (d) =>
-                      d.paragraph?.bullet?.listId ===
-                      block.paragraph.bullet?.listId
-                  ) -
-                1;
-              if (idx === lastIdx) {
-                text += `</${bullet}>\n`;
-              }
-            } else if (namedStyleType.startsWith("HEADING_")) {
-              text += `</h${namedStyleType.replace("HEADING_", "")}>\n`;
-            } else if (namedStyleType === "NORMAL_TEXT") {
-              text += `</p>\n`;
-            }
           });
 
-          text = text
-            .replace(/\x0b/g, "\n")
-            .replace(/<p>\n?<\/p>\n?/g, "")
-            .replace(/\n<\/(p|h\d|li)>/g, "</$1>");
+          text = text.replace(/\x0b/g, "\n");
 
           console.log(`Writing document as data/${name}`);
           grunt.file.write(path.join("data", name), text);
