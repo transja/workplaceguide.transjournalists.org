@@ -10,7 +10,7 @@
                 margin: 1em;
                 padding: 1em;
                 border: 3px dotted black;
-                /* max-width: 30vh; */
+                max-width: 30vh;
                 float: right;
                 max-height:60vh;
                 overflow-y: scroll;
@@ -24,23 +24,6 @@
     </head>
     <body>
         <%= t.renderMarkdown(md.v2.raw) %>
-        <script>
-            $('.table-of-contents > ul:first-child > li:first-child a').text('Introduction');
-            const search = $('<input type="text" id="search" placeholder="Search..." />').on('keydown', evt => {
-                if (evt.target.value !== '') {
-                $('.table-of-contents li').filter((i, el) => {
-                    return !$(el).text().toLowerCase().includes(evt.target.value.toLowerCase())
-                }).css('display', 'none');
-                $('.table-of-contents li').filter((i, el) => {
-                    return $(el).text().toLowerCase().includes(evt.target.value.toLowerCase())
-                }).css('display', 'list-item')
-            } else {
-                $('.table-of-contents li').css('display', 'list-item');
-            }
-            });
-            
-            $('.table-of-contents').prepend(search);
-            $('.table-of-contents').prepend($('<h5>Table of contents</h5>'));
-        </script>
+        <script src="app.js"></script>
     </body>
 </html>

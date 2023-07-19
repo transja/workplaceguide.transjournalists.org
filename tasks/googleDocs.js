@@ -111,12 +111,15 @@ module.exports = function (grunt) {
           text = text.replace(/\x0b/g, "\n");
 
           console.log(`Writing document as data/${name}.txt`);
+
+          const chunks = text.split(/\n(?=\#\s)/gm);
+
           console.log(`Writing document as data/${name}.json`);
 
           grunt.file.write(path.join("data", name + ".txt"), text);
           grunt.file.write(
             path.join("data", name + ".json"),
-            JSON.stringify(sections)
+            JSON.stringify(chunks)
           );
         });
         await Promise.all(batch);
