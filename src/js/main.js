@@ -6,20 +6,11 @@ $(".table-of-contents > ul:first-child > li:first-child a").text(
 const search = $(
   '<input type="text" id="search" placeholder="Search..." />'
 ).on("keyup", (evt) => {
-  const getId = (el) => {
-    return $(el).attr("id") || getId($(el).parent());
-  };
+  const getId = (el) => $(el).attr("id") || getId($(el).parent());
+
   if (evt.target.value !== "") {
     const matches = [
-      ...$("p,li,h1,h2,h3,h4,h5")
-        .not(
-          $(
-            "p,li,h1,h2,h3,h4,h5"
-              .split(",")
-              .map((d) => ".table-of-contents " + d)
-              .join(",")
-          )
-        )
+      ...$(":not(.table-of-contents) p,li,h1,h2,h3,h4,h5")
         .filter((i, el) =>
           $(el).text().toLowerCase().includes(evt.target.value.toLowerCase())
         )

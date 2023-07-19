@@ -7,7 +7,7 @@
   $(".table-of-contents > ul:first-child > li:first-child a").text("Introduction");
   const search = $('<input type="text" id="search" placeholder="Search..." />').on("keyup", evt => {
     if (evt.target.value !== "") {
-      const matches = [...$("p,li,h1,h2,h3,h4,h5").not($("p,li,h1,h2,h3,h4,h5".split(",").map(d => ".table-of-contents " + d).join(","))).filter((i, el) => $(el).text().toLowerCase().includes(evt.target.value.toLowerCase())).map((i, el) => $(el).attr("id") || $(el).prev("[id]").attr("id") || $(el).parent().attr("id") || $(el).parent().prev("[id]").attr("id"))].map(d => "#" + d);
+      const matches = [...$(":not(.table-of-contents) p,li,h1,h2,h3,h4,h5").filter((i, el) => $(el).text().toLowerCase().includes(evt.target.value.toLowerCase())).map((i, el) => $(el).attr("id") || $(el).prev("[id]").attr("id") || $(el).parent().attr("id") || $(el).parent().prev("[id]").attr("id"))].map(d => "#" + d);
       $(".table-of-contents ul.results").empty();
       $(".table-of-contents .search").css("display", "block");
       $(".table-of-contents ul:not(.results)").css("display", "none").children("li").each((i, el) => {
