@@ -1,29 +1,519 @@
-<html>
-    <head>
-        <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-        <style>
-            body {
-                font-family: sans-serif;
-            }
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>About this site</title>
+    <link
+      rel="stylesheet"
+      href="https://tja-staging.ghost.io/assets/built/screen.css?v=3dd03f2937"
+    />
 
-            .table-of-contents {
-                margin: 1em;
-                padding: 1em;
-                border: 3px dotted black;
-                max-width: 30vh;
-                float: right;
-                max-height:60vh;
-                overflow-y: scroll;
-                overflow-x: hidden;
-            }
-            
-            .table-of-contents li {
-                font-size: .8rem;
-            }
-        </style>
-    </head>
-    <body>
-        <%= t.renderMarkdown(md.v2.raw) %>
-        <script src="app.js"></script>
-    </body>
+    <link
+      rel="icon"
+      href="https://tja-staging.ghost.io/content/images/size/w256h256/2023/08/3-color-logo.png"
+      type="image/png"
+    />
+    <link rel="canonical" href="https://tja-staging.ghost.io/about/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+
+    <meta property="og:site_name" content="Trans Journalists Association" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="About this site" />
+    <meta
+      property="og:description"
+      content="TJA Staging is an independent publication launched in August 2023 by Aendra Rininsland. If you subscribe today, you&#x27;ll get full access to the website as well as email newsletters about new content when it&#x27;s available. Your subscription makes this site possible, and allows TJA Staging to continue to exist. Thank"
+    />
+    <meta property="og:url" content="https://tja-staging.ghost.io/about/" />
+    <meta
+      property="og:image"
+      content="https://static.ghost.org/v4.0.0/images/publication-cover.jpg"
+    />
+    <meta
+      property="article:published_time"
+      content="2023-08-15T16:31:08.000Z"
+    />
+    <meta property="article:modified_time" content="2023-08-15T16:31:20.000Z" />
+    <meta
+      property="article:publisher"
+      content="https://www.facebook.com/ghost"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="About this site" />
+    <meta
+      name="twitter:description"
+      content="TJA Staging is an independent publication launched in August 2023 by Aendra Rininsland. If you subscribe today, you&#x27;ll get full access to the website as well as email newsletters about new content when it&#x27;s available. Your subscription makes this site possible, and allows TJA Staging to continue to exist. Thank"
+    />
+    <meta name="twitter:url" content="https://tja-staging.ghost.io/about/" />
+    <meta
+      name="twitter:image"
+      content="https://static.ghost.org/v4.0.0/images/publication-cover.jpg"
+    />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Aendra Rininsland" />
+    <meta name="twitter:site" content="@ghost" />
+    <meta property="og:image:width" content="7183" />
+    <meta property="og:image:height" content="2885" />
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Trans Journalists Association",
+          "url": "https://tja-staging.ghost.io/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://tja-staging.ghost.io/content/images/2023/08/3-color-logo-with-name-1.png"
+          }
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Aendra Rininsland",
+          "url": "https://tja-staging.ghost.io/author/aendra/",
+          "sameAs": []
+        },
+        "headline": "About this site",
+        "url": "https://tja-staging.ghost.io/about/",
+        "datePublished": "2023-08-15T16:31:08.000Z",
+        "dateModified": "2023-08-15T16:31:20.000Z",
+        "description": "TJA Staging is an independent publication launched in August 2023 by Aendra Rininsland. If you subscribe today, you&#x27;ll get full access to the website as well as email newsletters about new content when it&#x27;s available. Your subscription makes this site possible, and allows TJA Staging to continue to exist. Thank you!\n\n\nAccess all areas\n\nBy signing up, you&#x27;ll get access to the full archive of everything that&#x27;s been published before and everything that&#x27;s still to come. Your very own private library",
+        "mainEntityOfPage": "https://tja-staging.ghost.io/about/"
+      }
+    </script>
+
+    <meta name="generator" content="Ghost 5.59" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Trans Journalists Association"
+      href="https://tja-staging.ghost.io/rss/"
+    />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/ghost/portal@~2.34/umd/portal.min.js"
+      data-i18n="false"
+      data-ghost="https://tja-staging.ghost.io/"
+      data-key="fcdeab02109a9d525e3bd2ca65"
+      data-api="https://tja-staging.ghost.io/ghost/api/content/"
+      crossorigin="anonymous"
+    ></script>
+    <style id="gh-members-styles">
+      .gh-post-upgrade-cta-content,
+      .gh-post-upgrade-cta {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+        text-align: center;
+        width: 100%;
+        color: #ffffff;
+        font-size: 16px;
+      }
+
+      .gh-post-upgrade-cta-content {
+        border-radius: 8px;
+        padding: 40px 4vw;
+      }
+
+      .gh-post-upgrade-cta h2 {
+        color: #ffffff;
+        font-size: 28px;
+        letter-spacing: -0.2px;
+        margin: 0;
+        padding: 0;
+      }
+
+      .gh-post-upgrade-cta p {
+        margin: 20px 0 0;
+        padding: 0;
+      }
+
+      .gh-post-upgrade-cta small {
+        font-size: 16px;
+        letter-spacing: -0.2px;
+      }
+
+      .gh-post-upgrade-cta a {
+        color: #ffffff;
+        cursor: pointer;
+        font-weight: 500;
+        box-shadow: none;
+        text-decoration: underline;
+      }
+
+      .gh-post-upgrade-cta a:hover {
+        color: #ffffff;
+        opacity: 0.8;
+        box-shadow: none;
+        text-decoration: underline;
+      }
+
+      .gh-post-upgrade-cta a.gh-btn {
+        display: block;
+        background: #ffffff;
+        text-decoration: none;
+        margin: 28px 0 0;
+        padding: 8px 18px;
+        border-radius: 4px;
+        font-size: 16px;
+        font-weight: 600;
+      }
+
+      .gh-post-upgrade-cta a.gh-btn:hover {
+        opacity: 0.92;
+      }
+    </style>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js"
+      data-key="fcdeab02109a9d525e3bd2ca65"
+      data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css"
+      data-sodo-search="https://tja-staging.ghost.io/"
+      crossorigin="anonymous"
+    ></script>
+
+    <link
+      href="https://tja-staging.ghost.io/webmentions/receive/"
+      rel="webmention"
+    />
+    <script
+      defer
+      src="https://tja-staging.ghost.io/public/cards.min.js?v=3dd03f2937"
+    ></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://tja-staging.ghost.io/public/cards.min.css?v=3dd03f2937"
+    />
+    <script
+      defer
+      src="https://tja-staging.ghost.io/public/member-attribution.min.js?v=3dd03f2937"
+    ></script>
+    <style>
+      :root {
+        --ghost-accent-color: #a584b2;
+      }
+    </style>
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+
+      .table-of-contents {
+        margin: 1em;
+        padding: 1em;
+        border: 3px dotted black;
+        max-width: 30vh;
+        position: fixed;
+        right: -10%;
+        opacity: 0.3;
+        max-height: 60vh;
+        overflow-y: scroll;
+        overflow-x: hidden;
+      }
+
+      .table-of-contents:hover {
+        opacity: 1;
+        right: 0;
+        transition: opacity 1s;
+      }
+
+      .table-of-contents li {
+        font-size: 1em;
+        line-height: 1.2em;
+      }
+
+      h1 {
+        margin-top: 0 !important;
+      }
+
+      .gh-content {
+        margin-top: 0 !important;
+      }
+
+      .gh-main {
+        padding-top: 2em !important;
+      }
+    </style>
+  </head>
+
+  <body class="page-template page-about is-head-left-logo">
+    <div class="gh-site">
+      <header id="gh-head" class="gh-head gh-outer">
+        <div class="gh-head-inner gh-inner">
+          <div class="gh-head-brand">
+            <div class="gh-head-brand-wrapper">
+              <a class="gh-head-logo" href="https://tja-staging.ghost.io">
+                <img
+                  src="https://tja-staging.ghost.io/content/images/2023/08/3-color-logo-with-name-1.png"
+                  alt="Trans Journalists Association"
+                />
+              </a>
+            </div>
+            <button
+              class="gh-search gh-icon-btn"
+              aria-label="Search this site"
+              data-ghost-search
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                stroke-width="2"
+                width="20"
+                height="20"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                ></path>
+              </svg>
+            </button>
+            <button class="gh-burger"></button>
+          </div>
+
+          <nav class="gh-head-menu">
+            <ul class="nav">
+              <li class="nav-home">
+                <a href="https://tja-staging.ghost.io/">Home</a>
+              </li>
+              <li class="nav-about nav-current">
+                <a href="https://tja-staging.ghost.io/about/">About</a>
+              </li>
+              <li class="nav-style-guide">
+                <a href="https://styleguide.transjournalists.org"
+                  >Style Guide</a
+                >
+              </li>
+              <li class="nav-for-employers">
+                <a href="https://tja-staging.ghost.io/for-employers/"
+                  >For Employers</a
+                >
+              </li>
+              <li class="nav-support-tja">
+                <a href="https://tja-staging.ghost.io/support-tja/"
+                  >Support TJA</a
+                >
+              </li>
+              <li class="nav-contact-us">
+                <a href="https://tja-staging.ghost.io/contact-us/"
+                  >Contact Us</a
+                >
+              </li>
+            </ul>
+          </nav>
+
+          <div class="gh-head-actions">
+            <button
+              class="gh-search gh-icon-btn"
+              aria-label="Search this site"
+              data-ghost-search
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                stroke-width="2"
+                width="20"
+                height="20"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                ></path>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <main id="gh-main" class="gh-main">
+        <article class="gh-article post no-image">
+          <div class="gh-content gh-canvas">
+            <%= t.renderMarkdown(md.v2.raw) %>
+          </div>
+        </article>
+      </main>
+
+      <ul class="resources">
+        <li>
+          <a class="card-link" href="https://styleguide.transjournalists.org">
+            <div
+              class="card-wrapper"
+              href="https://styleguide.transjournalists.org"
+            >
+              <img
+                class="card-image"
+                src="https://tja-staging.ghost.io/assets/images/icons/guide-book.png"
+              />
+              <h4 class="card-header">Style Guide</h4>
+              <div class="card-text">
+                A tool for reporters, editors and other media makers can use to
+                begin to improve trans coverage.
+              </div>
+            </div>
+          </a>
+        </li>
+        <li>
+          <a
+            class="card-link"
+            href="https://tja-staging.ghost.io/for-employers/"
+          >
+            <div class="card-wrapper">
+              <img
+                class="card-image"
+                src="https://tja-staging.ghost.io/assets/images/icons/portfolio.png"
+              />
+              <h4 class="card-header">Employer Resources</h4>
+              <div class="card-text">
+                Resources for employers to make their workplaces more supportive
+                for transgender employees.
+              </div>
+            </div>
+          </a>
+        </li>
+        <li>
+          <a class="card-link" href="https://tja-staging.ghost.io/news/">
+            <div class="card-wrapper">
+              <img
+                class="card-image"
+                src="https://tja-staging.ghost.io/assets/images/icons/newspaper.png"
+              />
+              <h4 class="card-header">News</h4>
+              <div class="card-text">
+                The latest from members of Trans Journalists accociation.
+              </div>
+            </div>
+          </a>
+        </li>
+      </ul>
+      <div class="gh-subscribe">
+        <div class="gh-outer">
+          <section class="gh-subscribe-inner">
+            <h3 class="gh-subscribe-title">
+              Subscribe to Trans Journalists Association
+            </h3>
+            <div class="gh-subscribe-description">
+              Don’t miss out on the latest posts. Sign up to be informed of
+              updates from the TJA.
+            </div>
+            <a
+              class="gh-subscribe-input"
+              href="#/portal/signup"
+              data-portal="signup"
+            >
+              <div class="gh-subscribe-input-text">
+                <svg
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                  stroke="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M3.33332 3.33334H16.6667C17.5833 3.33334 18.3333 4.08334 18.3333 5.00001V15C18.3333 15.9167 17.5833 16.6667 16.6667 16.6667H3.33332C2.41666 16.6667 1.66666 15.9167 1.66666 15V5.00001C1.66666 4.08334 2.41666 3.33334 3.33332 3.33334Z"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M18.3333 5L9.99999 10.8333L1.66666 5"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+                jamie@example.com
+              </div>
+              <div class="gh-subscribe-input-btn">Subscribe</div>
+            </a>
+          </section>
+        </div>
+      </div>
+
+      <footer class="gh-foot no-menu gh-outer">
+        <div class="gh-foot-inner gh-inner">
+          <div class="gh-copyright">Trans Journalists Association © 2023</div>
+          <div class="gh-powered-by">
+            <a href="https://hairysquid.com/" target="_blank" rel="noopener"
+              >Website by hairysquid</a
+            >
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="pswp__bg"></div>
+
+      <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+          <div class="pswp__item"></div>
+          <div class="pswp__item"></div>
+          <div class="pswp__item"></div>
+        </div>
+
+        <div class="pswp__ui pswp__ui--hidden">
+          <div class="pswp__top-bar">
+            <div class="pswp__counter"></div>
+
+            <button
+              class="pswp__button pswp__button--close"
+              title="Close (Esc)"
+            ></button>
+            <button
+              class="pswp__button pswp__button--share"
+              title="Share"
+            ></button>
+            <button
+              class="pswp__button pswp__button--fs"
+              title="Toggle fullscreen"
+            ></button>
+            <button
+              class="pswp__button pswp__button--zoom"
+              title="Zoom in/out"
+            ></button>
+
+            <div class="pswp__preloader">
+              <div class="pswp__preloader__icn">
+                <div class="pswp__preloader__cut">
+                  <div class="pswp__preloader__donut"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"
+          >
+            <div class="pswp__share-tooltip"></div>
+          </div>
+
+          <button
+            class="pswp__button pswp__button--arrow--left"
+            title="Previous (arrow left)"
+          ></button>
+          <button
+            class="pswp__button pswp__button--arrow--right"
+            title="Next (arrow right)"
+          ></button>
+
+          <div class="pswp__caption">
+            <div class="pswp__caption__center"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://tja-staging.ghost.io/assets/built/main.min.js?v=3dd03f2937"></script>
+
+    <script src="app.js"></script>
+  </body>
 </html>
