@@ -122,7 +122,9 @@ There is never a reason to explain the use of standard _they/them_, _he/him,_ or
 ### gender-neutral pronouns { #gender-neutral-pronouns updated="2023-08-21" }
 Use this language to describe _they/them_ and other gender-neutral pronouns, such as _ze/hir_ and _ey/em_. 
 
-_Further reading on the history of pronouns:_ 
+\<div class="readmore-text" markdown="1">
+
+_`Further reading on the history of pronouns:_ 
 - [Gender-Neutral Pronouns 101: Everything You've Always Wanted to Know](https://www.them.us/story/gender-neutral-pronouns-101-they-them-xe-xem)
 - [Nonbinary pronouns are older than you think](https://blogs.illinois.edu/view/25/705317)
 - [Gender-bending, time-traveling pronouns: A history](https://apnews.com/article/entertainment-illinois-north-america-lifestyle-womens-rights-18c894ea53a34098afded1afe0c38e1a)
@@ -130,7 +132,9 @@ _Further reading on the history of pronouns:_
 _Further reading on language and grammar:_
 - [Neopronouns explained](https://intercultural.uncg.edu/wp-content/uploads/Neopronouns-Explained-UNCG-Intercultural-Engagement.pdf)
 - [Singular “They”](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they)
-- [Gender and Language](https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/)
+- [Gender and Language](https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/)`
+
+\</div>
 
 ### multiple pronouns { #multiple-pronouns updated="2023-08-21" }
 Some people use multiple sets of pronouns, e.g. an individual who uses both _he/him_ and _they/them_. Openness to using multiple pronouns is sometimes indicated (such as in someone’s social media profile) with spellings like _he/they_; this is increasingly common among cisgender people as well. Others may indicate they use “any” or “all” pronouns, which generally means the standard _he/him_, _she/her_, and _they/them_ are all acceptable.
