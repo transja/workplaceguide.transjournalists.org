@@ -1,5 +1,12 @@
+@purple-1: #9D47BF;
+@purple-2: #A584B2;
+@teal-2: #2F8789;
+@yellow-2: #F9A011;
+
+@content-width: 900px;
+
 :root {
-  --ghost-accent-color: #a584b2;
+  --ghost-accent-color: @purple-1;
 }
 
 body {
@@ -32,6 +39,29 @@ body {
 
 h1 {
   margin-top: 10v !important;
+  display: inline-block;
+  position: relative;
+  margin: 0 auto;
+
+  &:before {
+    content: '';
+    width: 50%;
+    height: .05em;
+    background: @teal-2;
+    position: absolute;
+    margin:0 auto;
+    top: -.5em;
+    left: 0;
+    right: 0;
+  }
+}
+
+#intro {
+  margin-top: 0;
+  
+  &:before {
+    display:none;
+  }
 }
 
 .gh-content {
@@ -40,4 +70,9 @@ h1 {
 
 .gh-main {
   padding-top: 2em !important;
+}
+
+.gh-override-canvas {
+  width: 900px;
+  margin: 0 auto;
 }

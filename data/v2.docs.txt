@@ -1,6 +1,6 @@
 [[toc]]
 
-# TJA Stylebook and Coverage Guide { #intro updated="2023-08-21" }
+# Style and Coverage Guide { #intro updated="2023-08-21" }
 
 The Transgender Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
@@ -12,53 +12,29 @@ This guide also includes links to additional industry resources on covering tran
 
 And finally: The words some trans people use to describe themselves might differ from or even contradict parts of this guide. The English lexicon of gender, sex, and sexuality is dynamic and ever-changing, and trans communities are internally diverse. Where our stylebook is silent, honor the way someone speaks about themself whenever possible, and let that guide you.
 
-_If you run into a reporting or editing issue that isn’t addressed in this guide — or you’re just trying to figure out how to interpret and apply our guidance — please reach out to our style guide editor at_ _[styleguide@transjournalists.org](mailto:styleguide@transjournalists.org)__._
-
 This guide contains the following sections:
 
-- **Editorial Best Practices:** High-level advice that applies to nearly any newsroom, beat, or story that involves trans people and issues.
-- **Gender, Name, and Pronoun Usage:** General guidance on common terms and reporting questions related to writing about trans people accurately.
-- **Politicized or Inaccurate Phrases:** Definitions and context on terms that have inconsistent usage, meaning, or interpretation.
-- **Topical Guides:** More in-depth best practices for breaking news, criminal justice, health care, and sports stories, and shorter entries on a few other topics.
-- **Photography and Visual Media:** Guidance on practical and ethical concerns for visuals production and selection on stories about trans people.
-- **Glossary of Terms:** Definitions of common terms that may come up in the course of newsgathering.
+- **[Editorial Best Practices](#section-best-practices)****:** High-level advice that applies to nearly any newsroom, beat, or story that involves trans people and issues.
+- **[Gender, Name, and Pronoun Usage](#section-usage)****:** General guidance on common terms and reporting questions related to writing about trans people accurately.
+- **[Politicized or Inaccurate Phrases](#section-phrasing)****:** Definitions and context on terms that have inconsistent usage, meaning, or interpretation.
+- **[Topical Guides](#section-topical-guides)****:** More in-depth best practices for breaking news, criminal justice, health care, and sports stories, and shorter entries on a few other topics.
+- **[Photography and Visual Media](#section-visuals)****:** Guidance on practical and ethical concerns for visuals production and selection on stories about trans people.
+- **[Glossary of Terms](#section-glossary)****:** Definitions of common terms that may come up in the course of newsgathering.
+- **[Further Reading](#section-further-reading)****:** Links to useful resources, as well as a list of every article linked in this style guide.
 
-_Additional resources on trans coverage best practices:_
-- [Five tips for journalists on covering trans and nonbinary people](https://www.cjr.org/analysis/trans-nonbinary-subjects-tips.php) from Columbia Journalism Review
-- [The complexities and nuances of transgender coverage](https://www.cjr.org/analysis/trans-coverage-guide-suggestions.php) from Columbia Journalism Review
-- [Reporting on the transgender community](https://nbcuacademy.com/jo-yurcaba-reporting-transgender-community/) from NBCU Academy
-- [How journalists can improve their coverage of the trans community](https://www.nbcuacademy.com/catalog/tuck-woodstock-transgender-journalists-trans-community) from NBCU Academy
-- [Transgender Coverage Topical Guide](https://www.apstylebook.com/topical_most_recent) from The Associated Press
-- [Making Your Writing and Reporting Transgender-Inclusive](https://www.theopennotebook.com/2020/09/22/making-your-writing-and-reporting-transgender-inclusive/) from The Open Notebook
-
-_Additional resources on industry best practices relevant to trans coverage:_
-- [A Journalist’s Guide to Avoiding Lawsuits and Other Legal Dangers](https://gijn.org/2021/09/01/a-journalists-guide-to-avoiding-lawsuits-and-other-legal-dangers/) from the Global Investigative Journalism Network
-- [A Guide to Covering Hate Speech Without Amplifying It](https://ethics.journalism.wisc.edu/2020/06/29/a-guide-to-covering-hate-speech-without-amplifying-it/) from the University of Wisconsin–Madison Center for Journalism Ethics
-- [How Do Reporters Practice Solidarity In Journalism?](https://mediaengagement.org/solidarity-journalism/) from the University of Texas at Austin Center for Media Engagement
-- [Why Should I Tell You?: A Guide to Less-Extractive Reporting](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/) from the University of Wisconsin–Madison Center for Journalism Ethics
-- [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling) from the Associated Press
-
-_Additional journalistic style guides:_
-- [Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide) from the Columbia Journalism School’s Dart Center
-- [Reporting Guides](https://najanewsroom.com/reporting-guides/) from the Native American Journalists Association 
-- [NABJ Style Guide](https://nabjonline.org/news-media-center/styleguide/) from the National Association of Black Journalists
-- [NAHJ Cultural Competence Handbook](https://nahj.org/nahj-cultural-competence-handbook/) from the National Association of Hispanic Journalists
-- [Disability Language Style Guide](https://ncdj.org/style-guide/) from the National Center on Disability and Journalism
-- [NLGJA Stylebook on LGBTQ+ Terminology](https://www.nlgja.org/stylebook/) from NLGJA: The Association of LGBTQ+ Journalists
+_If you run into a reporting or editing issue that isn’t addressed in this guide — or you’re just trying to figure out how to interpret and apply our guidance — please reach out to our style guide editor at_ _[styleguide@transjournalists.org](mailto:styleguide@transjournalists.org)__._
 
 _Last published [[date:DATETIME_FULL]]_
 
 **!!!!!CITATIONS, ETC HAVE NOT BEEN FACT-CHECKED YET. REMOVE THIS ONLY AFTER FINAL FACT-CHECK!!!!!**
 
-# Section 1 — Editorial Best Practices { #section-best-practices updated="2023-08-21" }
+
+# Editorial Best Practices { #section-best-practices updated="2023-08-21" }
 
 Trans people — not their parents, children, friends, colleagues, or critics — should be at the heart of stories written about them. Trans people aren’t necessarily experts about gender or trans issues broadly, but their experiences and perspectives are critical to nuanced, thoughtful coverage. In too many cases, trans people are featured as characters in a story whose framing is built around cisgender sources’ voices and assumptions — where trans people feature at all. 
 
 ### self-identification is paramount { #self-id updated="2023-08-21" }
 The best way to determine a person's gender, name, and pronouns is to [ask them directly](https://www.theopennotebook.com/guide-to-tracking-source-diversity/). Police reports, public documents, or statements from family members can incorrectly identify someone. Even social media profiles can be misleading, outdated, or incomplete. 
-
-_Additional resources:_
-- TJA newsletter explainer TK
 
 ### what to do if you can’t obtain self-identification { #no-self-id updated="2023-08-21" }
 If it is not possible to obtain self-identification directly from an individual, reference publicly available information and explain where someone’s identity is unclear (e.g. a social media post by an individual’s friend that contradicts a police report). Avoid identifying someone in a specific way based on, for instance, [joke pronouns](https://www.washingtonpost.com/outlook/please-stop-making-jokes-about-gender-pronouns-when-people-tell-you-theirs/2019/12/11/8f6a063a-0a4d-11ea-8397-a955cd542d00_story.html) (like “[Prosecute/Fauci](https://twitter.com/elonmusk/status/1601894132573605888?s=20&t=aLV0JH6LGhKMYKYed2T9Fw)”) or unspecific comments. Journalists have mistakenly identified people as transgender or nonbinary based on [partial information](https://www.cbsnews.com/news/billy-dee-williams-clarifies-he-is-not-gender-fluid-the-undefeated-esquire/), only for those individuals to later clarify that they are cisgender. 
@@ -90,7 +66,8 @@ Stories about trans communities cross every beat. Just because a trans person is
 
 For instance, when covering legislation that seeks to limit transgender people’s access to health care, consider the advice offered by the [Association for Health Care Journalists](https://healthjournalism.org/) (in addition to this stylebook’s _[health care](#subsection-health-care)_ topical guide); when covering gun violence that involves transgender victims, consult the recommendations of the [Dart Center for Journalism and Trauma](https://dartcenter.org/) (see _[crimes involving trans people](#crimes)_); when covering stories that involve trans youth, refer to guidance from  the [Education Writers Association](https://ewa.org/story-ideas/standards-ethics-for-education-reporters) (see _[publishing identifying information on trans children](#trans-children)_); and so on. 
 
-# Section 2 — Gender, Name, and Pronoun Usage { #section-usage updated="2023-08-21" }
+
+# Gender, Name, and Pronoun Usage { #section-usage updated="2023-08-21" }
 ## 1.1 Gender { #subsection-gender updated="2023-08-21" }
 
 ### don’t guess anyone’s gender identity or pronouns { #do-not-guess updated="2023-08-21" }
@@ -188,7 +165,8 @@ _Examples of stories that address uncertain gender identity:_
 - [Nashville shooting suspect’s gender sets attack apart from most mass shootings](https://19thnews.org/2023/03/nashville-shooting-suspect-gender-covenant-school/) from The 19th*
 - [Details about the Nashville shooter's gender identity sow confusion and disinformation](https://www.nbcnews.com/feature/nbc-out/details-nashville-shooters-gender-identity-sow-confusion-disinformatio-rcna77424) from NBC News
 
-# Section 3 — Politicized or Inaccurate Phrases { #section-phrasing updated="2023-08-21" }
+
+# Politicized or Inaccurate Phrases { #section-phrasing updated="2023-08-21" }
 
 ### assigned sex at birth { #asab updated="2023-08-21" }
 _Assigned sex at birth_ is the sex marker given to a person based on anatomical and other physical traits observed at birth. The purpose of this wording is to clarify that people are _given_ sex and gender labels by other people, such as medical professionals; [they do not simply](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/) _[have](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/)_ [these labels automatically](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/). _Assigned sex_, _birth sex,_ and _natal sex_ are roughly equivalent terms, but _biological sex_ requires additional nuance (see _[biological sex](#biological-sex)_). 
@@ -283,7 +261,8 @@ The terms _trans male_ and _trans female_ can be ambiguous because some use _tra
 
 If a source uses these phrases, ask them to clarify what they mean and paraphrase, rather than quoting directly. Outside of quotes, use _trans man_, _trans woman_, _nonbinary_ _person,_ etc_._ as appropriate. Where necessary, use more specific language (_trans people who can get pregnant_, _transfeminine people_, etc.). 
 
-# Section 4 — Topical Guides { #section-topical-guides updated="2023-08-21" }
+
+# Topical Guides { #section-topical-guides updated="2023-08-21" }
 
 ## 4.1 Breaking News Topical Guide { #subsection-breaking-news updated="2023-08-21" }
 
@@ -525,7 +504,8 @@ Depending on which documents someone has changed, courts and government agencies
 ### the “losing a loved one” cliche { #losing-loved-one updated="2023-08-21" }
 While the friends and family of a newly out trans person may need time to process, avoid framing their grief as being more central to the story than the trans person’s own coming out. Comparisons to “losing a loved one” are inappropriate if the trans person in question has not died.
 
-# Section 5 — Photography and Visual Media { #section-visuals updated="2023-08-21" }
+
+# Photography and Visual Media { #section-visuals updated="2023-08-21" }
 
 ### obscure information that could endanger sources { #photo-safety updated="2023-08-21" }
 Sources in regions that are actively criminalizing trans people, their caregivers, or medical or other professionals associated with their care may be at increased risk for violence or retaliation. Consider carefully how a particular image or video clip could have safety implications for a trans person or their loved ones. 
@@ -555,6 +535,7 @@ Vague or misleading cutlines can lead viewers to draw inaccurate conclusions abo
 Take care to avoid stock photos that falsely imply medical abuse or are easily misconstrued. A story that uses a generic photo of a crying child getting a shot, for example, should not suggest the child is shown receiving puberty-blocking medication unless this is the case. Images of surgical equipment, etc., may likewise be inappropriate if cutlines associate the photos with transition-related medical care when the stock image has no such relation. 
 
 Using stock photos of unidentified people who “look” stereotypically queer to illustrate stories about trans-related topics is usually in poor taste. Stock images depicting models who are actually trans or nonbinary are a respectful alternative.
+
 
 # Glossary of Terms { #section-glossary updated="2023-08-21" }
 
@@ -676,10 +657,41 @@ A term coined by writer [Trudy on her blog Gradient Lair](https://web.archive.or
 A term that often refers to someone who has sought gender-affirming medical care. Once the dominant word to describe someone who wants or seeks treatment for gender dysphoria, this is now a more niche and intracommunity term. Some consider it outdated or offensive. It may be appropriate to include the word if quoting historical materials, or if someone self-describes in this manner.
 
 ### transvestite (n.) { #def-transvestite updated="2023-08-21" }
-A medical term coined in the early 1900s to describe patients who dressed as another gender. Now widely considered offensive.
+A medical term coined in the early 1900s to describe patients who dressed as another gender. Now widely considered offensive. See _[crossdresser](#def-crossdresser)__._
 
 ### trans woman (n.) { #def-trans-woman updated="2023-08-21" }
 A woman who is trans. _Trans woman_ is two words, with _trans_ simply modifying the broader category of _woman._ The one-word compound _transwoman_ is outdated but has recently been adopted by some anti-trans political groups; do not use it in news copy.
 
 ### Two-Spirit (adj.) { #def-two-spirit updated="2023-08-21" }
 A term used by some trans and queer people that broadly encompasses Indigenous identity and spirituality, always capitalized. It can mean different things in various tribal and cultural contexts. When an Indigenous person uses this label for themself, ask how they define it and include appropriate context about their tribal or national identity. Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, but standardize spelling otherwise.
+
+
+# Further Reading { #section-further-reading updated="2023-08-21" }
+
+### trans coverage best practices { #read-best-practices updated="2023-08-21" }
+
+- [Five tips for journalists on covering trans and nonbinary people](https://www.cjr.org/analysis/trans-nonbinary-subjects-tips.php) from Columbia Journalism Review
+- [The complexities and nuances of transgender coverage](https://www.cjr.org/analysis/trans-coverage-guide-suggestions.php) from Columbia Journalism Review
+- [Reporting on the transgender community](https://nbcuacademy.com/jo-yurcaba-reporting-transgender-community/) from NBCU Academy
+- [How journalists can improve their coverage of the trans community](https://www.nbcuacademy.com/catalog/tuck-woodstock-transgender-journalists-trans-community) from NBCU Academy
+- [Transgender Coverage Topical Guide](https://www.apstylebook.com/topical_most_recent) from The Associated Press
+- [Making Your Writing and Reporting Transgender-Inclusive](https://www.theopennotebook.com/2020/09/22/making-your-writing-and-reporting-transgender-inclusive/) from The Open Notebook
+
+### trans-relevant journalism best practices { #read-broader-practices updated="2023-08-21" }
+
+- [A Journalist’s Guide to Avoiding Lawsuits and Other Legal Dangers](https://gijn.org/2021/09/01/a-journalists-guide-to-avoiding-lawsuits-and-other-legal-dangers/) from the Global Investigative Journalism Network
+- [A Guide to Covering Hate Speech Without Amplifying It](https://ethics.journalism.wisc.edu/2020/06/29/a-guide-to-covering-hate-speech-without-amplifying-it/) from the University of Wisconsin–Madison Center for Journalism Ethics
+- [How Do Reporters Practice Solidarity In Journalism?](https://mediaengagement.org/solidarity-journalism/) from the University of Texas at Austin Center for Media Engagement
+- [Why Should I Tell You?: A Guide to Less-Extractive Reporting](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/) from the University of Wisconsin–Madison Center for Journalism Ethics
+- [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling) from the Associated Press
+
+### trans-relevant style guides { #read-style-guides updated="2023-08-21" }
+
+- [Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide) from the Columbia Journalism School’s Dart Center
+- [Reporting Guides](https://najanewsroom.com/reporting-guides/) from the Native American Journalists Association 
+- [NABJ Style Guide](https://nabjonline.org/news-media-center/styleguide/) from the National Association of Black Journalists
+- [NAHJ Cultural Competence Handbook](https://nahj.org/nahj-cultural-competence-handbook/) from the National Association of Hispanic Journalists
+- [Disability Language Style Guide](https://ncdj.org/style-guide/) from the National Center on Disability and Journalism
+- [NLGJA Stylebook on LGBTQ+ Terminology](https://www.nlgja.org/stylebook/) from NLGJA: The Association of LGBTQ+ Journalists
+
+_links by section_
