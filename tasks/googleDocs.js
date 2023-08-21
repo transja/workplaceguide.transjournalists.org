@@ -22,9 +22,9 @@ module.exports = function (grunt) {
     var docs = google.docs({ auth, version: "v1" }).documents;
 
     var formatters = {
-      link: (text, style) => `[${text}](${style.link.url})`,
       bold: (text) => `**${text}**`,
       italic: (text) => `_${text}_`,
+      link: (text, style) => `[${text}](${style.link.url})`,
     };
 
     /*
@@ -57,6 +57,7 @@ module.exports = function (grunt) {
 
           body.forEach(function (block) {
             if (!block.paragraph) return;
+
             const { namedStyleType } = block.paragraph?.paragraphStyle;
 
             if (namedStyleType.startsWith("HEADING_")) {
