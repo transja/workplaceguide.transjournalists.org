@@ -104,6 +104,7 @@ module.exports = function (grunt) {
     return rendered
       .replace(/&#8211;/g, "&mdash;")
       .replace(/([’']) ([”"])/g, "$1&nbsp;$2")
+      .replace("<p></p>\n", "")
       .replace(
         /\[\[date:[A-Z_]+\]\]/g,
         `<time class="published" datetime="${DateTime.now().toISODate()}">${DateTime.now().toLocaleString(

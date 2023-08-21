@@ -18,32 +18,12 @@ body {
   opacity: 0.1;
   font-size: xx-small;
   color: #666;
-  border-bottom: 1px solid #666;
   text-align: right;
 }
 
 h2:hover .last-updated,
 h3:hover .last-updated {
   opacity: 1;
-}
-
-.table-of-contents {
-  margin: 1em;
-  padding: 1em;
-  border: 3px dotted black;
-  max-width: 30vh;
-  position: fixed;
-  right: -10%;
-  opacity: 0.3;
-  max-height: 60vh;
-  overflow-y: scroll;
-  overflow-x: hid;
-}
-
-.table-of-contents:hover {
-  opacity: 1;
-  right: 0;
-  transition: opacity 1s;
 }
 
 .table-of-contents li {
@@ -85,6 +65,47 @@ h1 {
   }
 }
 
-.gh-main {
-  padding-top: 2em !important;
+.gh-site .gh-main {
+  padding-top: 100px;
+}
+
+@media (min-width: 768px) {
+  .gh-head {
+    position: fixed;
+    background: white;
+    width: 100%;
+    z-index: 99;
+    top: 0px;
+    transition: top .25s linear;
+  }
+
+  .table-of-contents {
+    margin: 1em;
+    padding: 1em;
+    width: 20vh;
+    position: fixed;
+    top: 100px;
+    height: calc(100vh - 100px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    transition: top .25s linear;
+  }
+}
+
+@media (min-width: 1600px) {
+  .table-of-contents {
+    width: 30vh;
+  }
+}
+
+@media (min-width: 1900px) {
+  .table-of-contents {
+    width: 40vh;
+  }
+}
+
+@media (max-width: 1200px) {
+  .table-of-contents {
+    display: none;
+  }
 }
