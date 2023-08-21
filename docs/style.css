@@ -1,5 +1,5 @@
 :root {
-  --ghost-accent-color: #9D47BF;
+  --ghost-accent-color: #A584B2;
 }
 body {
   font-family: sans-serif;
@@ -51,13 +51,9 @@ h1:before {
 .gh-content {
   margin-top: 0 !important;
 }
+.gh-content a {
+  color: #2F8789 !important;
+}
 .gh-main {
   padding-top: 2em !important;
-}
-.gh-override-canvas {
-  width: 900px;
-  margin: 0 auto;
-}
-.readmore-text {
-  color: blue;
 }
