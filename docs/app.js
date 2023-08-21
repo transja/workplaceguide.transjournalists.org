@@ -28,6 +28,17 @@
   // Add TOC header
   $(".table-of-contents").prepend($("<h5>Table of contents</h5>"));
 
+  // Add updated lines
+  const pubDate = new Date($("time.published").text());
+  $("h2[updated],h3[updated]").each((i, v) => {
+    const ds = new Date(v.getAttribute("updated"));
+    if (ds !== pubDate) {
+      $(v).append(`<div class="last-updated">Last updated ${ds.toLocaleString("en-US", {
+      dateStyle: "medium"
+    })}</div>`);
+    }
+  });
+
 }));
 
 //# sourceMappingURL=./app.js.map

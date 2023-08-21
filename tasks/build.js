@@ -15,13 +15,16 @@ var md = new MarkdownIt();
 var markdownItAttrs = require("markdown-it-attrs");
 var markdownItTocs = require("markdown-it-table-of-contents");
 var markdownItAnchor = require("markdown-it-anchor");
+var { DateTime } = require("luxon");
 
 md.use(markdownItTocs, {
   format: (content) => content,
   includeLevel: [1, 2, 3],
 });
 md.use(markdownItAttrs);
-md.use(markdownItAnchor);
+md.use(markdownItAnchor, {
+  permalink: markdownItAnchor.permalink.headerLink(),
+});
 
 module.exports = function (grunt) {
   var process = function (source, data, filename) {
@@ -95,9 +98,18 @@ module.exports = function (grunt) {
     // }
 
     // var rendered = writer.render(parsed);
+    const { dateformat = "DATETIME_FULL" } =
+      rendered.match(/\[\[date:(?<dateformat>[A-Z_]+)\]\]/)?.groups || {};
+
     return rendered
       .replace(/&#8211;/g, "&mdash;")
-      .replace(/([’']) ([”"])/g, "$1&nbsp;$2");
+      .replace(/([’']) ([”"])/g, "$1&nbsp;$2")
+      .replace(
+        /\[\[date:[A-Z_]+\]\]/g,
+        `<time class="published" datetime="${DateTime.now().toISODate()}">${DateTime.now().toLocaleString(
+          DateTime[dateformat]
+        )}</time>.`
+      );
   };
 
   grunt.registerTask(

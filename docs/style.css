@@ -4,6 +4,17 @@
 body {
   font-family: sans-serif;
 }
+.last-updated {
+  opacity: 0.1;
+  font-size: xx-small;
+  color: #666;
+  border-bottom: 1px solid #666;
+  text-align: right;
+}
+h2:hover .last-updated,
+h3:hover .last-updated {
+  opacity: 1;
+}
 .table-of-contents {
   margin: 1em;
   padding: 1em;
