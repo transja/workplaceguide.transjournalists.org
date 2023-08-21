@@ -35,27 +35,6 @@ h1:before {
   left: 0;
   right: 0;
 }
-details {
-  padding: inherit;
-  margin: 0.6em;
-}
-details em {
-  font-size: 80%;
-}
-.readmore {
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-  padding: 10px 10px;
-  border-radius: 10px;
-  margin: 1em 0;
-  background-color: var(--color-lighter-gray);
-}
-.readmore ul {
-  margin: 4px 10px 4px 10px;
-}
-.readmore p {
-  padding-top: 0.2em !important;
-  margin-top: 0.2em !important;
-}
 #intro {
   margin-top: 0;
 }
@@ -106,4 +85,25 @@ details em {
   .table-of-contents {
     display: none;
   }
+}
+details {
+  padding: inherit;
+  margin: 0.6em;
+}
+details em {
+  font-size: 80%;
+}
+.readmore {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  margin: 1em 0;
+  background-color: var(--color-lighter-gray);
+}
+.readmore ul {
+  margin: 4px 10px 4px 10px;
+}
+.readmore p {
+  padding-top: 0.2em !important;
+  margin-top: 0.2em !important;
 }
