@@ -118,20 +118,26 @@ There is never a reason to explain the use of standard _they/them_, _he/him,_ or
 ### gender-neutral pronouns { #gender-neutral-pronouns updated="2023-08-21" }
 Use this language to describe _they/them_ and other gender-neutral pronouns, such as _ze/hir_ and _ey/em_. 
 
-_Further reading on the history of pronouns:_ 
+<div class="readmore">
+
+_On the history of pronouns:_ 
 - [Gender-Neutral Pronouns 101: Everything You've Always Wanted to Know](https://www.them.us/story/gender-neutral-pronouns-101-they-them-xe-xem)
 - [Nonbinary pronouns are older than you think](https://blogs.illinois.edu/view/25/705317)
 - [Gender-bending, time-traveling pronouns: A history](https://apnews.com/article/entertainment-illinois-north-america-lifestyle-womens-rights-18c894ea53a34098afded1afe0c38e1a)
 
-_Further reading on language and grammar:_
+_On language and grammar:_
 - [Neopronouns explained](https://intercultural.uncg.edu/wp-content/uploads/Neopronouns-Explained-UNCG-Intercultural-Engagement.pdf)
 - [Singular “They”](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they)
 - [Gender and Language](https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/)
+
+</div>
 
 ### multiple pronouns { #multiple-pronouns updated="2023-08-21" }
 Some people use multiple sets of pronouns, e.g. an individual who uses both _he/him_ and _they/them_. Openness to using multiple pronouns is sometimes indicated (such as in someone’s social media profile) with spellings like _he/they_; this is increasingly common among cisgender people as well. Others may indicate they use “any” or “all” pronouns, which generally means the standard _he/him_, _she/her_, and _they/them_ are all acceptable.
 
 Ask the individual which pronouns they prefer to have published. Some may ask to print only one set of pronouns; others may ask for multiple pronouns to be used throughout the story. Depending on the story, the interviewees, and the audience, it may be appropriate to explain the usage of multiple pronouns in different ways.
+
+<div class="readmore">
 
 _Sample stories that use multiple pronouns for the same person without an explanation:_
 - [You don't have to constantly take hormones to be trans, 3 people who have gone on and off hormones say](https://www.insider.com/you-dont-have-to-take-hormones-hrt-to-be-trans-2021-10) from Insider
@@ -140,6 +146,8 @@ _Sample stories that use multiple pronouns for the same person without an explan
 _Sample stories that use multiple pronouns with an appositive or editor’s note:_
 - [Living Nonbinary in a Binary Sports World](https://www.si.com/wnba/2021/04/16/nonbinary-athletes-transgender-layshia-clarendon-quinn-rach-mcbride-daily-cover) from Sports Illustrated 
 - [The Power of Layshia Clarendon](https://www.espn.com/espn/feature/story/_/id/31681454/the-power-layshia-clarendon) from ESPN 
+
+</div>
 
 ### neopronouns { #neopronouns updated="2023-08-21" }
 A _neopronoun_ is a gender-neutral third-person singular English pronoun that is not _they/them_. Examples include _ze/hir, xe/xer,_ and _ey/em._ While some trans people use neopronouns in addition to more common pronouns like _they/them_, it is not appropriate to automatically substitute _they/them_ in place of neopronouns. If unsure of a neopronoun’s spelling or usage, ask; there are variations between similar-sounding neopronouns (_ze/zir_ versus _ze/hir_).
@@ -157,10 +165,13 @@ English pronouns may be linguistically feminine, masculine, or neutral, but they
 ### what to do if you can’t determine someone’s pronouns { #unknown-pronouns updated="2023-08-21" }
 Do not avoid using names or pronouns simply because a source is transgender or nonbinary. Write around pronouns only if it is impossible to determine the right pronoun from someone’s personal identification, e.g. an unidentified person, a person whose gender identity is uncertain, or a trans person whose pronouns are not publicly available (see [_identifying transgender people during breaking news_](#iding-trans-people)). Some publications consider singular _they_ an appropriate substitute for an unknown person, while others may prefer writing around pronouns or gendered identifications entirely. 
 
+<div class="readmore">
+
 _Examples of stories that address uncertain gender identity:_
 - [Nashville shooting suspect’s gender sets attack apart from most mass shootings](https://19thnews.org/2023/03/nashville-shooting-suspect-gender-covenant-school/) from The 19th*
 - [Details about the Nashville shooter's gender identity sow confusion and disinformation](https://www.nbcnews.com/feature/nbc-out/details-nashville-shooters-gender-identity-sow-confusion-disinformatio-rcna77424) from NBC News
 
+</div>
 
 # Politicized or Inaccurate Phrases { #section-phrasing updated="2023-08-21" }
 
@@ -175,12 +186,16 @@ Some trans people may refer to being _assigned male at birth_ or _assigned femal
 
 _Assigned sex_ and _gender_ are concepts specific to humans. In discussions of nonhuman animals, _sex_ is sufficient. 
 
+<div class="readmore">
+
 _Additional resources:_
 - [Sex Redefined: The Idea of 2 Sexes Is Overly Simplistic](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/) from Scientific American
 - [Visualizing Sex as a Spectrum](https://blogs.scientificamerican.com/sa-visual/visualizing-sex-as-a-spectrum/) from Scientific American
 - [What Do We Mean By Sex and Gender?](https://medicine.yale.edu/news-article/what-do-we-mean-by-sex-and-gender/) from Yale School of Medicine 
 - [Sex Redefined: The idea of two sexes is simplistic. Biologists now think there is a wider spectrum than that](https://www.nature.com/articles/518288a) from Nature
 - TK ASAB EXPLAINER?
+
+</div>
 
 ### biological sex { #biological-sex updated="2023-08-21" }
 The phrase _biological sex_ is common in scientific writing as a synonym for _birth sex, natal sex,_ or _assigned sex_ _at birth._ Outside of medical literature, _assigned sex at birth_ is preferable over _biological sex_ if used in this way.
@@ -281,11 +296,15 @@ Consider carefully the consequences of publishing trans minors’ full names, th
 
 Look to the [Society of Professional Journalists Code of Ethics’](https://www.spj.org/ethicscode.asp) call to “minimize harm.” Explain to children and families how they would be identified, and talk through the [process and potential consequences of speaking on the record](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/).
 
+<div class="readmore">
+
 _Additional resources:_
 - [Trans and gender-fluid kids are under attack. How can we tell their stories without furthering harm?](https://www.poynter.org/reporting-editing/2023/trans-and-gender-fluid-kids-are-under-attack-how-can-we-tell-their-stories-without-furthering-harm-journalism-transgender/?utm_source=Poynter+Institute&utm_campaign=1233bb54d9-04-11-23+Weekly+Training+Digest&utm_medium=email&utm_term=0_-6379396c3a-%5BLIST_EMAIL_ID%5D) from Poynter
 - [How Journalists Can Responsibly Report on Trans Kids](https://nbcuacademy.com/trans-kids-journalism/) from NBCU Academy
 - [Children: coverage, images and interviews](https://ethics.journalists.org/topics/children-coverage-images-and-interviews/) from Online News Association
 - [The Ethics of Interviewing Students](https://ewa.org/how-to-cover-the-story/the-ethics-of-interviewing-students) from Education Writers Association
+
+</div>
 
 ### reporting on anti-trans government policies { #anti-trans-policies updated="2023-08-21" }
 Examine what the text of a bill or law actually says, rather than simply restating what its authors or supporters say about it — and look for spillover effects. A bill to restrict gender-affirming care, for example, may also prevent cisgender people who take hormones from accessing their medication. Ask relevant experts to interpret the legal language where necessary. Do not assume that comments made during legislative hearings about a bill are accurate reflections of its contents. 
@@ -300,6 +319,8 @@ When writing about state or federal legislation, include information like what s
 
 Misinformation can come from both opponents and proponents of anti-trans laws. Do not reprint verifiably false statements about specific bills and their consequences, or about trans issues more generally, without inline fact-checking. And as stated elsewhere in this guide, prioritize speaking to the groups or individuals targeted most directly by a given policy (gender-affirming health care providers, trans children and their parents, etc.).
 
+<div class="readmore">
+
 _Additional resources:_
 - [Anti-trans bills have doubled since 2022. Our map shows where states stand.](https://www.washingtonpost.com/dc-md-va/2023/04/17/anti-trans-bills-map/) from The Washington Post
 - [Covering the Community: How to Jump Hurdles in Queer Political Coverage](https://web.archive.org/web/20230130204451/https://www.ire.org/wp-content/uploads/woocommerce_uploads/2021/11/ire_q4_2021-iwwvrp.pdf) from Investigative Reporters & Editors
@@ -308,6 +329,8 @@ _Additional resources:_
 - [A Journalist’s Guide to the Federal Courts](https://www.uscourts.gov/statistics-reports/publications/journalists-guide-federal-courts) from the U.S. Courts
 - [Judges and Judicial Administration – Journalist’s Guide](https://www.uscourts.gov/statistics-reports/judges-and-judicial-administration-journalists-guide) from the U.S. Courts
 - [Open Courts Compendium](https://www.rcfp.org/open-courts-compendium/) from Reporters Committee for Freedom of the Press
+
+</div>
 
 ### reporting on the deaths of trans people { #deaths updated="2023-08-21" }
 Don’t assume the death of a trans person is in any way related to the person’s gender unless there is reason to believe that is the case. As with the death of a member of any minority group, do not assume that it is a murder, suicide, or hate crime just because the individual is trans. If a death is determined to be any of the above, refer to best practices for reporting on these topics. See also [_obituaries_](#obituaries)_._
@@ -322,6 +345,8 @@ _Additional resources:_
 ### reporting on crimes involving trans people { #crimes updated="2023-08-21" }
 When reporting on crimes that involve or could involve trans people, reporters should seek sources beyond law enforcement. Police often provide inaccurate information about [victims](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) or those [accused or convicted of crimes](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) who may be transgender. Do due diligence if there is reason to believe a story may involve a trans person (see [_self-identification_](#self-id)), rather than assuming the name and gender given in a police press release is correct. 
 
+<div class="readmore">
+
 _Additional resources on trans victims of crimes:_
 - [Deadnamed](https://www.propublica.org/article/deadnamed-transgender-black-women-murders-jacksonville-police-investigation) from ProPublica
 - [Deaths in the Family](https://www.insider.com/transgender-violence-deaths-database-murder-cases-2017-2021) from Insider
@@ -332,6 +357,8 @@ _Additional resources on criminal justice coverage best practices:_
 - [Local newsrooms want to stop sensationalizing crime, but it’s hard](https://www.poynter.org/ethics-trust/2023/journalists-if-it-bleeds-it-leads-accountability-reporting/?utm_source=Poynter+Institute&utm_campaign=977fdf94f3-Weekly+Training+Digest+07-11-2023&utm_medium=email&utm_term=0_-ae71801fbc-%5BLIST_EMAIL_ID%5D) from Poynter
 - [The largest news agency in the US changes crime reporting practices to ‘do less harm and give people second chances’](https://theconversation.com/the-largest-news-agency-in-the-us-changes-crime-reporting-practices-to-do-less-harm-and-give-people-second-chances-165158) from The Conversation
 
+</div>
+
 ### reporting on incarcerated trans people in the U.S. { #incarcerated-trans-people updated="2023-08-21" }
 Transgender people who are incarcerated are some of the most politicized and most vulnerable populations in prisons and jails. [Academic research](https://www.cnn.com/2021/06/23/us/trans-women-incarceration/index.html), [surveys](https://www.protectedandserved.org/2022-report), and [federal data reports](https://www.thenation.com/article/society/trans-solitary-confinement/) consistently show that trans people behind bars face disproportionate rates of physical, verbal, and sexual violence from staff and fellow prisoners. 
 
@@ -339,8 +366,12 @@ The basic needs of incarcerated transgender people, like [gender-appropriate und
 
 Reporting on these issues requires extreme care. The violence and abuse transgender people face in prisons and jails is often only addressed [after legal actions](https://apnews.com/article/baltimore-jail-transgender-woman-abuse-lawsuit-49126208b48ba78bd9a002a29275249d) have been filed. 
 
+<div class="readmore">
+
 _Additional resources:_
 - [The Language Project](https://www.themarshallproject.org/2021/04/12/the-language-project) from The Marshall Project
+
+</div>
 
 ### identifying trans sources in prisons or jails { #incarcerated-sources updated="2023-08-21" }
 As with other trans populations, the legal and preferred names of incarcerated trans people may not match. Always identify sources as they wish, even if obtaining records on a person requires asking for their deadname. Consider granting anonymity to trans sources in prisons and jails, especially those who are not openly trans, as they may be at substantial risk for violence or retaliation.
@@ -350,9 +381,14 @@ Take extra care to obtain consent for ongoing communication and publication from
 ### consider the interplay between gender identity and carceral policy { #gender-carceral-policy updated="2023-08-21" }
 Coverage of issues facing trans women in prisons and jails sometimes conflates or ignores issues faced by incarcerated people who are nonbinary or trans men. The same policy may have different implications for trans people of different identities because of differences in how sex-segregated housing rules and other carceral regulations are applied. When reporting on issues involving trans communities at large, be careful to avoid generalizing the experiences of one subgroup.
 
+<div class="readmore">
+
 _Additional resources:_
 - [Trans, imprisoned — and trapped](https://www.nbcnews.com/feature/nbc-out/transgender-women-are-nearly-always-incarcerated-men-s-putting-many-n1142436) from NBC News
 - [Strip searches, trauma, isolation: Trans men describe life behind bars](https://www.nbcnews.com/nbc-out/out-news/strip-searches-trauma-isolation-trans-men-describe-life-bars-rcna6490) from NBC News
+
+</div>
+
 
 ## 4.3 Health Care Topical Guide { #subsection-health-care updated="2023-08-21" }
 
@@ -378,11 +414,15 @@ General best practices for reporting on health care-related topics are applicabl
 
 Responsible reporting on gender-affirming care for trans minors should also contextualize the number of children actually thought to be receiving this care. Though data is limited, [surveys](https://www.ustranssurvey.org/reports) [generally show](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) most trans adults do not report having received any form of transition-related medical care, and similarly [small numbers of trans youth](https://www.factcheck.org/2023/05/scicheck-young-children-do-not-receive-medical-gender-transition-treatment/) have received transition-related medical care, with only a fraction of those cases involving surgery. 
 
+<div class="readmore">
+
 _Additional resources:_
 - [Getting it right: Reporting on laws that prohibit gender-affirming care for minors](https://healthjournalism.org/blog/2023/03/getting-it-right-reporting-on-laws-that-prohibit-gender-affirming-care-for-minors/) from Association of Health Care Journalists
 - [Youth Access to Gender Affirming Care: The Federal and State Policy Landscape](https://www.kff.org/other/issue-brief/youth-access-to-gender-affirming-care-the-federal-and-state-policy-landscape/) from KFF
 - [What states are restricting transgender health care](https://www.axios.com/2023/03/18/gender-affirming-health-care-bans-transgender-lgbt) from Axios
 - [Covering LGBTQ+ health and health care: Reporting tips and story ideas](https://journalistsresource.org/home/covering-lgbtq-stories-resources-story-ideas/) from The Journalist’s Resource
+
+</div>
 
 ### detransition, retransition { #detransition-retransition updated="2023-08-21" }
 _Detransition_ has several meanings. Most commonly, _detransitioning_ describes a person’s choice to stop their gender transition. This may involve pausing or changing course in gender-affirming medical care, choosing to use a previous name, or legally changing identification cards or other documents. 
@@ -405,12 +445,16 @@ _Gender-affirming care_ is a very broad term. When a story demands more specific
 
 Less commonly, _gender-affirming medical care_ may also be used to refer to cosmetic or medical procedures pursued for gender affirmation regardless of whether the patient is transgender. For instance, if a cisgender woman receives reconstructive surgery after a mastectomy, that could be considered a gender-affirming surgery. This nuance may be relevant while interpreting legislation that seeks to restrict transition-related medical care. Much legislation seeks either to restrict only trans people’s access to gender-affirming procedures or to restrict the use of such procedures only for the purposes of transition. The phrase _gender-affirming medical care for transgender people_ may be most accurate, when additional clarity is necessary.
 
+<div class="readmore">
+
 _Additional resources:_
 - [The 19th Explains: What is gender-affirming care?](https://19thnews.org/2023/06/everything-to-know-about-gender-affirming-care/) from The 19th*
 - [6 key takeaways from the Post-KFF survey of transgender Americans](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) from The Washington Post
 - [Gender-affirming care has a long history in the US – and not just for transgender people](https://theconversation.com/gender-affirming-care-has-a-long-history-in-the-us-and-not-just-for-transgender-people-201752) from The Conversation
 - [Gender-affirming care for trans youth: Separating medical facts from misinformation](https://www.cbsnews.com/news/trans-youth-gender-affirming-health-care-misinformation/) from CBS News
 - [How to Report on Healthcare for Trans Youth Accurately and Sensitively](https://www.theopennotebook.com/2023/07/25/how-to-report-on-healthcare-for-trans-youth-accurately-and-sensitively/) from The Open Notebook
+
+</div>
 
 ### reproductive health { #reproductive-health updated="2023-08-21" }
 Use terms like _reproductive health_ over gendered terms like _women’s health_ when writing about abortion, birth control, menstruation, and other topics involving gynecologic health care. These topics can affect trans men and other transmasculine people, so they are not just “women’s health” issues, even if cisgender women are the majority of those affected by them. 
@@ -453,6 +497,8 @@ In recent years, many outlets have published trend pieces that perpetuate the my
 
 Additionally, as data on trans populations continues to improve, take care not to sensationalize or misrepresent changes in data-gathering practices as definitive changes in trans population numbers. 
 
+<div class="readmore">
+
 _Additional resources on trans history and cultures:_
 - [We See Each Other](https://www.amazon.com/dp/1368081738?psc=1&smid=ATVPDKIKX0DER&ref_=chk_typ_imgToDp) by Tre’vell Anderson
 - [Before We Were Trans: A New History of Gender](https://www.hachettebookgroup.com/titles/dr-kit-heyam-ph-d/before-we-were-trans/9781541603103/?lens=seal-press) by Kit Heyam
@@ -460,6 +506,8 @@ _Additional resources on trans history and cultures:_
 - [Evolution's Rainbow: Diversity, Gender, and Sexuality in Nature and People](https://bookshop.org/p/books/evolution-s-rainbow-diversity-gender-and-sexuality-in-nature-and-people-joan-roughgarden/6561841?ean=9780520280458) by Joan Roughgarden
 - [Black on Both Sides: A Racial History of Trans Identity](https://www.upress.umn.edu/book-division/books/black-on-both-sides) by C. Riley Snorton
 - [Transgender History](https://www.hachettebookgroup.com/titles/susan-stryker/transgender-history-second-edition/9781580056908/?lens=seal-press) by Susan Stryker
+
+</div>
 
 ### obituaries { #obituaries updated="2023-08-21" }
 Never knowingly deadname a trans person in posthumous news coverage, including obituaries. The common convention of reprinting a person’s birth name in addition to the name in use at the time of their death (i.e., _Jane Doe, born John Doe, died Monday_) is profoundly disrespectful when writing about a deceased trans person, even if they lived openly as trans. 
@@ -475,11 +523,15 @@ Make sure trans asylum seekers are comfortable with how their name and gender wi
 
 Don’t assume anyone is seeking asylum solely because of their identity, and don’t assume that their community marginalized them because of their identity. Clarify these details with each source. Keep in mind that some religious or cultural taboos may make it difficult for LGBTQ+ people to speak about certain topics.
 
+<div class="readmore">
+
 _Additional resources:_
 - [Ethical Guidelines on Migration Reporting](https://ethicaljournalismnetwork.org/ethical-guidelines-on-migration-reporting) from the Ethical Journalism Network
 - [Advice for interviewing refugees with respect and compassion](https://ijnet.org/en/story/advice-interviewing-refugees-respect-and-compassion) from International Journalists’ Network
 - [Reporting on Refugees: Tips on Covering the Crisis](https://dartcenter.org/resources/reporting-refugees-tips-covering-crisis) from the Columbia Journalism School’s Dart Center 
 - [How to cover refugee stories ethically](https://institute.aljazeera.net/en/ajr/article/1677) from Al Jazeera Journalism Review
+
+</div>
 
 ### reporting on sex work { #sex-work updated="2023-08-21" }
 According to [data from the National Center for Transgender Equality](https://transequality.org/blog/decriminalize-sex-work-to-protect-transgender-lives), more than one in ten transgender people has done sex work at some point to meet their basic needs. Transgender people face high rates of employment discrimination, joblessness, and income inequality, which may make them more likely to engage in sex work. That said, some find sex work to be empowering. Journalists should aim to provide readers with [context](https://swopusa.org/resources/) about the [disparities or realities](https://www.filesforprogress.org/memos/decriminalizing-sex-work.pdf) facing sex workers without stigmatizing them.
@@ -490,8 +542,12 @@ When reporting on trans people engaged in sex work, clarify what names and prono
 
 Additionally, always confirm what details are on the record and off the record with sources who do sex work. For example, some sources may be out about their sex work among colleagues but would not want this information published due to safety concerns. Other sources may openly advertise some services but only discuss others off the record.
 
+<div class="readmore">
+
 _Additional resources:_ 
 - [Media Toolkit](https://sexworkersproject.org/media-toolkit/downloads/SexWorkAndHumanRightsMediaToolkit.pdf) from the Urban Justice Center’s Working Group on Sex Work and Human Rights
+
+</div>
 
 ### same-sex marriage { #same-sex-marriage updated="2023-08-21" }
 In the U.S., a _same-sex marriage_ is one in which both partners have the same legal sex marker on their identifying documents. Use this phrasing, rather than _gay marriage_ or _same-gender marriage,_ where reference to a married couple’s legal status is necessary. 
@@ -585,10 +641,21 @@ Gender-nonconforming (often abbreviated as _GNC_) refers to gender presentations
 Similar to (though not synonymous with) _nonbinary_, _genderqueer_ describes both a specific identity and a broad category of people who identify as neither men nor women. 
 
 ### intersex (adj.) { #def-intersex updated="2023-08-21" }
-Someone born with reproductive anatomy, chromosomes, or hormone levels that don’t fit into strict binary understandings of male and female sex. Intersex people can be any gender and may or may not consider themselves trans. Further, not all people with intersex traits publicly identify as intersex; do not apply this label to someone who does not use it themself (see [_self-identification is paramount_](#self-id)). Do not use _intersex_ as a noun. Refer to [InterACT’s coverage guide](https://interactadvocates.org/our-advocacy/intersex-media/) for further reading.
+Someone born with reproductive anatomy, chromosomes, or hormone levels that don’t fit into strict binary understandings of male and female sex. Intersex people can be any gender and may or may not consider themselves trans. Further, not all people with intersex traits publicly identify as intersex; do not apply this label to someone who does not use it themself (see [_self-identification is paramount_](#self-id)). Do not use _intersex_ as a noun. 
 
+<div class="readmore">
+
+Refer to [InterACT’s coverage guide](https://interactadvocates.org/our-advocacy/intersex-media/) for further reading.
+
+</div>
 ### Latinx, Latine (adj.) { #def-latinx updated="2023-08-21" }   
-Terms used by some as gender-neutral alternatives to Latino or Latina. Some prefer _Latine —_ or less commonly, [_Latin@_](https://www.npr.org/sections/thetwo-way/2013/01/07/168818064/latin-offers-a-gender-neutral-choice-but-how-to-pronounce-it) _—_ to _Latinx_. Defer to an individual’s use and do not apply it to those who do not self-describe with it. Refer to the [NAHJ Cultural Competence Handbook](https://nahj.org/wp-content/uploads/2020/08/NAHJ-Cultural-Competence-Handbook.pdf) for further reading.
+Terms used by some as gender-neutral alternatives to Latino or Latina. Some prefer _Latine —_ or less commonly, [_Latin@_](https://www.npr.org/sections/thetwo-way/2013/01/07/168818064/latin-offers-a-gender-neutral-choice-but-how-to-pronounce-it) _—_ to _Latinx_. Defer to an individual’s use and do not apply it to those who do not self-describe with it. 
+
+<div class="readmore">
+
+Refer to the [NAHJ Cultural Competence Handbook](https://nahj.org/wp-content/uploads/2020/08/NAHJ-Cultural-Competence-Handbook.pdf) for further reading.
+
+</div>
 
 ### male-to-female (MtF), female-to-male (FtM) (adj.) { #def-mtf-ftm updated="2023-08-21" }
 Once common ways of describing a trans person based on their assigned sex at birth, these terms are generally seen as outdated now. [_Transfeminine_](#def-transfem) and [_transmasculine_](#def-transmasc) are more modern equivalents. See _transfeminine, transmasculine._ 
