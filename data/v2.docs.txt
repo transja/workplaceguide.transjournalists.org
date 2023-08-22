@@ -335,11 +335,15 @@ _Additional resources:_
 ### reporting on the deaths of trans people { #deaths updated="2023-08-21" }
 Don’t assume the death of a trans person is in any way related to the person’s gender unless there is reason to believe that is the case. As with the death of a member of any minority group, do not assume that it is a murder, suicide, or hate crime just because the individual is trans. If a death is determined to be any of the above, refer to best practices for reporting on these topics. See also [_obituaries_](#obituaries)_._
 
+<div class="readmore">
+
 _Additional resources:_
 - [Best practices for covering suicide responsibly](https://www.poynter.org/reporting-editing/2018/best-practices-for-covering-suicide-responsibly/) from Poynter 
 - [Covering Suicide Responsibly](https://www.quillmag.com/2023/07/17/covering-suicide-responsibly/) from Society of Professional Journalists
 - [The Suicide Reporting Toolkit](https://www.suicidereportingtoolkit.com/journalists/)
 - [What We Found in Three Years of Documenting Hate: A Letter to Our Partners](https://www.propublica.org/article/what-we-found-in-three-years-of-documenting-hate-an-open-letter-to-our-partners) from ProPublica
+
+</div> 
 
 ## 4.2 Criminal Justice Topical Guide { #subsection-criminal-justice updated="2023-08-21" }
 ### reporting on crimes involving trans people { #crimes updated="2023-08-21" }
