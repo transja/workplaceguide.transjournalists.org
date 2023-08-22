@@ -51,7 +51,7 @@ h1:before {
   color: var(--color-darker-gray) !important;
   text-decoration: none;
 }
-.gh-content a:after {
+.gh-content a.header-anchor:after {
   content: " ⇗";
   color: #2F8789 !important;
 }
