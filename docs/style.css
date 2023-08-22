@@ -47,6 +47,14 @@ h1:before {
 .gh-content a {
   color: #2F8789 !important;
 }
+.gh-content a.header-anchor {
+  color: var(--color-darker-gray) !important;
+  text-decoration: none;
+}
+.gh-content a:after {
+  content: " ⇗";
+  color: #2F8789 !important;
+}
 .gh-site .gh-main {
   padding-top: 100px;
 }
