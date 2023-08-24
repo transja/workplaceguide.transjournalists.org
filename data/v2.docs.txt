@@ -22,6 +22,15 @@ _If you run into a reporting or editing issue that isn’t addressed in this gui
 
 _Last published [[date:DATETIME_FULL]]_
 
+
+<div class="donate">
+
+To support this style guide and the Trans Journalists Association's other work to improve the coverage of trans issues, please consider donating to our organization.
+
+<button type="button"><a href="[https://trans-journalists-association.monkeypod.io/give/support-tja](https://trans-journalists-association.monkeypod.io/give/support-tja)" target="_blank">Support Us</a></button>
+
+</div>
+
 **!!!!!CITATIONS, ETC HAVE NOT BEEN FACT-CHECKED YET. REMOVE THIS ONLY AFTER FINAL FACT-CHECK!!!!!**
 
 
@@ -254,7 +263,7 @@ Do not conflate simply existing as an openly trans person, or speaking publicly 
 There are political activists for trans rights, and there’s no reason not to identify them as such. However, take care to limit that identification to those who are actually engaged in political action or self-describe as activists, rather than those who simply hold strong beliefs about being trans. 
 
 ### TERF, trans-exclusionary radical feminist, gender-critical feminist { #gender-critical updated="2023-08-21" }
-_Trans-exclusionary radical feminism_ refers to an ideology that asserts people cannot identify as a gender other than their sex at birth and should not be classified as such socially or legally. Proponents of _trans-exclusionary radical feminism_ often label transfeminine people as predatory men, claim that transmasculine people transition to escape sexism, and argue that trans rights come at the expense of women’s rights They may participate in contemporary movements against gender-affirming health care for adults and children, trans women’s participation in women’s sports, and other topics related to trans inclusion.
+_Trans-exclusionary radical feminism_ refers to an ideology that asserts people cannot identify as a gender other than their gender assigned at birth and should not be classified as such socially or legally. Proponents of _trans-exclusionary radical feminism_ often label transfeminine people as predatory men, claim that transmasculine people transition to escape sexism, and argue that trans rights come at the expense of women’s rights They may participate in contemporary movements against gender-affirming health care for adults and children, trans women’s participation in women’s sports, and other topics related to trans inclusion.
 
 _Trans-exclusionary radical feminist_, a person who shares these beliefs, is often abbreviated as _TERF_. The _TERF_ label is claimed by some and rejected by others as pejorative; some instead have adopted the related term _gender-critical feminist_. Some critics of _trans-exclusionary radical feminism_ argue that the ideology follows an outdated framework of feminism that both the mainstream movement and academic field rejected decades ago, and therefore _TERFs_ should not be referred to as “feminists.”
 
@@ -429,13 +438,13 @@ _Additional resources:_
 </div>
 
 ### detransition, retransition { #detransition-retransition updated="2023-08-21" }
-_Detransition_ has several meanings. Most commonly, _detransitioning_ describes a person’s choice to stop their gender transition. This may involve pausing or changing course in gender-affirming medical care, choosing to use a previous name, or legally changing identification cards or other documents. 
+_Detransition_ has several meanings. Most commonly, _detransitioning_ describes a person’s choice to stop their gender transition. This may, but does not always, involve pausing or changing course in gender-affirming medical care, choosing to use a previous name, or legally changing identification cards or other documents. 
 
-Social and medical transition is a complicated, deeply personal topic, and there is no consistent definition of what qualifies as _detransitioning_. For instance, many who stop receiving gender-affirming medical care do not consider themselves to have _detransitioned_ and still consider themselves trans. Others view _detransition_ as a “reversal” or “undoing” of transition.
+Social and medical transition is a complicated, deeply personal topic, and there is no consistent definition of what qualifies as _detransitioning_. For instance, many who stop receiving gender-affirming medical care do not consider themselves to have _detransitioned_ and still consider themselves trans. Others view _detransition_ as a “reversal” or “undoing” of transition, and may seek medical care to reverse masculinizing or feminizing treatments. _Detransitioning_ can be temporary or permanent.
 
-Detransition is not synonymous with transition regret. People stop transitioning for [many reasons besides regret](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8213007/), including lack of social support or resources, satisfaction with the extent of their medical transition, a change in their gender identity, and the desire to have children. Additionally, some trans people experience shifts in gender over time. Don’t make assumptions about someone’s relationship to transition or gender identity just because they seem to have halted some form of transition-related medical care. 
+But detransition is not synonymous with transition regret. People stop transitioning for [many reasons besides regret](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8213007/), including lack of social support or resources, satisfaction with the extent of their medical transition, a change in their gender identity, and the desire to have children. Additionally, some trans people experience shifts in gender over time. Don’t make assumptions about someone’s relationship to transition or gender identity just because they seem to have halted some form of transition-related medical care. 
 
-People who stop transition sometimes later decide to transition again. Some may use the term _retransition_ to describe aspects of this process. However, take care to clarify how an individual is using the phrase. Some use _retransition_ to describe a process others call _detransition_, and they may say that they _retransitioned_ instead of _detransitioned_. Others use _retransition_ to mean transitioning again after a separate _detransition,_ and may use both terms.
+People who stop transition sometimes later decide to transition again. This may be because their gender identity changes or because temporary barriers to transition, such as lack of insurance access, are resolved. Some may use the term _retransition_ to describe aspects of this process. However, take care to clarify how an individual is using the phrase. Some use _retransition_ to describe a process others call _detransition_, and they may say that they _retransitioned_ instead of _detransitioned_. Others use _retransition_ to mean transitioning again after a separate _detransition,_ and may use both terms.
 
 ### hormone therapy { #hormones updated="2023-08-21" }
 _Gender-affirming hormone therapy,_ also called _cross-sex hormone therapy,_ is a form of gender-affirming care. Cisgender people may also take sex hormones to treat a variety of health conditions. The term _hormone replacement therapy_, often abbreviated to _HRT_, is common in medical contexts but can be confusing in news writing, as it is also associated with cisgender women who take estrogen during menopause. Phrases like _endogenous hormones_ can be used to refer to the sex hormone levels a trans person would maintain if they were to never receive gender-affirming care.
@@ -652,6 +661,7 @@ Someone born with reproductive anatomy, chromosomes, or hormone levels that don�
 Refer to [InterACT’s coverage guide](https://interactadvocates.org/our-advocacy/intersex-media/) for further reading.
 
 </div>
+
 ### Latinx, Latine (adj.) { #def-latinx updated="2023-08-21" }   
 Terms used by some as gender-neutral alternatives to Latino or Latina. Some prefer _Latine —_ or less commonly, [_Latin@_](https://www.npr.org/sections/thetwo-way/2013/01/07/168818064/latin-offers-a-gender-neutral-choice-but-how-to-pronounce-it) _—_ to _Latinx_. Defer to an individual’s use and do not apply it to those who do not self-describe with it. 
 
@@ -736,24 +746,24 @@ A term used by some trans and queer people that broadly encompasses Indigenous i
 
 ### trans coverage best practices { #read-best-practices updated="2023-08-21" }
 
-- [Five tips for journalists on covering trans and nonbinary people](https://www.cjr.org/analysis/trans-nonbinary-subjects-tips.php) from Columbia Journalism Review
-- [The complexities and nuances of transgender coverage](https://www.cjr.org/analysis/trans-coverage-guide-suggestions.php) from Columbia Journalism Review
-- [Reporting on the transgender community](https://nbcuacademy.com/jo-yurcaba-reporting-transgender-community/) from NBCU Academy
-- [How journalists can improve their coverage of the trans community](https://www.nbcuacademy.com/catalog/tuck-woodstock-transgender-journalists-trans-community) from NBCU Academy
-- [Transgender Coverage Topical Guide](https://www.apstylebook.com/topical_most_recent) from The Associated Press
-- [Making Your Writing and Reporting Transgender-Inclusive](https://www.theopennotebook.com/2020/09/22/making-your-writing-and-reporting-transgender-inclusive/) from The Open Notebook
+- [Five tips for journalists on covering trans and nonbinary people](https://www.cjr.org/analysis/trans-nonbinary-subjects-tips.php), from Columbia Journalism Review
+- [The complexities and nuances of transgender coverage](https://www.cjr.org/analysis/trans-coverage-guide-suggestions.php), from Columbia Journalism Review
+- [Reporting on the transgender community](https://nbcuacademy.com/jo-yurcaba-reporting-transgender-community/), from NBCU Academy
+- [How journalists can improve their coverage of the trans community](https://www.nbcuacademy.com/catalog/tuck-woodstock-transgender-journalists-trans-community), from NBCU Academy
+- [Transgender Coverage Topical Guide](https://www.apstylebook.com/topical_most_recent), from The Associated Press
+- [Making Your Writing and Reporting Transgender-Inclusive](https://www.theopennotebook.com/2020/09/22/making-your-writing-and-reporting-transgender-inclusive/), from The Open Notebook
 
 ### trans-relevant journalism best practices { #read-broader-practices updated="2023-08-21" }
 
-- [A Journalist’s Guide to Avoiding Lawsuits and Other Legal Dangers](https://gijn.org/2021/09/01/a-journalists-guide-to-avoiding-lawsuits-and-other-legal-dangers/) from the Global Investigative Journalism Network
-- [A Guide to Covering Hate Speech Without Amplifying It](https://ethics.journalism.wisc.edu/2020/06/29/a-guide-to-covering-hate-speech-without-amplifying-it/) from the University of Wisconsin–Madison Center for Journalism Ethics
+- [A Journalist’s Guide to Avoiding Lawsuits and Other Legal Dangers](https://gijn.org/2021/09/01/a-journalists-guide-to-avoiding-lawsuits-and-other-legal-dangers/), from the Global Investigative Journalism Network
+- [A Guide to Covering Hate Speech Without Amplifying It](https://ethics.journalism.wisc.edu/2020/06/29/a-guide-to-covering-hate-speech-without-amplifying-it/), from the University of Wisconsin–Madison Center for Journalism Ethics
 - [How Do Reporters Practice Solidarity In Journalism?](https://mediaengagement.org/solidarity-journalism/) from the University of Texas at Austin Center for Media Engagement
-- [Why Should I Tell You?: A Guide to Less-Extractive Reporting](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/) from the University of Wisconsin–Madison Center for Journalism Ethics
-- [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling) from the Associated Press
+- [Why Should I Tell You?: A Guide to Less-Extractive Reporting](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/), from the University of Wisconsin–Madison Center for Journalism Ethics
+- [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling), from the Associated Press
 
 ### trans-relevant style guides { #read-style-guides updated="2023-08-21" }
 
-- [Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide) from the Columbia Journalism School’s Dart Center
+- [Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide), from the Columbia Journalism School’s Dart Center
 - [Reporting Guides](https://najanewsroom.com/reporting-guides/) from the Native American Journalists Association 
 - [NABJ Style Guide](https://nabjonline.org/news-media-center/styleguide/) from the National Association of Black Journalists
 - [NAHJ Cultural Competence Handbook](https://nahj.org/nahj-cultural-competence-handbook/) from the National Association of Hispanic Journalists
@@ -761,4 +771,30 @@ A term used by some trans and queer people that broadly encompasses Indigenous i
 - [NLGJA Stylebook on LGBTQ+ Terminology](https://www.nlgja.org/stylebook/) from NLGJA: The Association of LGBTQ+ Journalists
 - [Media Guide: Covering the Intersex Community](https://live-interact-advocates.pantheonsite.io/wp-content/uploads/2017/01/INTERSEX-MEDIAGUIDE-interACT.pdf) from InterACT
 
-_links by section_
+### resources by topic { #read-resources-by-topic updated="2023-08-21" }
+
+_Gender, name and pronoun usage_
+- [Beyond pronouns: How languages are reshaping to include nonbinary and gender-nonconforming people](https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/), from Reuters
+- [Please stop making jokes about gender pronouns when people tell you theirs](https://www.washingtonpost.com/outlook/please-stop-making-jokes-about-gender-pronouns-when-people-tell-you-theirs/2019/12/11/8f6a063a-0a4d-11ea-8397-a955cd542d00_story.html), from The Washington Post
+- [Gender-Neutral Pronouns 101: Everything You've Always Wanted to Know](https://www.them.us/story/gender-neutral-pronouns-101-they-them-xe-xem), from Them
+- [Nonbinary pronouns are older than you think](https://blogs.illinois.edu/view/25/705317)
+- [Gender-bending, time-traveling pronouns: A history](https://apnews.com/article/entertainment-illinois-north-america-lifestyle-womens-rights-18c894ea53a34098afded1afe0c38e1a), from The Associated Press
+
+_On language and grammar:_
+- [Neopronouns explained](https://intercultural.uncg.edu/wp-content/uploads/Neopronouns-Explained-UNCG-Intercultural-Engagement.pdf)
+- [Singular “They”](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they)
+- [Gender and Language](https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/)
+
+_Politicized phrases_
+
+_Visual media_
+
+
+
+<div class="donate">
+
+Did this style guide help your newsroom make a coverage decision? You can support this guide, and other work like it, by donating to the Trans Journalists Association.
+
+<button type="button"><a href="[https://trans-journalists-association.monkeypod.io/give/support-tja](https://trans-journalists-association.monkeypod.io/give/support-tja)" target="_blank">Donate!</a></button>
+
+</div>

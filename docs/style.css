@@ -111,7 +111,28 @@ details em {
 .readmore ul {
   margin: 4px 10px 4px 10px;
 }
-.readmore p {
-  padding-top: 0.2em !important;
-  margin-top: 0.2em !important;
+.donate {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  padding: 1em 1em;
+  margin: 1em 0 1em 0;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #b7d3d3;
+}
+.donate ul {
+  margin: 4px 10px 4px 10px;
+}
+.donate button {
+  border: 0;
+  border-radius: 0.25em;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #2F8789;
+  font-size: 2rem;
+  padding: 1em;
+  line-height: 1.2rem;
+  margin-top: 0.5em;
+}
+.donate a {
+  color: white !important;
 }
