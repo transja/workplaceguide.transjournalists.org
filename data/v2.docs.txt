@@ -27,7 +27,7 @@ _Last published [[date:DATETIME_FULL]]_
 
 To support this style guide and the Trans Journalists Association's other work to improve the coverage of trans issues, please consider donating to our organization.
 
-<button type="button"><a href="[https://trans-journalists-association.monkeypod.io/give/support-tja](https://trans-journalists-association.monkeypod.io/give/support-tja)" target="_blank">Support Us</a></button>
+<button type="button"><a href="https://trans-journalists-association.monkeypod.io/give/support-tja" target="_blank">Support Us</a></button>
 
 </div>
 
@@ -807,6 +807,6 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 
 Did this style guide help your newsroom? You can support this guide, and other work like it, by donating to the Trans Journalists Association.
 
-<button type="button"><a href="[https://trans-journalists-association.monkeypod.io/give/support-tja](https://trans-journalists-association.monkeypod.io/give/support-tja)" target="_blank">Donate</a></button>
+<button type="button"><a href="https://trans-journalists-association.monkeypod.io/give/support-tja" target="_blank">Donate</a></button>
 
 </div>
