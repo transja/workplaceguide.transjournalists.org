@@ -19,21 +19,10 @@ h3:hover .last-updated {
   line-height: 1.2em;
 }
 h1 {
-  margin-top: 10v !important;
+  margin-top: 1em !important;
   display: inline-block;
   position: relative;
   margin: 0 auto;
-}
-h1:before {
-  content: '';
-  width: 50%;
-  height: 0.05em;
-  background: #A584B2;
-  position: absolute;
-  margin: 0 auto;
-  top: -0.5em;
-  left: 0;
-  right: 0;
 }
 #intro {
   margin-top: 0;
