@@ -30,6 +30,9 @@ h1 {
 #intro:before {
   display: none;
 }
+#intro a:after {
+  display: none;
+}
 .gh-content {
   margin-top: 0 !important;
 }
