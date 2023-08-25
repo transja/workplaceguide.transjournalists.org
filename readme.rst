@@ -22,6 +22,7 @@ With those installed, you can then set the project up using your terminal:
 To refresh the text only
 -------------
 Note that the source document should be set to private unless actively building the site.
+
 * Temporarily set the source document to be accessible by the build command
 * Run ``grunt docs``
 * Start the server to check the parser – ``grunt``
