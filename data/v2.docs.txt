@@ -2,7 +2,7 @@
 
 # Style and Coverage Guide { #intro updated="2023-08-25" }
 
-The Transgender Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
+The Transgender Journalists Association’s Style and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
 This guide is meant to provide a foundation for covering trans issues with accuracy and nuance, and it addresses many common language and reporting difficulties. But it is by no means comprehensive: The English lexicon of gender, sex, and sexuality is dynamic and constantly contested, and trans communities are internally diverse. 
 
@@ -61,9 +61,13 @@ Do not out trans people in your reporting. Some trans people may be out to certa
 Communities of trans people are diverse across such dimensions as race, ethnicity, age, ability and disability, nationality, location, political party, religion, tribal membership, economic background, and more. It’s inaccurate to treat the experiences of one person as being representative of “the trans experience” or “the trans community” on any given issue, and it’s important to seek diverse sources — [just as with any other coverage area](https://www.poynter.org/ethics-trust/2022/how-to-diversify-journalism-sources/). 
 
 ### trans terms and identities vary across cultures { #trans-translation updated="2023-08-25" }
-Be aware that non-English languages have words for gender-nonconforming people that are not equivalent to, and should not generally be translated as, _transgender_. Even within English, [gender-neutral language](https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/) can vary widely (see [_gender-neutral pronouns_](undefined)). Indigenous communities and communities of color may also have other terms to describe gender variance, and these terms may or may not be comparable to _transgender_. Always consult experts and individuals from these communities when reporting a relevant story.
+Be aware that non-English languages have words for gender-nonconforming people that are not equivalent to, and should not generally be translated as, _transgender_. Even within English, [gender-neutral language](https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/) can vary widely (see [_gender-neutral pronouns_](#gender-neutral-pronouns)). Indigenous communities and communities of color may also have other terms to describe gender variance, and these terms may or may not be comparable to _transgender_. Always consult experts and individuals from these communities when reporting a relevant story.
 
-For example, English-language media sometimes [inaccurately translates the term](https://buenosairesherald.com/culture-ideas/google-doodle-honors-travesti-activist-diana-sacayan) [_travesti_](https://buenosairesherald.com/culture-ideas/google-doodle-honors-travesti-activist-diana-sacayan) to _transgender woman_. Originally a slur, _travesti_ is a gender identity with [deep political roots in Argentina and across Latin America](https://buenosairesherald.com/human-rights/argentine-travestis-demand-reparations-for-dictatorships-sexual-violence). Some _travestis_ identify as transgender or [nonbinary](https://buenosairesherald.com/society/argentinas-first-ever-non-binary-march-calls-for-true-inclusion), while others do not; not all _travestis_ use _she/her_ pronouns. Identities like _travesti_ reflect a person’s history and culture as well as their individual identity. Other terms, like _no binarie_, may directly translate more literally into English, but cultural understandings of those identities may differ. Assuming that gender identities are equivalent across languages may lead to a simplistic translation that could be both offensive and inaccurate (see [_reporting on asylum seekers or refugees_](#asylum-seekers))_._
+For example, English-language media sometimes [inaccurately translates the term](https://buenosairesherald.com/culture-ideas/google-doodle-honors-travesti-activist-diana-sacayan) [_travesti_](https://buenosairesherald.com/culture-ideas/google-doodle-honors-travesti-activist-diana-sacayan) to _transgender woman_. Originally a slur, _travesti_ is a gender identity with [deep political roots in Argentina and across Latin America](https://buenosairesherald.com/human-rights/argentine-travestis-demand-reparations-for-dictatorships-sexual-violence). Some _travestis_ identify as transgender or [nonbinary](https://buenosairesherald.com/society/argentinas-first-ever-non-binary-march-calls-for-true-inclusion), while others do not; not all _travestis_ use _she/her_ pronouns. Identities like _travesti_ reflect a person’s history and culture as well as their individual identity. 
+
+Other terms, like _no binarie_, may directly translate more literally into English, but cultural understandings of those identities may differ. 
+
+Assuming that gender identities are equivalent across languages may lead to a simplistic translation that could be both offensive and inaccurate (see [_reporting on asylum seekers or refugees_](#asylum-seekers))_._
 
 ### consult broader industry best practices { #broader-best-practices updated="2023-08-25" }
 Stories about trans communities cross every beat. Just because a trans person is involved in a news event does not mean that gender identity is relevant to the story or should be central to its framing. 
@@ -242,7 +246,11 @@ Avoid this language, which reinforces the gender binary and inaccurately positio
 The concept of _rapid onset gender dysphoria_ — sometimes referred to as the “social contagion” theory — is the debunked theory that young people suddenly decide to transition after interacting with trans peers, especially on social media. It comes from a study that has been [extensively corrected](https://www.brown.edu/news/2019-03-19/gender) by its publisher, and it has been [consistently discredited](https://www.scientificamerican.com/article/evidence-undermines-rapid-onset-gender-dysphoria-claims/) by [academics, scientists, and subsequent research](https://juliaserano.medium.com/everything-you-need-to-know-about-rapid-onset-gender-dysphoria-1940b8afdeba). Where it is necessary to quote claims referencing _rapid-onset gender dysphoria_, be clear that there is no evidence to support this theory. 
 
 ### stealth, passing { #stealth-passing updated="2023-08-25" }
-_Stealth_ is a slang term used within trans communities to describe nondisclosure of trans identity, either situationally or consistently, i.e. _being stealth_. For a trans person to _pass_ generally means that they are perceived as cisgender. Referring to the act or idea of _passing_ is acceptable, but journalists should avoid assessing how trans a person “looks” in their writing. Do not describe someone as _stealth_ or say that they _pass_ unless directly quoting a trans person who describes themself that way or is otherwise discussing the concept of passing.
+_Stealth_ is a slang term used within trans communities to describe nondisclosure of trans identity, either situationally or consistently, i.e. _being stealth_. For a trans person to _pass_ generally means that they are perceived as cisgender. 
+
+Referring to the act or idea of _passing_ is acceptable: _He said passing as cisgender can be a matter of safety_. 
+
+Journalists should not describe someone as _stealth_ or assess whether they _pass_ based on their own observations. But those terms may be appropriate if directly quoting a trans person who describes themself that way.
 
 ### transgenderism, gender ideology, trans ideology, trans agenda { #transgenderism updated="2023-08-25" }
 These are loaded terms that anti-trans activists use to describe transgender people. There is no such thing as _transgenderism_ any more than there is a “[gay agenda](https://www.nlgja.org/stylebook/gay-agenda/);” the _-ism_ as used in _transgenderism_ implies that a trans person’s gender is a political philosophy, not a demographic characteristic. Use instead phrases such as _transgender identity_ or _being transgender_. 
@@ -286,7 +294,7 @@ If a source uses these phrases, ask them to clarify what they mean and paraphras
 
 # Topical Guides { #section-topical-guides updated="2023-08-25" }
 
-## Breaking News Topical Guide { #subsection-breaking-news updated="2023-08-25" }
+## Breaking News { #subsection-breaking-news updated="2023-08-25" }
 
 ### identifying transgender people during breaking news { #iding-trans-people updated="2023-08-25" }
 Avoid assumptions when covering breaking news stories that are likely to involve LGBTQ+ individuals. It may be necessary to delay identifying someone as transgender or cisgender until more information can be independently verified. In these situations, [where speed is a priority and the facts are unclear](https://healthjournalism.org/blog/2023/04/3-tips-to-avoid-spreading-misinformation-about-trans-people-mental-illness-and-mass-shootings/), omit details about gender rather than guessing. Publish only what can be confirmed. 
@@ -362,7 +370,7 @@ _Additional resources:_
 
 </div> 
 
-## Criminal Justice Topical Guide { #subsection-criminal-justice updated="2023-08-25" }
+## Criminal Justice { #subsection-criminal-justice updated="2023-08-25" }
 ### reporting on crimes involving trans people { #crimes updated="2023-08-25" }
 When reporting on crimes that involve or could involve trans people, reporters should seek sources beyond law enforcement. Police often provide inaccurate information about [victims](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) or those [accused or convicted of crimes](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) who may be transgender. Do due diligence if there is reason to believe a story may involve a trans person (see [_self-identification_](#self-id)), rather than assuming the name and gender given in a police press release is correct. 
 
@@ -412,7 +420,7 @@ _Additional resources:_
 </div>
 
 
-## Health Care Topical Guide { #subsection-health-care updated="2023-08-25" }
+## Health Care { #subsection-health-care updated="2023-08-25" }
 
 ### gender-neutral terms in health coverage { #neutral-health-terms updated="2023-08-25" }
 With a few exceptions related to reproductive health (see [_when to use gendered language_](#gendered-medical-language)), medically accurate language referring to humans and their anatomy is sufficiently gender-neutral for journalistic writing. Many English nouns are neutral; do not seek out a neologism (_fireperson_ instead of _fireman_) over a simpler gender-neutral word or phrase (_firefighter_). 
@@ -494,7 +502,7 @@ Use terms like _reproductive health_ over gendered terms like _women’s health_
 
 Everyone, regardless of gender, can receive _reproductive health care_ of some type. Medical terms (i.e., abortion, pregnancy, testicular cancer) can provide specificity where needed. 
 
-## Sports Topical Guide { #subsection-sports updated="2023-08-25" }
+## Sports { #subsection-sports updated="2023-08-25" }
 
 ### reporting on trans people in sports { #trans-people-sports updated="2023-08-25" }
 Transgender athletes have increasingly been the subject of public and political scrutiny in recent years, but their participation in competitive sports is not new. The first publicly known trans NCAA Division I athlete [came out in 2010](https://time.com/3537849/meet-the-first-openly-transgender-ncaa-athlete/), and the Olympics have had regulations for transgender athletes’ eligibility [since 2003](https://www.nytimes.com/2016/01/26/sports/olympics/transgender-athletes-olympics-ioc.html). As policies and laws governing athletic regulations rapidly shift, journalists should be mindful of misinformation and stereotypes about trans athletes — and should not uncritically assume the stated rationale for a [restriction on trans athletes](https://www.nbcnews.com/nbc-out/out-news/world-chess-body-bars-trans-women-competing-womens-events-rcna100372) is grounded in scientific fact. 
@@ -516,13 +524,13 @@ There is no straightforward measure of [“normal” testosterone levels](https:
 ### “transgender athletes” is an umbrella term { #trans-athletes updated="2023-08-25" }
 The phrase _transgender athletes_ is sometimes used as shorthand for transgender girls and women who seek to participate in girls’ and women’s sports. But depending on the specific wording of a given law, policy or rule, trans women and girls [may not be the only group of athletes affected](https://www.si.com/golf-archives/2022/01/25/luc-esquivel-trans-sports-ban-boys-and-mens-teams-daily-cover). Laws that restrict participation based on the sex marker on someone’s birth certificate, for example, could also bar transgender boys and men from playing on boys’ and men’s teams. Depending on the policy, [nonbinary athletes](https://www.runnersworld.com/runners-stories/a44201663/nikki-hiltz-first-nonbinary-usatf-champion/) may be categorized as male or female and affected in different ways. 
 
-## Other Topical Guidance { #subsection-other updated="2023-08-25" }
+## Other Guidance { #subsection-other updated="2023-08-25" }
 ### drag { #drag updated="2023-08-25" }
 A form of performance art in which wearing seemingly gender-incongruent clothing plays a central role. Do not use _drag_ or _being in drag_ to describe merely the act of dressing in seemingly gender-incongruent clothes, and do not refer to someone as _in drag_ or as a _drag queen_ or _drag king_ if they are not a drag performer (see [_crossdresser_](#def-crossdresser) and [_gender-nonconforming_](undefined)). _Drag performer_ is a gender-neutral option.
 
-Many drag performers are cisgender, though some are trans or nonbinary. Some may use a different name and pronouns out of drag, similar to an actor breaking character, while others may want to exclusively be referred to by their drag name in media reports and use only the pronouns they use while in drag. Clarify and defer to the person’s wishes, but if that is not possible, opt for using a drag name or stage name over a legal name. 
+Many drag performers are cisgender, though some are trans or nonbinary. Some may use a different name and pronouns out of drag, similar to an actor breaking character. Others may want to exclusively be referred to by their drag name in media reports and use only the pronouns they use while in drag. Clarify and defer to the person’s wishes. If it is not possible to speak to them directly, opt for using a drag name or stage name over other names. 
 
-[Ballroom performers](https://slate.com/human-interest/2016/08/ballroom-cultures-gender-model-offers-rich-alternative-to-cis-trans-division.html), who belong to specific subcultures of drag in the U.S., often also have complex concepts of gender that do not map neatly onto “cisgender” or “transgender.” 
+Ballroom performers, who belong to specific subcultures of drag in the U.S., often also have complex concepts of gender that [do not map neatly](https://slate.com/human-interest/2016/08/ballroom-cultures-gender-model-offers-rich-alternative-to-cis-trans-division.html) onto “cisgender” or “transgender.” 
 
 ### describing how trans people look { #describing-trans-people updated="2023-08-25" }
 Avoid gratuitous focus on a trans person’s appearance. Be mindful that some descriptors, such as height or voice pitch, may call attention to the sex a trans person was assigned at birth, or may unintentionally fetishize or exoticize them. Journalists should also avoid describing certain features as masculine, feminine, or androgynous unless a source uses that language. Avoid publishing side-by-side “before-and-after” pictures of someone’s transition, even if that person is a public figure.
@@ -744,7 +752,7 @@ To _come out_ as trans can be a part of, but is not the same as, _transitioning_
 ### trans man (n.) { #def-trans-man updated="2023-08-25" }
 A man who is trans. _Trans man_ is two words, with _trans_ simply modifying the broader category of _man._ The one-word compound _transman_ is outdated but has recently been adopted by some anti-trans political groups; do not use it in news copy.
 
-### Transmasculine (adj.), transmasc (adj., n.) { #def-transmasc updated="2023-08-25" }
+### transmasculine (adj.), transmasc (adj., n.) { #def-transmasc updated="2023-08-25" }
 _Transmasculine_ is a term inclusive of both trans men and nonbinary people assigned female at birth who define their gender as masculine, or who seek medical transition towards masculinization. It is often abbreviated _transmasc_.
 
 As an adjective, it can be used to refer to experiences shared by this group in the broadest sense: _transmasculine people who take testosterone_, _voice training for transmasculine people_, etc. But it is less specific than _trans men_; use _trans men_ instead of _transmasculine people_ to refer to a group of only trans men. 
