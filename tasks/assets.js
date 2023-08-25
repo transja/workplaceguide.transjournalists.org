@@ -16,6 +16,7 @@ module.exports = function (grunt) {
       for (var f of files) {
         shell.cp("-r", f, "docs/assets");
       }
+      shell.cp("src/CNAME", "docs/CNAME");
     }
   });
 };
