@@ -1,8 +1,8 @@
 [[toc]]
 
-# Style and Coverage Guide { #intro updated="2023-08-25" }
+# Stylebook and Coverage Guide { #intro updated="2023-08-25" }
 
-The Transgender Journalists Association’s Style and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
+The Transgender Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
 This guide is meant to provide a foundation for covering trans issues with accuracy and nuance, and it addresses many common language and reporting difficulties. But it is by no means comprehensive: The English lexicon of gender, sex, and sexuality is dynamic and constantly contested, and trans communities are internally diverse. 
 
