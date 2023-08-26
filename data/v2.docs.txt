@@ -43,7 +43,7 @@ The best way to determine a person's gender, name, and pronouns is to [ask them 
 ### what to do if you can’t obtain self-identification { #no-self-id updated="2023-08-25" }
 If it is not possible to obtain self-identification directly from an individual, reference publicly available information and explain where someone’s identity is unclear (e.g. a social media post by an individual’s friend that contradicts a police report). Avoid identifying someone in a specific way based on, for instance, [joke pronouns](https://www.washingtonpost.com/outlook/please-stop-making-jokes-about-gender-pronouns-when-people-tell-you-theirs/2019/12/11/8f6a063a-0a4d-11ea-8397-a955cd542d00_story.html) (like “[Prosecute/Fauci](https://twitter.com/elonmusk/status/1601894132573605888?s=20&t=aLV0JH6LGhKMYKYed2T9Fw)”) or unspecific comments. Journalists have also mistakenly identified people as transgender or nonbinary, only for those individuals to later clarify that they are cisgender. 
 
-Take extra care when covering breaking news, which [commonly](https://www.mediamatters.org/justice-civil-liberties/news-outlets-misidentified-nearly-two-out-three-victims-anti-trans-violence) [misidentifies](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) transgender people (see [_Breaking News_](#breaking-news) topical guide).
+Take extra care when covering breaking news, which [commonly](https://www.mediamatters.org/justice-civil-liberties/news-outlets-misidentified-nearly-two-out-three-victims-anti-trans-violence) [misidentifies](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) transgender people (see [_Breaking News_](#subsection-breaking-news) topical guide).
 
 ### talk to trans people about trans people { #talk-to-trans-people updated="2023-08-25" }
 When reporting a story about trans issues, reporters should interview trans people who have knowledge, experience, and expertise about the topic. Trans people’s voices should be centered in this coverage; they should speak, not just be spoken about. Researchers who study trans communities are sometimes trans themselves.
@@ -65,7 +65,7 @@ Be aware that non-English languages have words for gender-nonconforming people t
 
 For example, English-language media sometimes [inaccurately translates the term](https://buenosairesherald.com/culture-ideas/google-doodle-honors-travesti-activist-diana-sacayan) [_travesti_](https://buenosairesherald.com/culture-ideas/google-doodle-honors-travesti-activist-diana-sacayan) to _transgender woman_. Originally a slur, _travesti_ is a gender identity with [deep political roots in Argentina and across Latin America](https://buenosairesherald.com/human-rights/argentine-travestis-demand-reparations-for-dictatorships-sexual-violence). Some _travestis_ identify as transgender or [nonbinary](https://buenosairesherald.com/society/argentinas-first-ever-non-binary-march-calls-for-true-inclusion), while others do not; not all _travestis_ use _she/her_ pronouns. Identities like _travesti_ reflect a person’s history and culture as well as their individual identity. 
 
-Other terms, like _no binarie_, may directly translate more literally into English, but cultural understandings of those identities may differ. 
+Other terms, like _no binarie_, may translate more literally into English, but cultural understandings of those identities may differ. 
 
 Assuming that gender identities are equivalent across languages may lead to a simplistic translation that could be both offensive and inaccurate (see [_reporting on asylum seekers or refugees_](#asylum-seekers))_._
 
@@ -83,7 +83,7 @@ For instance, when covering legislation that seeks to limit transgender people�
 Don’t assume someone is cisgender or transgender based on their appearance, gender presentation, pronouns, or name. Wherever practicable, journalists should make a habit of asking all sources for their [pronouns and self-identification](https://www.theopennotebook.com/guide-to-tracking-source-diversity/), and should take particular care to do so when reporting on topics likely to involve LGBTQ+ people. See [_self-identification_](#self-id)_._
 
 ### do not call unnecessary attention to a trans person’s gender { #do-not-overidentify updated="2023-08-25" }
-Do not identify someone as transgender unless it provides necessary and relevant clarity or context. Reporters rarely note whether each cisgender person quoted is a man or woman; likewise, unless a trans person’s individual experience with gender is integral to understanding the story, there’s no need to mention that they are trans or explain their gender identity. See [_avoid irrelevant questions_](undefined)_._
+Do not identify someone as transgender unless it provides necessary and relevant clarity or context. Reporters rarely note whether each cisgender person quoted is a man or woman; likewise, unless a trans person’s individual experience with gender is integral to understanding the story, there’s no need to mention that they are trans or explain their gender identity. See [_avoid irrelevant questions_](#interview-etiquette)_._
 
 Additionally, when a nonbinary source is introduced, reporters often include a phrase defining _nonbinary_. This may not be necessary, as _nonbinary_ has entered more widespread use in recent years, especially in the U.S. and the U.K. Use judgment in determining whether an audience will be familiar with this term, and keep definitions concise (see [_nonbinary_](#def-nonbinary)).
 
@@ -270,7 +270,7 @@ There are political activists for trans rights, and there’s no reason not to i
 ### TERF, trans-exclusionary radical feminist, gender-critical feminist { #gender-critical updated="2023-08-25" }
 _Trans-exclusionary radical feminism_ refers to an ideology that asserts people cannot identify as a gender other than their gender assigned at birth and should not be classified as such socially or legally.
 
- Proponents of _trans-exclusionary radical feminism_ often label transfeminine people as predatory men, claim that transmasculine people transition to escape sexism, and argue that trans rights come at the expense of women’s rights They may participate in contemporary movements against gender-affirming health care for adults and children, trans women’s participation in women’s sports, and other topics related to trans inclusion.
+ Proponents of _trans-exclusionary radical feminism_ often label transfeminine people as predatory men, claim that transmasculine people transition to escape sexism, and argue that trans rights come at the expense of women’s rights. They may participate in contemporary movements against gender-affirming health care for adults and children, trans women’s participation in women’s sports, and other topics related to trans inclusion.
 
 _Trans-exclusionary radical feminist_, a person who shares these beliefs, is often abbreviated as _TERF_. The _TERF_ label is claimed by some and rejected by others as pejorative; some instead have adopted the related term _gender-critical feminist_. Some critics of _trans-exclusionary radical feminism_ argue that the ideology follows an outdated framework of feminism that both the mainstream movement and academic field rejected decades ago, and therefore _TERFs_ should not be referred to as “feminists.”
 
@@ -432,7 +432,7 @@ And bear in mind that many cisgender people also undergo medical procedures or h
 Some people use less common terms to describe body parts or biological functions (_chestfeeding_ as an alternative to _breastfeeding_ or _nursing_, _birthing people_ instead of _mothers_ or _parents_, etc.). These terms are not endorsed by trans people universally; use them only in direct quotes from trans people who do. Be cautious of misinformation about groups “banning” gendered terms or requiring [broad](https://www.snopes.com/fact-check/birthing-peoples-day/) [usage](https://www.snopes.com/fact-check/bonus-hole-health-professionals/) of uncommon gender-neutral phrases.
 
 ### when to use gendered medical language { #gendered-medical-language updated="2023-08-25" }
-It is sometimes important to use more gendered language. For instance, if discussing a study that only includes cisgender women, it would be most accurate to use gender-specific language (e.g. _pregnant women_) to reference that study’s findings. If the word _women_ is accurate but transgender and nonbinary people may also be included, phrasing like _women and other patients_ can be an alternative.
+It is sometimes important to use more gendered language. For instance, if discussing a study that only includes cisgender women, it would be most accurate to use gender-specific language (e.g. _pregnant women_) to reference that study’s findings. If the word _women_ is partially accurate but transgender men and nonbinary people may also be included, phrasing like _women and other patients_ can be an alternative.
 
 ### consider whether protected health information is necessary to a story { #necessary-health-info updated="2023-08-25" }
 When writing about transgender people, consider whether it’s necessary or appropriate to ask about their genitals, hormones, or medical procedures. Is the purpose of these questions to shed light on the importance of medical care and barriers to access? Or are they being asked for the sake of adding a line about someone’s transition in a story that doesn’t require it? Would similar information about a cisgender person’s health or body be relevant to the story? See also [_asking irrelevant questions_](#interview-etiquette)_._
@@ -526,7 +526,7 @@ The phrase _transgender athletes_ is sometimes used as shorthand for transgender
 
 ## Other Guidance { #subsection-other updated="2023-08-25" }
 ### drag { #drag updated="2023-08-25" }
-A form of performance art in which wearing seemingly gender-incongruent clothing plays a central role. Do not use _drag_ or _being in drag_ to describe merely the act of dressing in seemingly gender-incongruent clothes, and do not refer to someone as _in drag_ or as a _drag queen_ or _drag king_ if they are not a drag performer (see [_crossdresser_](#def-crossdresser) and [_gender-nonconforming_](undefined)). _Drag performer_ is a gender-neutral option.
+A form of performance art in which wearing seemingly gender-incongruent clothing plays a central role. Do not use _drag_ or _being in drag_ to describe merely the act of dressing in seemingly gender-incongruent clothes, and do not refer to someone as _in drag_ or as a _drag queen_ or _drag king_ if they are not a drag performer (see [_crossdresser_](#def-crossdresser) and [_gender-nonconforming_](#def-gender-nonconforming)). _Drag performer_ is a gender-neutral option.
 
 Many drag performers are cisgender, though some are trans or nonbinary. Some may use a different name and pronouns out of drag, similar to an actor breaking character. Others may want to exclusively be referred to by their drag name in media reports and use only the pronouns they use while in drag. Clarify and defer to the person’s wishes. If it is not possible to speak to them directly, opt for using a drag name or stage name over other names. 
 
@@ -813,7 +813,7 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 
 <div class="donate">
 
-Did this style guide help your newsroom? You can support this guide, and other work like it, by donating to the Trans Journalists Association.
+Did this style guide help your work? You can support this guide, and other projects like it, by donating to the Trans Journalists Association.
 
 <button type="button"><a href="https://trans-journalists-association.monkeypod.io/give/support-tja" target="_blank">Donate</a></button>
 

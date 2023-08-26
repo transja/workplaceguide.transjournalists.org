@@ -42,8 +42,6 @@ module.exports = function (grunt) {
         }),
       ];
 
-      grunt.file.mkdir("docs");
-
       var bundle = async function () {
         for (var [src, dest] of Object.entries(seeds)) {
           var rolled = await rollup({
