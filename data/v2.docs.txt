@@ -708,7 +708,7 @@ Refer to the [NAHJ Cultural Competence Handbook](https://nahj.org/wp-content/upl
 </div>
 
 ### male-to-female (MtF), female-to-male (FtM) (adj.) { #def-mtf-ftm updated="2023-08-25" }
-Once common ways of describing a trans person based on their assigned sex at birth, these terms are generally seen as outdated now. [_Transfeminine_](#def-transfem) and [_transmasculine_](#def-transmasc) are more modern equivalents. See _transfeminine, transmasculine._ 
+Once common ways of describing a trans person based on their assigned sex at birth, these terms are generally seen as outdated now. [_Transfeminine_](#def-transfem) and [_transmasculine_](#def-transmasc) are more modern equivalents. See [_transfeminine_](#def-transfem)_,_ [_transmasculine_](#def-transmasc)_._ 
 
 ### marginalized genders, underrepresented genders (n.) { #def-marginalized-genders updated="2023-08-25" }
 Umbrella terms used to describe the genders of people who are not cisgender men.
