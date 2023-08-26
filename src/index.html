@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Trans Journalists Association Styleguide</title>
+    <link rel="stylesheet" href="https://use.typekit.net/way1ixt.css">
     <link
       rel="stylesheet"
       href="https://www.transjournalists.org/assets/built/screen.css?v=3dd03f2937"
@@ -107,6 +108,14 @@
       data-api="https://www.transjournalists.org/ghost/api/content/"
       crossorigin="anonymous"
     ></script>
+    <style>
+        :root {
+            --font-sans: interstate,Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+        }
+        body {
+            font-family: var(--font-sans);
+        }
+    </style>
     <style id="gh-members-styles">
       .gh-post-upgrade-cta-content,
       .gh-post-upgrade-cta {
@@ -303,9 +312,7 @@
 
       <main id="gh-main" class="gh-main">
         <article class="gh-article post no-image">
-          <div class="gh-content gh-canvas">
-            <%= t.renderMarkdown(md.v2.raw) %>
-          </div>
+          <div class="gh-content"><%= t.renderMarkdown(md.v2.raw) %></div>
         </article>
       </main>
 

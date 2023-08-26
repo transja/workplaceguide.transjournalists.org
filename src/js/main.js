@@ -16,9 +16,10 @@ if (window.innerWidth >= 768) {
   });
 
   const io = new IntersectionObserver((entries) => {
-    if (entries.length) $(`.table-of-contents li`).css("font-weight", "normal");
     entries.forEach((entry) => {
       if (entry.isIntersecting) {
+        if (entries.length)
+          $(`.table-of-contents li`).css("font-weight", "normal");
         $(`.table-of-contents [href="#${entry.target.id}"]`)
           .parent()
           .css("font-weight", "bold");
@@ -32,9 +33,7 @@ if (window.innerWidth >= 768) {
     });
   });
 
-  document
-    .querySelectorAll(".gh-content h1, .gh-content h2, .gh-content-h3")
-    .forEach((el) => io.observe(el));
+  document.querySelectorAll(".gh-content h1").forEach((el) => io.observe(el));
 
   const search = $(
     '<input type="text" id="search" placeholder="Search..." />'
@@ -81,24 +80,6 @@ if (window.innerWidth >= 768) {
 
   // Add TOC header
   $(".table-of-contents").prepend($("<h5>Table of contents</h5>"));
-
-  // Scroll away header
-  let prevScrollpos = window.pageYOffset;
-
-  window.onscroll = () => {
-    const currentScrollPos = window.pageYOffset;
-    if (prevScrollpos > currentScrollPos) {
-      document.querySelector("header").style.top = "0";
-      document.querySelector(".table-of-contents").style.top = "100px";
-      document.querySelector(".table-of-contents").style.height =
-        "calc(100vh - 100px)";
-    } else {
-      document.querySelector("header").style.top = "-100px";
-      document.querySelector(".table-of-contents").style.top = "0";
-      document.querySelector(".table-of-contents").style.height = "100vh";
-    }
-    prevScrollpos = currentScrollPos;
-  };
 }
 
 // Add updated lines

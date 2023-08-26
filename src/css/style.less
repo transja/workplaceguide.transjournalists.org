@@ -73,44 +73,40 @@ h1 {
 }
 
 @media (min-width: 768px) {
-  .gh-head {
-    position: fixed;
-    background: white;
-    width: 100%;
-    z-index: 99;
-    top: 0px;
-    transition: top .25s linear;
+  .gh-site .gh-main {
+    padding-top: 1em;
+  }
+  .gh-article {
+    display: flex;
+  }
+
+  #intro {
+    margin-top: 0 !important;
   }
 
   .table-of-contents {
-    margin: 1em;
-    padding: 1em;
-    width: 20vh;
-    position: fixed;
-    top: 100px;
-    height: calc(100vh - 100px);
+    margin: 0em;
+    padding: 0 1em;
+    width: 30vh;
     overflow-y: auto;
     overflow-x: hidden;
-    transition: top .25s linear;
+    position: sticky;
+    top: 1em;
+    height: 100vh;
+  }
+
+  .gh-content {
+    flex: 1;
+    display: block;
+    padding: 0 1em;
   }
 }
 
-@media (min-width: 1600px) {
-  .table-of-contents {
-    width: 30vh;
-  }
-}
-
-@media (min-width: 1900px) {
-  .table-of-contents {
-    width: 40vh;
-  }
-}
-
-@media (max-width: 1200px) {
+@media (max-width: 768px) {
   .table-of-contents {
     display: none;
   }
+  #gh-main {padding: 0 .5em;}
 }
 
 details {

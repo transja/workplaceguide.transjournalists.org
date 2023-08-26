@@ -12,6 +12,7 @@ var path = require("path");
 var typogr = require("typogr");
 var MarkdownIt = require("markdown-it");
 var md = new MarkdownIt({ html: true });
+var { load } = require("cheerio");
 var markdownItAttrs = require("markdown-it-attrs");
 var markdownItTocs = require("markdown-it-table-of-contents");
 var markdownItAnchor = require("markdown-it-anchor");
@@ -104,7 +105,7 @@ module.exports = function (grunt) {
     return rendered
       .replace(/&#8211;/g, "&mdash;")
       .replace(/([’']) ([”"])/g, "$1&nbsp;$2")
-      .replace("<p></p>\n", "")
+      .replace("<p></p>", "")
       .replace(
         /\[\[date:[A-Z_]+\]\]/g,
         `<time class="published" datetime="${DateTime.now().toISODate()}">${DateTime.now().toLocaleString(
@@ -129,7 +130,12 @@ module.exports = function (grunt) {
         grunt.verbose.writeln("Processing file: " + src);
         var input = grunt.file.read(src);
         var output = process(input, data, src);
-        grunt.file.write(file.dest, output);
+        const $ = load(output);
+        $(".table-of-contents").prependTo($(".gh-article"));
+        $("p")
+          .filter((idx, el) => !$(el).children().length)
+          .remove();
+        grunt.file.write(file.dest, $.html());
       });
     }
   );

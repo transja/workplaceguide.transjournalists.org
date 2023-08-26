@@ -18,9 +18,9 @@
       }
     });
     const io = new IntersectionObserver(entries => {
-      if (entries.length) $(`.table-of-contents li`).css("font-weight", "normal");
       entries.forEach(entry => {
         if (entry.isIntersecting) {
+          if (entries.length) $(`.table-of-contents li`).css("font-weight", "normal");
           $(`.table-of-contents [href="#${entry.target.id}"]`).parent().css("font-weight", "bold");
           // console.log(
           //   $(`.table-of-contents [href="#${entry.target.id}"] ul`).children()
@@ -32,7 +32,7 @@
       });
     });
 
-    document.querySelectorAll(".gh-content h1, .gh-content h2, .gh-content-h3").forEach(el => io.observe(el));
+    document.querySelectorAll(".gh-content h1").forEach(el => io.observe(el));
     const search = $('<input type="text" id="search" placeholder="Search..." />').on("keyup", evt => {
       if (evt.target.value !== "") {
         const matches = [...$(":not(.table-of-contents) p,li,h1,h2,h3,h4,h5").filter((i, el) => $(el).text().toLowerCase().includes(evt.target.value.toLowerCase())).map((i, el) => $(el).attr("id") || $(el).prevAll("[id]").attr("id") || $(el).parent().attr("id") || $(el).parent().prevAll("[id]").attr("id"))].map(d => "#" + d);
@@ -55,22 +55,6 @@
 
     // Add TOC header
     $(".table-of-contents").prepend($("<h5>Table of contents</h5>"));
-
-    // Scroll away header
-    let prevScrollpos = window.pageYOffset;
-    window.onscroll = () => {
-      const currentScrollPos = window.pageYOffset;
-      if (prevScrollpos > currentScrollPos) {
-        document.querySelector("header").style.top = "0";
-        document.querySelector(".table-of-contents").style.top = "100px";
-        document.querySelector(".table-of-contents").style.height = "calc(100vh - 100px)";
-      } else {
-        document.querySelector("header").style.top = "-100px";
-        document.querySelector(".table-of-contents").style.top = "0";
-        document.querySelector(".table-of-contents").style.height = "100vh";
-      }
-      prevScrollpos = currentScrollPos;
-    };
   }
 
   // Add updated lines
