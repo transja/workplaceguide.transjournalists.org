@@ -71,7 +71,9 @@
     let {
       target
     } = _ref;
-    navigator.clipboard.writeText(window.location + $(target).attr("href"));
+    const url = new URL(window.location);
+    url.hash = $(target).attr("href");
+    navigator.clipboard.writeText(url.toString());
   });
 
 }));
