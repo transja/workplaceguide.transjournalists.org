@@ -94,3 +94,9 @@ $("h2[updated],h3[updated]").each((i, v) => {
     );
   }
 });
+
+$(".header-anchor").on("click", ({ target }) => {
+  const url = new URL(window.location);
+  url.hash = $(target).attr("href");
+  navigator.clipboard.writeText(url.toString());
+});

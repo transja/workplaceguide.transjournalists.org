@@ -133,7 +133,7 @@ module.exports = function (grunt) {
         const $ = load(output);
         $(".table-of-contents").prependTo($(".gh-article"));
         $("p")
-          .filter((idx, el) => !$(el).children().length)
+          .filter((idx, el) => !$(el).children().length && $(el).text() === "")
           .remove();
         grunt.file.write(file.dest, $.html());
       });

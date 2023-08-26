@@ -67,6 +67,12 @@
     })}</div>`);
     }
   });
+  $(".header-anchor").on("click", _ref => {
+    let {
+      target
+    } = _ref;
+    navigator.clipboard.writeText(window.location + $(target).attr("href"));
+  });
 
 }));
 
