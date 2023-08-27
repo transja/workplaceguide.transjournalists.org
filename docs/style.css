@@ -4,16 +4,6 @@
 body {
   font-family: sans-serif;
 }
-.last-updated {
-  opacity: 0.1;
-  font-size: xx-small;
-  color: #666;
-  text-align: right;
-}
-h2:hover .last-updated,
-h3:hover .last-updated {
-  opacity: 1;
-}
 .table-of-contents li {
   font-size: 1em;
   line-height: 1.2em;
@@ -48,14 +38,32 @@ h1 {
   display: block;
   font-size: small;
 }
+.gh-content .last-updated {
+  opacity: 0.1;
+  font-size: xx-small;
+  color: #666;
+  text-align: right;
+}
 .gh-content h1 .header-anchor:hover:after {
   content: ' click to copy section link';
+}
+.gh-content h2 {
+  font-size: 1.6em;
+  text-decoration: underline;
 }
 .gh-content h2 .header-anchor:hover:after {
   content: ' click to copy subsection link';
 }
+.gh-content h3 {
+  font-size: 1.1em;
+  font-style: italic;
+}
 .gh-content h3 .header-anchor:hover:after {
   content: ' click to copy entry link';
+}
+.gh-content h2:hover .last-updated,
+.gh-content h3:hover .last-updated {
+  opacity: 1;
 }
 .gh-site .gh-main {
   padding-top: 100px;

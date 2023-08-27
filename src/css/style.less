@@ -14,18 +14,6 @@ body {
   font-family: sans-serif;
 }
 
-.last-updated {
-  opacity: 0.1;
-  font-size: xx-small;
-  color: #666;
-  text-align: right;
-}
-
-h2:hover .last-updated,
-h3:hover .last-updated {
-  opacity: 1;
-}
-
 .table-of-contents li {
   font-size: 1em;
   line-height: 1.2em;
@@ -60,12 +48,20 @@ h1 {
       color: var(--color-darker-gray) !important;
       text-decoration: none;
 
+      // sets styles on hover copy link
       &:after {
         color: @teal-2 !important;
         display: block;
         font-size: small;
       }
     }
+  }
+
+  .last-updated {
+    opacity: 0.1;
+    font-size: xx-small;
+    color: #666;
+    text-align: right;
   }
 
   h1 {
@@ -75,15 +71,26 @@ h1 {
   }
 
   h2 {
+    font-size: 1.6em; 
+    text-decoration: underline;
+
     .header-anchor:hover:after{
       content: ' click to copy subsection link';
     }
   }
 
   h3 {
+    font-size: 1.1em; 
+    font-style: italic;
+
     .header-anchor:hover:after{
       content: ' click to copy entry link';
     }
+  }
+
+  h2:hover .last-updated,
+  h3:hover .last-updated {
+    opacity: 1;
   }
 }
 
