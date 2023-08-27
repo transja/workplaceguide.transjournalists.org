@@ -53,17 +53,22 @@ h1 {
 .gh-content {
   margin-top: 0 !important;
 
-
   a {
     color: @teal-2 !important;
 
     &.header-anchor {
       color: var(--color-darker-gray) !important;
       text-decoration: none;
+
       &:after {
         content: " ⇗";
         color: @teal-2 !important;
       }
+    }
+
+    &.header-anchor:hover:after{
+      content: ' click to copy entry link';
+      font-size: small;
     }
   }
 }
@@ -99,6 +104,8 @@ h1 {
     flex: 1;
     display: block;
     padding: 0 1em;
+    max-width: 800px;
+    margin-left: 5%;
   }
 }
 

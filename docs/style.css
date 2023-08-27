@@ -47,6 +47,10 @@ h1 {
   content: " ⇗";
   color: #2F8789 !important;
 }
+.gh-content a.header-anchor:hover:after {
+  content: ' click to copy entry link';
+  font-size: small;
+}
 .gh-site .gh-main {
   padding-top: 100px;
 }
@@ -74,6 +78,8 @@ h1 {
     flex: 1;
     display: block;
     padding: 0 1em;
+    max-width: 800px;
+    margin-left: 5%;
   }
 }
 @media (max-width: 768px) {

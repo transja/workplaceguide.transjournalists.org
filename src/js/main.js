@@ -84,7 +84,7 @@ if (window.innerWidth >= 768) {
 
 // Add updated lines
 const pubDate = new Date($("time.published").text());
-$("h2[updated],h3[updated]").each((i, v) => {
+$("h3[updated]").each((i, v) => {
   const ds = new Date(v.getAttribute("updated"));
   if (ds !== pubDate) {
     $(v).append(
@@ -95,8 +95,11 @@ $("h2[updated],h3[updated]").each((i, v) => {
   }
 });
 
+// Add copy on click behavior
 $(".header-anchor").on("click", ({ target }) => {
   const url = new URL(window.location);
   url.hash = $(target).attr("href");
   navigator.clipboard.writeText(url.toString());
 });
+
+// Add copy on click user cues

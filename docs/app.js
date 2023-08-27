@@ -59,7 +59,7 @@
 
   // Add updated lines
   const pubDate = new Date($("time.published").text());
-  $("h2[updated],h3[updated]").each((i, v) => {
+  $("h3[updated]").each((i, v) => {
     const ds = new Date(v.getAttribute("updated"));
     if (ds !== pubDate) {
       $(v).append(`<div class="last-updated">Last updated ${ds.toLocaleString("en-US", {
@@ -67,6 +67,8 @@
     })}</div>`);
     }
   });
+
+  // Add copy on click behavior
   $(".header-anchor").on("click", _ref => {
     let {
       target
@@ -75,6 +77,8 @@
     url.hash = $(target).attr("href");
     navigator.clipboard.writeText(url.toString());
   });
+
+  // Add copy on click user cues
 
 }));
 
