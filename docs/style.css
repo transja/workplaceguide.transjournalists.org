@@ -47,7 +47,17 @@ h1 {
   content: " ⇗";
   color: #2F8789 !important;
 }
-.gh-content a.header-anchor:hover:after {
+.gh-content h1 .header-anchor:hover:after {
+  display: block;
+  content: ' click to copy section link';
+  font-size: small;
+}
+.gh-content h2 .header-anchor:hover:after {
+  display: block;
+  content: ' click to copy subsection link';
+  font-size: small;
+}
+.gh-content h3 .header-anchor:hover:after {
   display: block;
   content: ' click to copy entry link';
   font-size: small;
