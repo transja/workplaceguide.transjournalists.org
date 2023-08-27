@@ -61,33 +61,28 @@ h1 {
       text-decoration: none;
 
       &:after {
-        content: " ⇗";
         color: @teal-2 !important;
+        display: block;
+        font-size: small;
       }
     }
   }
 
   h1 {
     .header-anchor:hover:after{
-      display: block;
       content: ' click to copy section link';
-      font-size: small;
     }
   }
 
   h2 {
     .header-anchor:hover:after{
-      display: block;
       content: ' click to copy subsection link';
-      font-size: small;
     }
   }
 
   h3 {
     .header-anchor:hover:after{
-      display: block;
       content: ' click to copy entry link';
-      font-size: small;
     }
   }
 }
