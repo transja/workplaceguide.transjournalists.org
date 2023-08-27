@@ -79,7 +79,7 @@ if (window.innerWidth >= 768) {
   $(".table-of-contents").prepend(search);
 
   // Add TOC header
-  $(".table-of-contents").prepend($("<h5>Table of contents</h5>"));
+  $(".table-of-contents").prepend($("<h5>Table of Contents</h5>"));
 }
 
 // Add updated lines
@@ -101,5 +101,3 @@ $(".header-anchor").on("click", ({ target }) => {
   url.hash = $(target).attr("href");
   navigator.clipboard.writeText(url.toString());
 });
-
-// Add copy on click user cues
