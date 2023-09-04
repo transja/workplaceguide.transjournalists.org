@@ -1,8 +1,8 @@
 [[toc]]
 
-# Style and Coverage Guide { #intro updated="2023-08-25" }
+# Stylebook and Coverage Guide { #intro updated="2023-08-25" }
 
-The Transgender Journalists Association’s Style and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
+The Transgender Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
 This guide is meant to provide a foundation for covering trans issues with accuracy and nuance, and it addresses many common language and reporting difficulties. But it is by no means comprehensive: The English lexicon of gender, sex, and sexuality is dynamic and constantly contested, and trans communities are internally diverse. 
 
@@ -708,7 +708,7 @@ Refer to the [NAHJ Cultural Competence Handbook](https://nahj.org/wp-content/upl
 </div>
 
 ### male-to-female (MtF), female-to-male (FtM) (adj.) { #def-mtf-ftm updated="2023-08-25" }
-Once common ways of describing a trans person based on their assigned sex at birth, these terms are generally seen as outdated now. [_Transfeminine_](#def-transfem) and [_transmasculine_](#def-transmasc) are more modern equivalents. See _transfeminine, transmasculine._ 
+Once common ways of describing a trans person based on their assigned sex at birth, these terms are generally seen as outdated now. [_Transfeminine_](#def-transfem) and [_transmasculine_](#def-transmasc) are more modern equivalents. See [_transfeminine_](#def-transfem)_,_ [_transmasculine_](#def-transmasc)_._ 
 
 ### marginalized genders, underrepresented genders (n.) { #def-marginalized-genders updated="2023-08-25" }
 Umbrella terms used to describe the genders of people who are not cisgender men.

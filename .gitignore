@@ -5,3 +5,4 @@ auth.json
 npm-debug.log
 src/assets/synced
 .env
+docs
