@@ -121,12 +121,20 @@ h1 {
     height: 100vh;
   }
 
+  .table-of-contents a.close {
+    display: none;
+  }
+
   .gh-content {
     flex: 1;
     display: block;
     padding: 0 1em;
     max-width: 800px;
     margin-left: 5%;
+  }
+
+  .gh-search {
+    display: none;
   }
 }
 
@@ -187,4 +195,28 @@ details {
   a {
     color: white !important;
   }
+}
+
+@media (max-width: 767px) {
+  .table-of-contents.open {
+    display: block;
+    width: 90vw;
+    height: 90vh;
+    left: 50%;
+    margin-left: -45vw;
+    top: 50%;
+    margin-top: -45vh;
+    border: 1px solid grey;
+    border-radius: 4px;
+    position: fixed;
+    background: white;
+    z-index: 99;
+    padding: 1em;
+    overflow: scroll;
+  }
+
+    .table-of-contents.open h5 {
+      margin: 1em 0;
+    }
+    .table-of-contents a.close {float: right; padding: 1em;}
 }
