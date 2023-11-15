@@ -22,8 +22,6 @@ _If you run into a reporting or editing issue that isn’t addressed in this gui
 
 _Last published [[date:DATETIME_FULL]]_
 
-<div style="height: 55vh"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#ffffff" data-text-color="#000000" data-button-color="#A584B2" data-button-text-color="#FFFFFF" data-title="Trans Journalists Association" data-description="Promoting more accurate, nuanced coverage of trans issues and communities in the media. Supporting gender-expansive journalists in their workplaces and careers." data-icon="https://www.transjournalists.org/content/images/size/w192h192/size/w256h256/2023/08/3-color-logo.png" data-site="https://www.transjournalists.org/" async></script></div>
-
 <div class="donate">
 
 To support this style guide and the Trans Journalists Association's other work to improve the coverage of trans issues, please consider donating to our organization.
@@ -31,6 +29,8 @@ To support this style guide and the Trans Journalists Association's other work t
 <button type="button"><a href="https://trans-journalists-association.monkeypod.io/give/support-tja" target="_blank">Support Us</a></button>
 
 </div>
+
+<div style="height: 55vh"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#ffffff" data-text-color="#000000" data-button-color="#A584B2" data-button-text-color="#FFFFFF" data-title="Trans Journalists Association" data-description="Promoting more accurate, nuanced coverage of trans issues and communities in the media. Supporting gender-expansive journalists in their workplaces and careers." data-icon="https://www.transjournalists.org/content/images/size/w192h192/size/w256h256/2023/08/3-color-logo.png" data-site="https://www.transjournalists.org/" async></script></div>
 
 <hr>
 
@@ -768,9 +768,9 @@ The social, legal, and/or medical process of aligning one’s life with one’s 
 
 People may transition in a few of these ways, all of these ways, or none of these ways. Some forms of transition [are more common than others](https://www.kff.org/report-section/kff-the-washington-post-trans-survey-trans-in-america/), though available information on who transitions, when, and how varies widely based on data collection methods. Government regulations also influence individuals’ choices, legal options, and transition timelines differently from country-to-country and even jurisdiction-to-jurisdiction.
 
-_Social transition:_ This may involve changing one’s name and pronouns, using different restrooms or changing facilities and wearing different clothes. In children, transition is almost always limited to _social transition_. 
+_Social transition:_ This may involve changing one’s name and pronouns, using different gender-specific facilities, or wearing different clothes. In children, transition is almost always limited to _social transition_. 
 
-_Medical transition:_ This may involve undergoing hormone therapy or gender-affirming surgery, taking puberty blockers, etc. _Medical transition_-related care is often age-dependent, particularly for adolescents and young adults. Not every patient is a candidate for any or all forms of _medical transition._
+_Medical transition:_ This may involve undergoing hormone therapy or gender-affirming surgery, taking puberty blockers, etc. _Medical transition_-related care is often age-dependent, particularly for teens and young adults. Not every patient is a candidate for any or all forms of _medical transition._
 
 _Legal transition:_ This may involve revising birth certificates, legal identification cards, passports, etc. Many governments require evidence of social and medical transition to precede legal transition.
 
