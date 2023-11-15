@@ -268,6 +268,7 @@ Journalists should not describe someone as _stealth_ or assess whether they _pas
 
 ### transgenderism, trans ideology, trans agenda { #transgenderism updated="2023-11-14" }
 These are loaded terms that anti-trans activists use to describe transgender people. There is no such thing as _transgenderism_ any more than there is a “[gay agenda](https://www.nlgja.org/stylebook/gay-agenda/);” the _-ism_ as used in _transgenderism_ implies that a trans person’s gender is a political philosophy, not a demographic characteristic. Use instead phrases such as _transgender identity_ or _being transgender_. 
+
 ### transgendered  { #def-transgendered updated="2023-08-25" }
 This is outdated and is widely considered offensive. Do not use it in news copy. Refer instead to being _transgender._
 
