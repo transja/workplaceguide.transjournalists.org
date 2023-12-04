@@ -41,10 +41,17 @@ Trans people — not their parents, children, friends, colleagues, or critics �
 ### self-identification is paramount { #self-id updated="2023-08-25" }
 The best way to determine a person's gender, name, and pronouns is to [ask them directly](https://www.theopennotebook.com/sample-script-and-survey-for-tracking-source-diversity/). Police reports, public documents, or statements from family members can incorrectly identify someone. Even social media profiles can be misleading, outdated, or incomplete. 
 
-### what to do if you can’t obtain self-identification { #no-self-id updated="2023-08-25" }
+### what to do if you can’t obtain self-identification { #no-self-id updated="2023-11-15" }
 If it is not possible to obtain self-identification directly from an individual, reference publicly available information and explain where someone’s identity is unclear (e.g. a social media post by an individual’s friend that contradicts a police report). Avoid identifying someone in a specific way based on, for instance, [joke pronouns](https://www.washingtonpost.com/outlook/please-stop-making-jokes-about-gender-pronouns-when-people-tell-you-theirs/2019/12/11/8f6a063a-0a4d-11ea-8397-a955cd542d00_story.html) (like “[Prosecute/Fauci](https://twitter.com/elonmusk/status/1601894132573605888?s=20&t=aLV0JH6LGhKMYKYed2T9Fw)”) or unspecific comments. Journalists have also mistakenly identified people as transgender or nonbinary, only for those individuals to later clarify that they are cisgender. 
 
 Take extra care when covering breaking news, which [commonly](https://www.mediamatters.org/justice-civil-liberties/news-outlets-misidentified-nearly-two-out-three-victims-anti-trans-violence) [misidentifies](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) transgender people (see [_Breaking News_](#subsection-breaking-news) topical guide).
+
+<div class="readmore">
+
+_Additional resources:_
+- [Tips for navigating uncertain gender identity during breaking news](https://www.transjournalists.org/article-self-identification-explainer/) from the Trans Journalists Association
+
+</div>
 
 ### talk to trans people about trans people { #talk-to-trans-people updated="2023-08-25" }
 When reporting a story about trans issues, reporters should interview trans people who have knowledge, experience, and expertise about the topic. Trans people’s voices should be centered in this coverage; they should speak, not just be spoken about. Researchers who study trans communities are sometimes trans themselves.
@@ -387,8 +394,8 @@ _Additional resources:_
 </div> 
 
 ## Criminal Justice { #subsection-criminal-justice updated="2023-08-25" }
-### reporting on crimes involving trans people { #crimes updated="2023-08-25" }
-When reporting on crimes that involve or could involve trans people, reporters should seek sources beyond law enforcement. Police often provide inaccurate information about [victims](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) or those [accused or convicted of crimes](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) who may be transgender. Do due diligence if there is reason to believe a story may involve a trans person (see [_self-identification_](#self-id)), rather than assuming the name and gender given in a police press release is correct. 
+### reporting on crimes involving trans people { #crimes updated="2023-12-03" }
+When reporting on crimes that involve or could involve trans people, reporters should seek sources beyond law enforcement. Police often provide inaccurate names, gender identities, and pronouns for [victims](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) or those [accused or convicted of crimes](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) who may be transgender. Do due diligence if there is reason to believe a story may involve a trans person (see [_self-identification_](#self-id)), rather than assuming the information given in a police report or press release is correct. 
 
 <div class="readmore">
 
@@ -407,7 +414,7 @@ _Additional resources on criminal justice coverage best practices:_
 ### reporting on incarcerated trans people in the U.S. { #incarcerated-trans-people updated="2023-08-25" }
 Transgender people who are incarcerated are some of the most politicized and most vulnerable populations in prisons and jails. [Academic research](https://www.cnn.com/2021/06/23/us/trans-women-incarceration/index.html), [surveys](https://www.protectedandserved.org/2022-report), and [federal data reports](https://www.thenation.com/article/society/trans-solitary-confinement/) consistently show that trans people behind bars face disproportionate rates of physical, verbal, and sexual violence from staff and fellow prisoners. 
 
-The basic needs of incarcerated transgender people, like [gender-appropriate underwear](https://www.vox.com/policy-and-politics/2020/8/7/21355867/steuben-county-new-york-trans-prison-policy) or [gender-affirming health care](https://www.npr.org/2022/10/25/1130146647/transgender-inmates-gender-affirming-health-care-lawsuits-prison), are often treated as luxuries. Housing assignments in particular have become controversial. National legislation, known as the Prison Rape Elimination Act, provides guidelines for corrections officials across the country, including that officials must consider transgender prisoners’ gendered housing preferences when making placement decisions. But such guidelines are [largely ignored](https://www.nbcnews.com/feature/nbc-out/transgender-women-are-nearly-always-incarcerated-men-s-putting-many-n1142436). 
+The basic needs of incarcerated transgender people, like [gender-appropriate underwear](https://www.vox.com/policy-and-politics/2020/8/7/21355867/steuben-county-new-york-trans-prison-policy) or [gender-affirming health care](https://www.npr.org/2022/10/25/1130146647/transgender-inmates-gender-affirming-health-care-lawsuits-prison), are often [treated as luxuries](https://boltsmag.org/new-jersey-trans-women-solitary/). Housing assignments in particular have become controversial. National legislation, known as the Prison Rape Elimination Act, provides guidelines for corrections officials across the country, including that officials must consider transgender prisoners’ gendered housing preferences when making placement decisions. But such guidelines are [largely](https://www.nbcnews.com/feature/nbc-out/transgender-women-are-nearly-always-incarcerated-men-s-putting-many-n1142436) [ignored](https://www.huffpost.com/entry/trans-rights-prison-amber-kim_n_6557ce06e4b0998d69a049d4). 
 
 Reporting on these issues requires extreme care. The violence and abuse transgender people face in prisons and jails is often only addressed [after legal actions](https://apnews.com/article/baltimore-jail-transgender-woman-abuse-lawsuit-49126208b48ba78bd9a002a29275249d) have been filed or lawsuits have [succeeded in court](https://news.stlpublicradio.org/health-science-environment/2019-12-20/illinois-state-prisons-must-overhaul-medical-care-for-transgender-prisoners-judge-rules). 
 
@@ -710,7 +717,7 @@ Gender-nonconforming (often abbreviated as _GNC_) refers to gender presentations
 Similar to (though not synonymous with) _nonbinary_, _genderqueer_ describes both a specific identity and a broad category of people who identify as neither men nor women. 
 
 ### intersex (adj.) { #def-intersex updated="2023-08-25" }
-Someone born with reproductive anatomy, chromosomes, or hormone levels that don’t fit into strict binary understandings of male and female sex. Intersex people can be any gender and may or may not consider themselves trans. Further, not all people with intersex traits publicly identify as intersex; do not apply this label to someone who does not use it themself (see [_self-identification is paramount_](#self-id)). Do not use _intersex_ as a noun. 
+Someone born with reproductive anatomy, chromosomes, or hormone levels that don’t fit into strict binary understandings of male and female sex. Intersex people can be any gender and may or may not consider themselves trans. Further, not all people with intersex traits publicly identify as intersex; do not apply this label to someone who does not use it themself (see [_self-identification_](#self-id)). Do not use _intersex_ as a noun. 
 
 <div class="readmore">
 
