@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.81.0",
-    "@babel/core": "^7.4.3",
+    "@babel/core": "^7.23.5",
     "@babel/preset-env": "^7.14.2",
     "@nprapps/betty": "^1.0.9",
     "@nprapps/sidechain": "^1.1.4",
