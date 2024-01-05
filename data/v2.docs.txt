@@ -697,8 +697,8 @@ A cultural and societal classification system that sorts everyone into a male/fe
 ### gender-diverse, gender-expansive (adj.) { #def-gender-expansive updated="2023-08-25" }
 Phrases that describe groups of people who are not cisgender but do not always self-describe as trans. _Gender-diverse_ may be more appropriate when referring to a group that includes trans and cis people (a _gender-diverse_ applicant pool). _Gender-expansive_ is more appropriate when referring to non-cisgender people. Either is more specific than _gender-nonconforming_, which describes gender presentation rather than gender identity and can apply to both cisgender and transgender people.
 
-### gender dysphoria, gender euphoria, social dysphoria, social euphoria (n.) { #def-euphoria-dysphoria updated="2023-08-25" }
-_Gender dysphoria_ refers to the distress some people feel when their bodies don’t align with their gender; the term can be applied in a medical context or more generally. _Gender dysphoria_ can also refer to the discomfort many trans people experience when misgendered, deadnamed, or otherwise treated as the wrong gender. Not all trans people have dysphoria. 
+### gender dysphoria, gender euphoria, social dysphoria, social euphoria (n.) { #def-euphoria-dysphoria updated="2024-01-04" }
+_Gender dysphoria_ refers to the distress some people feel when their bodies or presentations — or society’s perceptions of them — don’t align with their gender. The term can be applied in a medical context or more generally. _Gender dysphoria_ can also refer to the discomfort many trans people experience when misgendered, deadnamed, or otherwise treated as the wrong gender. Not all trans people have dysphoria. 
 
 Euphoria, conversely, is the feeling of comfort or happiness some trans people feel when their gender is affirmed. People sometimes experience gender euphoria when their body aligns with their gender or when others use the correct name and pronouns for them. 
 
