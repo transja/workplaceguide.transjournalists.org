@@ -18,6 +18,7 @@ With those installed, you can then set the project up using your terminal:
 #. Enter the project folder - ``cd styleguide.transjournalists.org``
 #. Install dependencies from NPM - ``npm install``
 #. Start the server - ``grunt``
+#. To authenticate your user profile, copy ``auth.json`` from the TJA password vault and save it in the root directory as ``auth.json``
 
 To refresh the text only
 -------------

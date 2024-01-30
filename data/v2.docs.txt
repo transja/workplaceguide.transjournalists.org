@@ -826,13 +826,13 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 
 # Further Reading { #section-further-reading updated="2023-08-25" }
 
-### trans coverage best practices { #read-best-practices updated="2023-08-25" }
+### trans coverage best practices { #read-best-practices updated="2024-01-29" }
 
 - [Five tips for journalists on covering trans and nonbinary people](https://www.cjr.org/analysis/trans-nonbinary-subjects-tips.php) from Columbia Journalism Review
 - [The complexities and nuances of transgender coverage](https://www.cjr.org/analysis/trans-coverage-guide-suggestions.php) from Columbia Journalism Review
 - [Reporting on the transgender community](https://nbcuacademy.com/jo-yurcaba-reporting-transgender-community/) from NBCU Academy
 - [How journalists can improve their coverage of the trans community](https://www.nbcuacademy.com/catalog/tuck-woodstock-transgender-journalists-trans-community) from NBCU Academy
-- [Transgender Coverage Topical Guide](https://www.apstylebook.com/topical_most_recent) from The Associated Press
+- [Transgender Coverage Topical Guide](https://apstylebook.com/topicals/topicals-transgender-coverage-topical-guide-transgender-coverage-topical-guide) from The Associated Press [requires login]
 - [Making Your Writing and Reporting Transgender-Inclusive](https://www.theopennotebook.com/2020/09/22/making-your-writing-and-reporting-transgender-inclusive/) from The Open Notebook
 
 ### trans-relevant journalism best practices { #read-broader-practices updated="2023-11-14" }
@@ -843,7 +843,7 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 - [How Do Reporters Practice Solidarity In Journalism?](https://mediaengagement.org/solidarity-journalism/) from the University of Texas at Austin Center for Media Engagement
 - [Why Should I Tell You?: A Guide to Less-Extractive Reporting](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/) from the University of Wisconsin–Madison Center for Journalism Ethics
 - [¿Por Qué Debería Decírtelo?: Una Guía Para Hacer Reportajes Menos Extractivos](https://ethics.journalism.wisc.edu/por-que-deberia-decirtelo/) from the University of Wisconsin–Madison Center for Journalism Ethics
-- [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling) from the Associated Press
+- [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling) from the Associated Press [requires login]
 
 ### trans-relevant style guides { #read-style-guides updated="2023-08-25" }
 
