@@ -353,7 +353,7 @@ _Additional resources:_
 
 </div>
 
-### reporting on anti-trans government policies { #anti-trans-policies updated="2023-08-25" }
+### reporting on anti-trans government policies { #anti-trans-policies updated="2024-02-24" }
 Examine what the text of a bill or law actually says, rather than simply restating what its authors or supporters say about it — and look for spillover effects. A bill to restrict gender-affirming care, for example, may also prevent cisgender people who take hormones from accessing their medication. Ask relevant experts to interpret the legal language where necessary. Do not assume that comments made during legislative hearings about a bill are accurate reflections of its contents. 
 
 Covering the legal landscape for trans people in the U.S. requires careful research. Anti-trans laws may interact in nuanced ways with [health care regulations](https://19thnews.org/2022/10/transgender-healthcare-adults-limit-restrict/), [nondiscrimination laws](https://www.nbcnews.com/feature/nbc-out/can-you-be-fired-being-gay-answer-depends-largely-where-n962711), [state constitutions](https://apnews.com/article/sports-gun-politics-legislature-montana-supreme-court-1561e0746b14717ad05eb3e1b646a292), and [other areas of legal interest](https://www.pbs.org/newshour/show/anti-trans-laws-face-legal-roadblocks-in-several-states). Many policies that affect trans and gender-nonconforming people are implemented via [executive orders](https://www.theguardian.com/us-news/2022/jun/15/biden-executive-order-anti-trans-laws-and-conversion-therapy) or influenced by [preexisting court proceedings](https://apnews.com/article/transgender-bathroom-bill-sports-genderaffirming-care-e120cede83dab3ef81eb7918a8e34604), and some have been either [upheld](https://19thnews.org/2023/07/tennessee-trans-court-gender-affirming/) or [struck down](https://www.nbcnews.com/nbc-out/out-politics-and-policy/state-laws-targeting-lgbtq-rights-new-foe-federal-judges-rcna92374) after novel legal challenges. Decisions made by other policymaking bodies — like [school boards](https://edsource.org/2023/battle-over-transgender-student-privacy-isnt-over-bills-author-says/689039), [state agencies](https://www.texastribune.org/2022/05/20/trans-texas-child-abuse-investigations/), and [athletics organizations](https://www.forbes.com/sites/tylerroush/2023/07/14/cycling-bans-transgender-women-athletes-here-are-the-other-major-sports-with-similar-restrictions/?sh=16bd54a82567) — may have equally wide-ranging effects. 
@@ -368,10 +368,21 @@ Misinformation can come from both opponents and proponents of anti-trans laws. D
 
 <div class="readmore">
 
-_Additional resources:_
+_Additional resources on legislation in 2023:_
 - [Anti-trans bills have doubled since 2022. Our map shows where states stand.](https://www.washingtonpost.com/dc-md-va/2023/04/17/anti-trans-bills-map/) from The Washington Post
+- [From drag bans to sports restrictions, 75 anti-LGBTQ bills have become law in 2023](https://www.nbcnews.com/nbc-out/out-politics-and-policy/75-anti-lgbtq-bills-become-law-2023-rcna124250) from NBC News
+- [Over 30 new LGBTQ education laws are in effect as students go back to school](https://www.nbcnews.com/nbc-out/out-politics-and-policy/30-new-lgbtq-education-laws-are-effect-students-go-back-school-rcna101897) from NBC News
+- [The rise of anti-trans bills in the US](https://www.reuters.com/graphics/USA-HEALTHCARE/TRANS-BILLS/zgvorreyapd/) from Reuters
+- [Many transgender health bills came from a handful of far-right interest groups, AP finds](https://apnews.com/article/transgender-health-model-legislation-5cc4a7cb4ab69150f670d06fd0f361ab) from The Associated Press
+- [How a Few Stories of Regret Fuel the Push to Restrict Gender Transition Care](https://www.nytimes.com/2023/05/16/us/politics/transgender-care-detransitioners.html) from The New York Times
+- [Inside The Cottage Industry Of ‘Experts’ Paid To Defend Anti-Trans Laws](https://www.huffpost.com/entry/paid-experts-defending-anti-trans-law_n_65021a7ee4b01df7c3b6d513) from Huffington Post
+
+_Additional resources on bills affecting trans people:_
 - [Covering the Community: How to Jump Hurdles in Queer Political Coverage](https://web.archive.org/web/20230130204451/https://www.ire.org/wp-content/uploads/woocommerce_uploads/2021/11/ire_q4_2021-iwwvrp.pdf) from Investigative Reporters & Editors
+- [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
 - [Reporting on Anti-Trans Legislation: In Service to Whom?](https://t.co/2RoysqAUzw) from the Solidarity Journalism Initiative
+
+_Additional resource on statehouse coverage:_
 - [Learning the Game](https://www.ncsl.org/legislative-staff/civics-education/learning-the-game) from the National Conference of State Legislatures
 - [A Journalist’s Guide to the Federal Courts](https://www.uscourts.gov/statistics-reports/publications/journalists-guide-federal-courts) from the U.S. Courts
 - [Judges and Judicial Administration – Journalist’s Guide](https://www.uscourts.gov/statistics-reports/judges-and-judicial-administration-journalists-guide) from the U.S. Courts
@@ -380,17 +391,25 @@ _Additional resources:_
 </div>
 
 ### reporting on the deaths of trans people { #deaths updated="2024-02-24" }
-Don’t assume the death of a trans person is in any way related to the person’s gender unless there is reason to believe that is the case. As with the death of a member of any minority group, do not assume that it is a murder, suicide, or hate crime just because the individual is trans. If a death is determined to be any of the above, refer to best practices for reporting on these topics. See also [_obituaries_](#obituaries)_._
+Don’t assume the death of a trans person is in any way related to the person’s gender unless there is reason to believe that is the case. As with the death of a member of any minority group, do not assume that it is a murder, suicide, or hate crime just because the individual is trans. If a death is determined to be any of the above, refer to best practices for reporting on these topics. See also [_obituaries_](#obituaries) and [_reporting on crimes involving trans people_](#crimes).
 
 <div class="readmore">
 
-_Additional resources:_
+_Additional resources on violence:_
 - [Resources for covering violence against trans and nonbinary people](https://www.transjournalists.org/resources-for-covering-violence-against-trans-and-nonbinary-people/) from the Trans Journalists Association
+- [Violence Guide](https://learninglab.solutionsjournalism.org/en/courses/violence-guide/introduction/welcome?ref=transjournalists.org) from the Solutions Journalism Network
+- [FAQ for Reporters Writing about Anti-Trans Violence](https://hrc-prod-requests.s3-us-west-2.amazonaws.com/FAQ-Anti-trans-Violence-111920b1.pdf?mtime=20201120113452&focal=none&ref=transjournalists.org) from the Human Rights Campaign
+
+_Additional resources on trauma-informed reporting:_
+- [Toolkit: Trauma-Informed Journalism](https://www.ctipp.org/post/toolkit-trauma-informed-journalism) from Campaign for Trauma-Informed Policy and Practice
+- [Why Some Journalists Are Centering Trauma-Informed Reporting](https://niemanreports.org/articles/mental-health-trauma-sources/) from Nieman Reports
+- [Dart Center Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide)
+
+_Additional resources on reporting on suicide:_
 - [Best practices for covering suicide responsibly](https://www.poynter.org/reporting-editing/2018/best-practices-for-covering-suicide-responsibly/) from Poynter 
 - [Covering Suicide Responsibly](https://www.quillmag.com/2023/07/17/covering-suicide-responsibly/) from Society of Professional Journalists
 - [The Suicide Reporting Toolkit](https://www.suicidereportingtoolkit.com/journalists/)
 - [Covering mental health, suicide and addiction: A Q&A with Aneri Pattani](https://ethics.journalism.wisc.edu/2023/09/28/covering-mental-health-suicide-and-addiction-a-qa-with-aneri-pattani/?mc_cid=bdcf76af02&mc_eid=e55db5c1d2)  from the University of Wisconsin–Madison Center for Journalism Ethics
-- [What We Found in Three Years of Documenting Hate: A Letter to Our Partners](https://www.propublica.org/article/what-we-found-in-three-years-of-documenting-hate-an-open-letter-to-our-partners) from ProPublica
 
 </div> 
 
@@ -405,6 +424,18 @@ _Additional resources on trans victims of crimes:_
 - [Deadnamed](https://www.propublica.org/article/deadnamed-transgender-black-women-murders-jacksonville-police-investigation) from ProPublica
 - [Deaths in the Family](https://www.insider.com/transgender-violence-deaths-database-murder-cases-2017-2021) from Insider
 - [‘They’re erased’: When trans people are misgendered after death, the consequences extend beyond paper](https://19thnews.org/2023/01/trans-people-misgendering-death-certificates/) from The 19th*
+
+_Additional resources on trauma-informed reporting:_
+- [Toolkit: Trauma-Informed Journalism](https://www.ctipp.org/post/toolkit-trauma-informed-journalism) from Campaign for Trauma-Informed Policy and Practice
+- [Why Some Journalists Are Centering Trauma-Informed Reporting](https://niemanreports.org/articles/mental-health-trauma-sources/) from Nieman Reports
+- [Dart Center Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide)
+
+_Additional resources on hate crimes:_ 
+- [‘Nobody is ever just a victim’: 6 tips for journalists covering hate crimes](https://www.pressclubinstitute.org/2021/06/10/nobody-is-ever-just-a-victim-6-tips-for-journalists-covering-hate-crimes/?ref=transjournalists.org) from the National Press Club Journalism Institute
+- [What We Found in Three Years of Documenting Hate: A Letter to Our Partners](https://www.propublica.org/article/what-we-found-in-three-years-of-documenting-hate-an-open-letter-to-our-partners) from ProPublica
+- [New FBI Data Shows More Hate Crimes. These Groups Saw The Sharpest Rise.](https://www.themarshallproject.org/2023/03/25/asian-hate-crime-fbi-black-lgbtq?ref=transjournalists.org) from The Marshall Project
+- [Why Police Struggle to Report One of The Fastest-Growing Hate Crimes](https://www.themarshallproject.org/2019/11/26/why-police-struggle-to-report-one-of-the-fastest-growing-hate-crimes?ref=transjournalists.org) from The Marshall Project
+- [Lack of trust in law enforcement hinders reporting of LBGTQ crimes](https://publicintegrity.org/politics/lack-of-trust-in-law-enforcement-hinders-reporting-of-lbgtq-crimes/?ref=transjournalists.org) from The Center for Public Integrity
 
 _Additional resources on criminal justice coverage best practices:_
 - [Naming criminal suspects](https://ethics.journalists.org/topics/naming-criminal-suspects/) from Online News Association
