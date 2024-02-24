@@ -30,7 +30,7 @@ To support this style guide and the Trans Journalists Association's other work t
 
 </div>
 
-<div style="height: 55vh"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#ffffff" data-text-color="#000000" data-button-color="#A584B2" data-button-text-color="#FFFFFF" data-title="Trans Journalists Association" data-description="Promoting more accurate, nuanced coverage of trans issues and communities in the media. Supporting gender-expansive journalists in their workplaces and careers." data-icon="https://www.transjournalists.org/content/images/size/w192h192/size/w256h256/2023/08/3-color-logo.png" data-site="https://www.transjournalists.org/" async></script></div>
+<div style="height: 450px"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#ffffff" data-text-color="#000000" data-button-color="#A584B2" data-button-text-color="#FFFFFF" data-title="Trans Journalists Association" data-description="Promoting more accurate, nuanced coverage of trans issues and communities in the media. Supporting gender-expansive journalists in their workplaces and careers." data-icon="https://www.transjournalists.org/content/images/size/w192h192/size/w256h256/2023/08/3-color-logo.png" data-site="https://www.transjournalists.org/" async></script></div>
 
 <hr>
 
@@ -379,12 +379,13 @@ _Additional resources:_
 
 </div>
 
-### reporting on the deaths of trans people { #deaths updated="2023-11-14" }
+### reporting on the deaths of trans people { #deaths updated="2024-02-24" }
 Don’t assume the death of a trans person is in any way related to the person’s gender unless there is reason to believe that is the case. As with the death of a member of any minority group, do not assume that it is a murder, suicide, or hate crime just because the individual is trans. If a death is determined to be any of the above, refer to best practices for reporting on these topics. See also [_obituaries_](#obituaries)_._
 
 <div class="readmore">
 
 _Additional resources:_
+- [Resources for covering violence against trans and nonbinary people](https://www.transjournalists.org/resources-for-covering-violence-against-trans-and-nonbinary-people/) from the Trans Journalists Association
 - [Best practices for covering suicide responsibly](https://www.poynter.org/reporting-editing/2018/best-practices-for-covering-suicide-responsibly/) from Poynter 
 - [Covering Suicide Responsibly](https://www.quillmag.com/2023/07/17/covering-suicide-responsibly/) from Society of Professional Journalists
 - [The Suicide Reporting Toolkit](https://www.suicidereportingtoolkit.com/journalists/)
@@ -394,12 +395,13 @@ _Additional resources:_
 </div> 
 
 ## Criminal Justice { #subsection-criminal-justice updated="2023-08-25" }
-### reporting on crimes involving trans people { #crimes updated="2023-12-03" }
+### reporting on crimes involving trans people { #crimes updated="2024-02-24" }
 When reporting on crimes that involve or could involve trans people, reporters should seek sources beyond law enforcement. Police often provide inaccurate names, gender identities, and pronouns for [victims](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) or those [accused or convicted of crimes](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) who may be transgender. Do due diligence if there is reason to believe a story may involve a trans person (see [_self-identification_](#self-id)), rather than assuming the information given in a police report or press release is correct. 
 
 <div class="readmore">
 
 _Additional resources on trans victims of crimes:_
+- [Resources for covering violence against trans and nonbinary people](https://www.transjournalists.org/resources-for-covering-violence-against-trans-and-nonbinary-people/) from the Trans Journalists Association
 - [Deadnamed](https://www.propublica.org/article/deadnamed-transgender-black-women-murders-jacksonville-police-investigation) from ProPublica
 - [Deaths in the Family](https://www.insider.com/transgender-violence-deaths-database-murder-cases-2017-2021) from Insider
 - [‘They’re erased’: When trans people are misgendered after death, the consequences extend beyond paper](https://19thnews.org/2023/01/trans-people-misgendering-death-certificates/) from The 19th*
