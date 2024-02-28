@@ -313,7 +313,7 @@ If a source uses these phrases, ask them to clarify what they mean and paraphras
 
 # Topical Guides { #section-topical-guides updated="2023-08-25" }
 
-## Breaking News { #subsection-breaking-news updated="2023-08-25" }
+## Breaking News { #subsection-breaking-news updated="2024-02-27" }
 
 ### identifying transgender people during breaking news { #iding-trans-people updated="2023-11-14" }
 Avoid assumptions when covering breaking news stories that are likely to involve LGBTQ+ individuals. It may be necessary to delay identifying someone as transgender or cisgender until more information can be independently verified. In these situations, [where speed is a priority and the facts are unclear](https://healthjournalism.org/blog/2023/04/3-tips-to-avoid-spreading-misinformation-about-trans-people-mental-illness-and-mass-shootings/), omit details about gender rather than guessing. Publish only what can be confirmed. 
