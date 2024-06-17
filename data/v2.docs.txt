@@ -24,7 +24,7 @@ _Last published [[date:DATETIME_FULL]]_
 
 <div class="donate">
 
-To support this style guide and the Trans Journalists Association's other work to improve the coverage of trans issues, please consider donating to our organization.
+To support this style guide and the Trans Journalists Association's other work to improve the coverage of trans issues, please consider donating.
 
 <button type="button"><a href="https://bit.ly/tja_donate" target="_blank">Support Us</a></button>
 
@@ -317,7 +317,7 @@ If a source uses these phrases, ask them to clarify what they mean and paraphras
 
 # Topical Guides { #section-topical-guides updated="2023-08-25" }
 
-## Breaking News { #subsection-breaking-news updated="2024-02-27" }
+## Breaking News { #subsection-breaking-news updated="2024-06-17" }
 
 ### identifying transgender people during breaking news { #iding-trans-people updated="2024-06-17" }
 Avoid assumptions about gender identity when covering breaking news stories that are likely to involve LGBTQ+ individuals. Treat unclear information about someone’s gender identity as you would any other unconfirmed detail. 
