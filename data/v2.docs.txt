@@ -906,6 +906,8 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 
 Did this style guide help your work? You can support this guide, and other projects like it, by donating to the Trans Journalists Association.
 
-<button type="button"><a href="https://bit.ly/tja_donate" target="_blank">Donate</a></button>
+<button type="button"><a href="https://bit.ly/tja_donate" target="_blank">Donate Now</a></button>
 
 </div>
+
+<script type="text/javascript" defer="" src="https://donorbox.org/install-popup-button.js" id="donorbox-popup-button-installer" data-href="https://donorbox.org/join-the-tja-s-monthly-giving-community?default_interval=m" data-style="background: rgb(226, 142, 19); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 22px 8px 18px; border-radius: 5px 5px 0px 0px; gap: 8px; width: fit-content; line-height: 24px; position: fixed; top: 50%; transform-origin: center center; z-index: 9999; overflow: hidden; right: 20px; transform: translate(50%, -50%) rotate(-90deg);" data-img-src="https://donorbox.org/images/white_logo.svg"> </script>
