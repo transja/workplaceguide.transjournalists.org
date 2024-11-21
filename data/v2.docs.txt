@@ -1,6 +1,6 @@
 [[toc]]
 
-# Stylebook and Coverage Guide { #intro updated="2024–06-17" }
+# Stylebook and Coverage Guide { #intro updated="2024–11-21" }
 
 The Trans Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
@@ -283,7 +283,7 @@ These are loaded terms that anti-trans activists use to describe transgender peo
 ### transgendered  { #def-transgendered updated="2024-04-03" }
 This is outdated and is now widely considered offensive. Do not use it in news copy. Refer instead to _transgender identity, transness_ (see [_transness_](#def-transness)) or simply _being transgender_. 
 
-### trans activists, trans rights activists { #trans-rights-activists updated="2023-08-25" }
+### trans activists, trans rights activists { #trans-rights-activists updated="2024-11-21" }
 Similar to _trans ideology_ (see [_transgenderism_](#transgenderism)), some use the phrase _trans activists_ to suggest that those who advocate for trans people’s inclusion in civil society are actually attempting to “turn people trans” (see [_groomer, grooming_](#groomer)). The related term _trans rights activists_ can be pejorative when deployed by anti-trans activists to describe anyone who does not support anti-trans beliefs, especially when it is abbreviated as _TRAs_. Because the phrase has multiple connotations, opt for more specific wording where possible: _trans health care advocates, trans athletes’ supporters,_ etc. 
 
 Do not conflate simply existing as an openly trans person, or speaking publicly about being trans, with political activism. People who oppose anti-trans laws and restrictions are not necessarily partisan activists, just as holding any other political belief doesn’t necessarily make one an activist for that cause. 
@@ -344,7 +344,7 @@ _Examples of stories that address uncertain gender identity:_
 ### write around outdated or false details { #explaining-gender-id updated="2024-04-01" }
 In situations where a deceased trans person’s identity is clear, do not reprint their deadname posthumously or misgender them, even in direct quotes, for any reason. The common convention of printing a person’s birth name alongside their name at the time of their death (Jane Doe, born John Doe, died Thursday) is profoundly disrespectful when used to refer to a trans person. In written quotes, use brackets to replace outdated names or pronouns, with additional context as required. 
 
-If past coverage deadnames or misgenders a deceased trans person, correct the error like any other. Do not repeat the error, and correctly identify the person’s gender going forward.
+If past coverage deadnames or misgenders a deceased trans person, [correct the error](#past-coverage-errors) like any other. Do not repeat the error, and correctly identify the person’s gender going forward.
 
 Generally, it is not necessary or appropriate to explain the usage of common pronouns like he, she, and they. However, exceptions may be worth making in breaking news stories that involve someone whose names, pronouns, or gender identity has been misstated in past coverage, or in cases where the individual's self-identification has become clearer throughout the course of reporting.
 
@@ -386,7 +386,23 @@ _Additional resources:_
 
 </div>
 
-### reporting on anti-trans government policies { #anti-trans-policies updated="2024-02-24" }
+### reporting on the deaths of trans people { #deaths updated="2024-02-24" }
+Don’t assume the death of a trans person is in any way related to the person’s gender unless there is reason to believe that is the case. As with the death of a member of any minority group, do not assume that it is a murder, suicide, or hate crime just because the individual is trans. If a death is determined to be any of the above, refer to best practices for reporting on these topics. See also [_obituaries_](#obituaries) and [_reporting on crimes involving trans people_](#crimes).
+
+<div class="readmore">
+
+_Additional resources on reporting on suicide:_
+- [Resources for covering violence against trans and nonbinary people](https://www.transjournalists.org/resources-for-covering-violence-against-trans-and-nonbinary-people/) from the Trans Journalists Association
+- [Best practices for covering suicide responsibly](https://www.poynter.org/reporting-editing/2018/best-practices-for-covering-suicide-responsibly/) from Poynter 
+- [Covering Suicide Responsibly](https://www.quillmag.com/2023/07/17/covering-suicide-responsibly/) from Society of Professional Journalists
+- [The Suicide Reporting Toolkit](https://www.suicidereportingtoolkit.com/journalists/)
+- [Covering mental health, suicide and addiction: A Q&A with Aneri Pattani](https://ethics.journalism.wisc.edu/2023/09/28/covering-mental-health-suicide-and-addiction-a-qa-with-aneri-pattani/?mc_cid=bdcf76af02&mc_eid=e55db5c1d2)  from the University of Wisconsin–Madison Center for Journalism Ethics
+
+</div> 
+
+## Anti-Trans Laws and Policies { #subsection-laws-policies updated="2024-11-21" }
+
+### general guidance { #anti-trans-policies updated="2024-11-21" }
 Examine what the text of a bill or law actually says, rather than simply restating what its authors or supporters say about it — and look for spillover effects. A bill to restrict gender-affirming care, for example, may also prevent cisgender people who take hormones from accessing their medication. Ask relevant experts to interpret the legal language where necessary. Do not assume that comments made during legislative hearings about a bill are accurate reflections of its contents. 
 
 Covering the legal landscape for trans people in the U.S. requires careful research. Anti-trans laws may interact in nuanced ways with [health care regulations](https://19thnews.org/2022/10/transgender-healthcare-adults-limit-restrict/), [nondiscrimination laws](https://www.nbcnews.com/feature/nbc-out/can-you-be-fired-being-gay-answer-depends-largely-where-n962711), [state constitutions](https://apnews.com/article/sports-gun-politics-legislature-montana-supreme-court-1561e0746b14717ad05eb3e1b646a292), and [other areas of legal interest](https://www.pbs.org/newshour/show/anti-trans-laws-face-legal-roadblocks-in-several-states). Many policies that affect trans and gender-nonconforming people are implemented via [executive orders](https://www.theguardian.com/us-news/2022/jun/15/biden-executive-order-anti-trans-laws-and-conversion-therapy) or influenced by [preexisting court proceedings](https://apnews.com/article/transgender-bathroom-bill-sports-genderaffirming-care-e120cede83dab3ef81eb7918a8e34604), and some have been either [upheld](https://19thnews.org/2023/07/tennessee-trans-court-gender-affirming/) or [struck down](https://www.nbcnews.com/nbc-out/out-politics-and-policy/state-laws-targeting-lgbtq-rights-new-foe-federal-judges-rcna92374) after novel legal challenges. Decisions made by other policymaking bodies — like [school boards](https://edsource.org/2023/battle-over-transgender-student-privacy-isnt-over-bills-author-says/689039), [state agencies](https://www.texastribune.org/2022/05/20/trans-texas-child-abuse-investigations/), and [athletics organizations](https://www.forbes.com/sites/tylerroush/2023/07/14/cycling-bans-transgender-women-athletes-here-are-the-other-major-sports-with-similar-restrictions/?sh=16bd54a82567) — may have equally wide-ranging effects. 
@@ -401,6 +417,12 @@ Misinformation can come from both opponents and proponents of anti-trans laws. D
 
 <div class="readmore">
 
+_Additional resources on bills affecting trans people:_
+- [Covering the Community: How to Jump Hurdles in Queer Political Coverage](https://web.archive.org/web/20230130204451/https://www.ire.org/wp-content/uploads/woocommerce_uploads/2021/11/ire_q4_2021-iwwvrp.pdf) from Investigative Reporters & Editors
+- [Reporting on Anti-Trans Legislation: In Service to Whom?](https://t.co/2RoysqAUzw) from the Solidarity Journalism Initiative
+- [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
+- [Political extremism: 5 ways journalists can improve coverage and mitigate harm](https://www.pressclubinstitute.org/2023/02/02/political-extremism-5-ways-journalists-can-improve-coverage-and-reduce-harm/) from National Press Club Journalism Institute
+
 _Additional resources on legislation in 2023:_
 - [Anti-trans bills have doubled since 2022. Our map shows where states stand.](https://www.washingtonpost.com/dc-md-va/2023/04/17/anti-trans-bills-map/) from The Washington Post
 - [From drag bans to sports restrictions, 75 anti-LGBTQ bills have become law in 2023](https://www.nbcnews.com/nbc-out/out-politics-and-policy/75-anti-lgbtq-bills-become-law-2023-rcna124250) from NBC News
@@ -410,11 +432,6 @@ _Additional resources on legislation in 2023:_
 - [How a Few Stories of Regret Fuel the Push to Restrict Gender Transition Care](https://www.nytimes.com/2023/05/16/us/politics/transgender-care-detransitioners.html) from The New York Times
 - [Inside The Cottage Industry Of ‘Experts’ Paid To Defend Anti-Trans Laws](https://www.huffpost.com/entry/paid-experts-defending-anti-trans-law_n_65021a7ee4b01df7c3b6d513) from Huffington Post
 
-_Additional resources on bills affecting trans people:_
-- [Covering the Community: How to Jump Hurdles in Queer Political Coverage](https://web.archive.org/web/20230130204451/https://www.ire.org/wp-content/uploads/woocommerce_uploads/2021/11/ire_q4_2021-iwwvrp.pdf) from Investigative Reporters & Editors
-- [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
-- [Reporting on Anti-Trans Legislation: In Service to Whom?](https://t.co/2RoysqAUzw) from the Solidarity Journalism Initiative
-
 _Additional resource on statehouse coverage:_
 - [Learning the Game](https://www.ncsl.org/legislative-staff/civics-education/learning-the-game) from the National Conference of State Legislatures
 - [A Journalist’s Guide to the Federal Courts](https://www.uscourts.gov/statistics-reports/publications/journalists-guide-federal-courts) from the U.S. Courts
@@ -423,19 +440,43 @@ _Additional resource on statehouse coverage:_
 
 </div>
 
-### reporting on the deaths of trans people { #deaths updated="2024-02-24" }
-Don’t assume the death of a trans person is in any way related to the person’s gender unless there is reason to believe that is the case. As with the death of a member of any minority group, do not assume that it is a murder, suicide, or hate crime just because the individual is trans. If a death is determined to be any of the above, refer to best practices for reporting on these topics. See also [_obituaries_](#obituaries) and [_reporting on crimes involving trans people_](#crimes).
+### bathroom restrictions { #bathrooms updated="2024-11-21" }
+
+Opponents of trans inclusion have sought to ban transgender people from restrooms and other facilities that align with their gender identity. These policies usually require people to use facilities consistent with their “biological sex,” defined as their _legal sex_ or as their _assigned sex at birth_, or not defined at all. 
+
+Consult the text of a bill, law, or policy; be as specific as possible about who is affected and how these categories are defined (or not defined). Bans that restrict manner of dress, for example, may ultimately be primarily enforced against transgender people, but may also have broader legal implications and splash effects. This context is important.
+
+Generally, refer to these as _anti-trans bathroom laws_, _rules_, etc. rather than simply _trans bans_. _Trans bathroom ban_ is acceptable if space is tight.
+
+When reporting on these policies, specify what they affect. These rules may cover only publicly-owned facilities, facilities owned by a specific agency or entity, or both public and private spaces. Note what facilities are covered (locker rooms, etc.) or excluded (single-stall bathrooms, etc.).
 
 <div class="readmore">
 
-_Additional resources on reporting on suicide:_
-- [Resources for covering violence against trans and nonbinary people](https://www.transjournalists.org/resources-for-covering-violence-against-trans-and-nonbinary-people/) from the Trans Journalists Association
-- [Best practices for covering suicide responsibly](https://www.poynter.org/reporting-editing/2018/best-practices-for-covering-suicide-responsibly/) from Poynter 
-- [Covering Suicide Responsibly](https://www.quillmag.com/2023/07/17/covering-suicide-responsibly/) from Society of Professional Journalists
-- [The Suicide Reporting Toolkit](https://www.suicidereportingtoolkit.com/journalists/)
-- [Covering mental health, suicide and addiction: A Q&A with Aneri Pattani](https://ethics.journalism.wisc.edu/2023/09/28/covering-mental-health-suicide-and-addiction-a-qa-with-aneri-pattani/?mc_cid=bdcf76af02&mc_eid=e55db5c1d2)  from the University of Wisconsin–Madison Center for Journalism Ethics
+_Additional resources:_
+- [No link between trans-inclusive policies and bathroom safety, study finds](https://www.nbcnews.com/feature/nbc-out/no-link-between-trans-inclusive-policies-bathroom-safety-study-finds-n911106) from NBC
+- [The Anti-Trans Bathroom Nightmare Has Its Roots in Racial Segregation](https://slate.com/human-interest/2015/11/anti-trans-bathroom-propaganda-has-roots-in-racial-segregation.html) from Slate
+- [How the Bathroom Wars Shaped America](https://www.politico.com/magazine/story/2016/05/2016-bathroom-bills-politics-north-carolina-lgbt-transgender-history-restrooms-era-civil-rights-213902/) from Politico
 
-</div> 
+</div>
+
+### reporting on U.S. trans health care bans { #health-care-bans updated="2024-11-21" }
+U.S. state lawmakers and other elected officials have sought to implement increasingly stringent restrictions on gender-affirming medical care, especially [but not exclusively](https://www.axios.com/2023/03/29/transgender-health-care-adult-ban-bills) for minors. Newsrooms of all sizes and in all media markets should be prepared to cover these policies, even if they lack dedicated LGBTQ+ beat reporters. 
+
+General best practices for reporting on health care-related topics are applicable here: Do not uncritically quote false or unproven statements, do not quote non-experts on technical topics as if they were experts, and be careful not to over-rely on anecdotal evidence, especially where an individual’s experience runs contrary to reliable statistics or broad scientific consensus. 
+
+Responsible reporting on gender-affirming care for trans minors should also contextualize the number of children actually thought to be receiving this care. Though data is limited, [surveys](https://www.ustranssurvey.org/reports) [generally show](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) most trans adults do not report having received any form of transition-related medical care, and similarly [small numbers of trans youth](https://www.factcheck.org/2023/05/scicheck-young-children-do-not-receive-medical-gender-transition-treatment/) have received transition-related medical care, with only a fraction of those cases involving surgery. See also [_detransition, retransition_](undefined)_._
+
+<div class="readmore">
+
+_Additional resources:_
+- [Combating Anti-LGBTQ+ Pseudoscience](https://www.splcenter.org/captain) from Southern Poverty Law Center
+- [The rise of anti-trans bills in the US](https://www.reuters.com/graphics/USA-HEALTHCARE/TRANS-BILLS/zgvorreyapd/) from Reuters
+- [Getting it right: Reporting on laws that prohibit gender-affirming care for minors](https://healthjournalism.org/blog/2023/03/getting-it-right-reporting-on-laws-that-prohibit-gender-affirming-care-for-minors/) from Association of Health Care Journalists
+- [Youth Access to Gender Affirming Care: The Federal and State Policy Landscape](https://www.kff.org/other/issue-brief/youth-access-to-gender-affirming-care-the-federal-and-state-policy-landscape/) from KFF
+- [What states are restricting transgender health care](https://www.axios.com/2023/03/18/gender-affirming-health-care-bans-transgender-lgbt) from Axios
+- [Covering LGBTQ+ health and health care: Reporting tips and story ideas](https://journalistsresource.org/home/covering-lgbtq-stories-resources-story-ideas/) from The Journalist’s Resource
+
+</div>
 
 ## Criminal Justice { #subsection-criminal-justice updated="2023-08-25" }
 ### reporting on crimes involving trans people { #crimes updated="2024-02-24" }
@@ -503,24 +544,6 @@ It is sometimes important to use more gendered language. For instance, if discus
 
 ### consider whether protected health information is necessary to a story { #necessary-health-info updated="2023-08-25" }
 When writing about transgender people, consider whether it’s necessary or appropriate to ask about their genitals, hormones, or medical procedures. Is the purpose of these questions to shed light on the importance of medical care and barriers to access? Or are they being asked for the sake of adding a line about someone’s transition in a story that doesn’t require it? Would similar information about a cisgender person’s health or body be relevant to the story? See also [_asking irrelevant questions_](#interview-etiquette)_._
-
-### reporting on U.S. trans health care bans { #health-care-bans updated="2023-08-25" }
-U.S. state lawmakers and other elected officials have sought to implement increasingly stringent restrictions on gender-affirming medical care, especially [but not exclusively](https://www.axios.com/2023/03/29/transgender-health-care-adult-ban-bills) for minors. Newsrooms of all sizes and in all media markets should be prepared to cover these policies, even if they lack dedicated LGBTQ+ beat reporters. 
-
-General best practices for reporting on health care-related topics are applicable here: Do not uncritically quote false or unproven statements, do not quote non-experts on technical topics as if they were experts, and be careful not to over-rely on anecdotal evidence, especially where an individual’s experience runs contrary to reliable statistics or broad scientific consensus. 
-
-Responsible reporting on gender-affirming care for trans minors should also contextualize the number of children actually thought to be receiving this care. Though data is limited, [surveys](https://www.ustranssurvey.org/reports) [generally show](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) most trans adults do not report having received any form of transition-related medical care, and similarly [small numbers of trans youth](https://www.factcheck.org/2023/05/scicheck-young-children-do-not-receive-medical-gender-transition-treatment/) have received transition-related medical care, with only a fraction of those cases involving surgery. See also [_detransition, retransition_](undefined)_._
-
-<div class="readmore">
-
-_Additional resources:_
-- [The rise of anti-trans bills in the US](https://www.reuters.com/graphics/USA-HEALTHCARE/TRANS-BILLS/zgvorreyapd/) from Reuters
-- [Getting it right: Reporting on laws that prohibit gender-affirming care for minors](https://healthjournalism.org/blog/2023/03/getting-it-right-reporting-on-laws-that-prohibit-gender-affirming-care-for-minors/) from Association of Health Care Journalists
-- [Youth Access to Gender Affirming Care: The Federal and State Policy Landscape](https://www.kff.org/other/issue-brief/youth-access-to-gender-affirming-care-the-federal-and-state-policy-landscape/) from KFF
-- [What states are restricting transgender health care](https://www.axios.com/2023/03/18/gender-affirming-health-care-bans-transgender-lgbt) from Axios
-- [Covering LGBTQ+ health and health care: Reporting tips and story ideas](https://journalistsresource.org/home/covering-lgbtq-stories-resources-story-ideas/) from The Journalist’s Resource
-
-</div>
 
 ### detransition, retransition { #detransition-retransition updated="2023-08-25" }
 _Detransition_ has several meanings. Most commonly, _detransitioning_ describes a person’s choice to stop their gender transition. This may, but does not always, involve pausing or changing course in gender-affirming medical care, choosing to use a previous name, or legally changing identification cards or other documents. 
@@ -753,6 +776,9 @@ A gender identity that describes someone whose gender fluctuates or is not fixed
 
 ### gender identity disorder (n.) { #def-gid updated="2023-08-25" }
 This is an outdated term. _Gender identity disorder_ used to be the official psychiatric diagnosis from the American Psychological Association for trans people seeking transition-related care in the U.S. In 2012, it was changed to _gender dysphoria_ (see [_gender dysphoria_](#def-euphoria-dysphoria)).
+
+_gender-neutral (adj.) (facilities, etc.) { #def-gender-neutral-bathrooms updated="2024-11-21" }_
+Bathrooms and other facilities that are intended for use only by men or only by women may be referred to with phrases like _single-gender_ or _gender-segregated,_ or simply as _men's_ and _women's_. Facilities intended for use by people regardless of gender may be referred to as _unisex, all-gender, gender-neutral,_ etc., or as _single-stall, private, communal,_ etc. where accurate. The phrase _inclusive_ is common here (i.e. _trans-inclusiv_e _restrooms_) but is nonspecific. Do not refer to unisex bathrooms as _transgender bathrooms_ or _nonbinary bathrooms_ unless they are exclusively for the use of transgender/nonbinary people. 
 
 ### gender-nonconforming (adj.) { #def-gender-nonconforming updated="2023-08-25" }
 Gender-nonconforming (often abbreviated as _GNC_) refers to gender presentations outside typical gendered expectations. Note that _gender-nonconforming_ is not a synonym for _nonbinary_. Many cisgender people may choose not to conform to typical gender presentations without identifying as trans, i.e. a cis woman who dresses in a masculine fashion. 
