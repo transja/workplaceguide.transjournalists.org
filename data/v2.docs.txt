@@ -777,8 +777,10 @@ A gender identity that describes someone whose gender fluctuates or is not fixed
 ### gender identity disorder (n.) { #def-gid updated="2023-08-25" }
 This is an outdated term. _Gender identity disorder_ used to be the official psychiatric diagnosis from the American Psychological Association for trans people seeking transition-related care in the U.S. In 2012, it was changed to _gender dysphoria_ (see [_gender dysphoria_](#def-euphoria-dysphoria)).
 
-### gender-neutral (adj.) (facilities, etc.) { #def-gender-neutral-bathrooms updated="2024-11-21" }
-Bathrooms and other facilities that are intended for use only by men or only by women may be referred to with phrases like _single-gender_ or _gender-segregated,_ or simply as _men's_ and _women's_. Facilities intended for use by people regardless of gender may be referred to as _unisex, all-gender, gender-neutral,_ etc., or as _single-stall, private, communal,_ etc. where accurate. The phrase _inclusive_ is common here (i.e. _trans-inclusiv_e _restrooms_) but is nonspecific. Do not refer to unisex bathrooms as _transgender bathrooms_ or _nonbinary bathrooms_ unless they are exclusively for the use of transgender/nonbinary people. 
+### gender-neutral (bathrooms, facilities) (adj.) { #def-gender-neutral-bathrooms updated="2024-11-21" }
+Bathrooms and other facilities that are intended for use only by men or only by women may be referred to with phrases like _single-gender_ or _gender-segregated,_ or simply as _men's_ and _women's_. Facilities intended for use by people regardless of gender may be referred to as _unisex, all-gender, gender-neutral,_ etc., or as _single-stall, private, communal,_ etc. where accurate. The phrase _inclusive_ is common here (i.e. _trans-inclusive restrooms_) but is nonspecific. 
+
+Do not refer to unisex bathrooms as _transgender bathrooms_ or _nonbinary bathrooms_ unless they are exclusively for the use of transgender/nonbinary people. 
 
 ### gender-nonconforming (adj.) { #def-gender-nonconforming updated="2023-08-25" }
 Gender-nonconforming (often abbreviated as _GNC_) refers to gender presentations outside typical gendered expectations. Note that _gender-nonconforming_ is not a synonym for _nonbinary_. Many cisgender people may choose not to conform to typical gender presentations without identifying as trans, i.e. a cis woman who dresses in a masculine fashion. 
