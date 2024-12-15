@@ -14,8 +14,8 @@ To run this project you will need:
 
 With those installed, you can then set the project up using your terminal:
 
-#. Pull the code - ``git clone git@github.com:transja/styleguide.transjournalists.org``
-#. Enter the project folder - ``cd styleguide.transjournalists.org``
+#. Pull the code - ``git clone git@github.com:transja/workplaceguide.transjournalists.org``
+#. Enter the project folder - ``cd workplaceguide.transjournalists.org``
 #. Install dependencies from NPM - ``npm install``
 #. Start the server - ``grunt``
 #. To authenticate your user profile, copy ``auth.json`` from the TJA password vault and save it in the root directory as ``auth.json``

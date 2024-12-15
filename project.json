@@ -5,9 +5,9 @@
   "scripts": {
     "src/js/main.js": "docs/app.js"
   },
-  "title": "Trans Journalists Association Styleguide",
+  "title": "Trans Journalists Association Workplace Guide",
   "description": "",
-  "url": "https://styleguide.transjournalists.org",
+  "url": "https://workplaceguide.transjournalists.org",
   "image": "assets/logo.png",
   "analytics": {
     "topicIDs": [],
@@ -16,7 +16,7 @@
   },
   "sheets": [],
   "docs": {
-    "v2": "1TRrR4ALBIKZCYJjgu_vxLA-f2LdlB90w0eOVU1Urvg4"
+    "v2": "1kYckCjnAGq7UGj9PDFbW2U6xfA2fB8KcIPUweG_ZtMk"
   },
   "embedded": true,
   "production": false
