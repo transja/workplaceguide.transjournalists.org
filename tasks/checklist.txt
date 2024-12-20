@@ -3,4 +3,4 @@ pre-launch items in the issues queue are complete, then set `"production":
 true` in your project.json to allow live publishes.
 
 Issues:
-https://github.com/transja/workplaceguide.transjournalists.org/issues
+https://github.com/transja/workerguide.transjournalists.org/issues
