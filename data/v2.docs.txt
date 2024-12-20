@@ -1,6 +1,6 @@
 [[toc]]
 
-# Workplace Resources Guide { #intro updated="2025–01-01" }
+# Workplace Resources Guide { #intro updated="2024-12-20" }
 
 This Workplace Resources Guide compiles tools from the journalism industry, LGBTQ+ organizations, legal experts, and security advisors. The guide addresses both newsroom leaders who may be seeking to support trans employees or contractors, as well as workers who may need resources to present to their manager. It also contains numerous “do-it-yourself” toolkits for journalists.
 
@@ -14,11 +14,13 @@ This guide contains the following sections:
 
 _If you run into a workplace issue that isn’t addressed in this guide — or you’re just trying to figure out how to interpret and apply our guidance — please reach out to our general contact at_ [_contact@transjournalists.org_](mailto:contact@transjournalists.org)_._
 
+_The inclusion of any individual resource within this document is not an endorsement of the organization offering the resource, nor is it a statement that the resource is complete, accessible, or equitable. Users of this resource are asked to assess each item on an individual basis and use your best judgement to evaluate its usefulness to you. If you find a particular resource to be especially concerning or inaccessible, please inform the TJA._
+
 _Last published [[date:DATETIME_FULL]]_
 
 <div class="donate">
 
-To support this employer resource and the Trans Journalists Association’s other work to support gender-expansive newsroom staff and freelancers, please consider donating to our organization.
+To support this employer resource and the Trans Journalists Association’s other work for gender-expansive newsroom staff and freelancers, please consider donating to our organization.
 
 <button type="button"><a href="https://bit.ly/tja_donate" target="_blank">Support Us</a></button>
 
@@ -26,36 +28,24 @@ To support this employer resource and the Trans Journalists Association’s othe
 
 <div style="height: 450px"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#ffffff" data-text-color="#000000" data-button-color="#A584B2" data-button-text-color="#FFFFFF" data-title="Trans Journalists Association" data-description="Supporting gender-expansive journalists in their workplaces and careers. Promoting more accurate, nuanced coverage of trans communities in the media." data-icon="https://www.transjournalists.org/content/images/size/w192h192/size/w256h256/2023/08/3-color-logo.png" data-site="https://www.transjournalists.org/" async></script></div>
 
-<div class="readmore">
-
-_NOTE ON ENDORSEMENT: The inclusion of any individual resource within this document is not an endorsement of the organization offering the resource, nor is it a statement that the resource is complete, accessible, or equitable. Users of this resource are asked to assess each item on an individual basis and use your best judgement to evaluate its usefulness to you. If you find a particular resource to be especially concerning or inaccessible, please inform TJA via_ [_contact@transjournalists.org_](mailto:contact@transjournalists.org)_._
-
-</div>
-
 <hr>
 
-# Holistic Safety Guide { #section-safety updated="2025–01-01" }
+# Holistic Safety Guide { #section-safety updated="2024-12-20" }
+This guide is compiled by TJA members and partners sharing our best practices for keeping ourselves and our data safe online and while reporting in person. Additional resources and support were provided by [Aegis Safety Alliance](https://www.aegissafetyalliance.org/) (Jen Byers + Tara Pixley) funded through the [2024 Knight Election Hub](https://knightfoundation.org/articles/announcing-the-knight-election-hub-to-support-newsrooms/) Urgent Care project. 
 
-<div class="readmore">
+## Trainings and Services { #subsection-safety-trainings updated="2024-12-20" }
 
-_This guide is compiled by TJA members and partners sharing our best practices for keeping ourselves and our data safe online and while reporting in person._
+Receiving a full, in-person safety training best-prepares reporters to understand digital and physical safety. These resources can supplement more robust trainings, or provide an alternative for those unable to access in-person trainings.
 
-_Some resources and support were provided by_ [_Aegis Safety Alliance_](https://www.aegissafetyalliance.org/) _(Jen Byers + Tara Pixley) funded through the_ [_2024 Knight Election Hub_](https://knightfoundation.org/articles/announcing-the-knight-election-hub-to-support-newsrooms/) _Urgent Care project._ 
-
-</div>
-## Trainings and Services { #subsection-safety-trainings updated="2025–01-01" }
-
-_Receiving a full, in-person safety training best-prepares reporters to understand digital and physical safety. These resources can supplement more robust trainings, or provide an alternative for those unable to access in-person trainings._
-
+### Past TJA trainings { #tja-trainings updated="2024-12-20" }
 _**Please note**_ _that these trainings are only viewable if you are_ [_logged in on the members site_](https://members.transjournalists.org/Sys/Login)_._
 
-### Past TJA trainings { #tja-trainings updated=”2025-01-01” }
 - [IRE training for TJA membership](https://members.transjournalists.org/IRE-220507): Digital Security 
   - [PowerPoint](https://docs.google.com/presentation/d/1-4WwrAP1cfOn12JJBvCJM0zNJbRQ3-Ie/edit?rtpof=true)
   - [PDF](https://drive.google.com/file/d/1IryAFCPIXVubd18HeutAcz_wyV4hVqnS/view?usp=sharing)
 - [IWMF training: Demystifying Digital Security](http://members.transjournalists.org/page-18090)
 
-### Free safety services for journalists  { #free-safety-resources updated=”2025-01-01” }
+### Free safety services for journalists  { #free-safety-resources updated="2024-12-20" }
 - **[Through January]** [Election hub helpline](https://knightelectionhub.org/) for all safety concerns — physical or digital, proactive or reactive
   - Journalists and news outlets can email urgentcare@electionsos.org with the word “SAFETY” in the subject line. 
 _IMPORTANT NOTE: Let us know you’re facing a safety concern and need support, but please DO NOT describe any safety issues in detail over email. A care coordinator will reach out as soon as possible to set up a secure communication channel. Support is available in English and may be available in Spanish and Arabic, depending on need._
@@ -64,37 +54,37 @@ _IMPORTANT NOTE: Let us know you’re facing a safety concern and need support, 
 - The [Online Violence Response Hub](https://onlineviolenceresponsehub.org/) consolidates over 130 resources for critical areas such as digital security training, documentation and reporting abuse, emergency assistance, newsroom protocols, strategies for responding to abuse, and legal support.
 - [SAFE Journalist Training and Resources](https://www.rtdna.org/safety) | RTDNA
 
-## Duty of Care and Newsroom Culture { #subsection-newsroom-safety updated="2025–01-01" }
-_Freelancers, assigning editors, and newsrooms should have conversations about the newsroom’s duty of care and contractual obligations early in the assignment planning process._ 
+## Duty of Care and Newsroom Culture { #subsection-newsroom-safety updated="2024-12-20" }
+Freelancers, assigning editors, and newsrooms should have conversations about the newsroom’s duty of care and contractual obligations early in the assignment planning process. 
 
-_Newsrooms should clearly articulate what freelancers can expect in terms of legal support, travel, and/or health insurance (including post-assignment psychological support), as needed. Freelancers can request a collective overview of the risk assessment for an assignment to open conversation on the newsroom’s duty of care._ 
+Newsrooms should clearly articulate what freelancers can expect in terms of legal support, travel, and/or health insurance (including post-assignment psychological support), as needed. Freelancers can request a collective overview of the risk assessment for an assignment to open conversation on the newsroom’s duty of care. 
 
-### Resources for newsroom leaders  { #newsroom-leadership-resources updated=”2025-01-01” }
-- [**Best Practices for Employers and Newsroom Leadership**](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers/) **|** PEN America
-- [**News Org Safety Self-Assessment**](https://www.acosalliance.org/_files/ugd/c1a6a6_2ff5d2a2540f45a7be5536aa3b87ad37.pdf) | ACOS: Newsrooms should complete this assessment before assigning staff or freelancers to assignments with any level of potential risk. 
-- [**Editor Safety Hub**](https://editorsafetyhub.org/home) **|** ACOS/WAN-IFRA: This 3-hour online course helps newsroom leaders understand how to best cultivate a culture of safe assigning and commissioning practices.
-- [**Freelance Publishing Agreement**](https://www.acosalliance.org/contracts) | ACOS**:** This contract template helps freelancers engage assigning editors and newsrooms in conversations around legal responsibilities 
+### Resources for newsroom leaders  { #newsroom-leadership-resources updated="2024-12-20" }
+- [Best Practices for Employers and Newsroom Leadership](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers/) | PEN America
+- [News Org Safety Self-Assessment](https://www.acosalliance.org/_files/ugd/c1a6a6_2ff5d2a2540f45a7be5536aa3b87ad37.pdf) | ACOS: Newsrooms should complete this assessment before assigning staff or freelancers to assignments with any level of potential risk. 
+- [Editor Safety Hub](https://editorsafetyhub.org/home) | ACOS/WAN-IFRA: This 3-hour online course helps newsroom leaders understand how to best cultivate a culture of safe assigning and commissioning practices.
+- [Freelance Publishing Agreement](https://www.acosalliance.org/contracts) | ACOS: This contract template helps freelancers engage assigning editors and newsrooms in conversations around legal responsibilities 
 
-### Risk assessment  { #risk-assessment updated=”2025-01-01” }
-- [**Risk Assessment Assignment Checklist | ACOS + Aegis**](https://www.acosalliance.org/_files/ugd/c1a6a6_d28c9352aeee47d7ae70522672ace7f1.pdf): Use this quick checklist for every assignment. Sit down with your editor or reporting team to review these questions. They can help clarify expectations, assignment safety needs, and preparation for potential risk.
-- [**Risk Assessment Training for Journalists in the Field | CPJ + PEN + IWMF + Aegis**](https://www.youtube.com/watch?v=eCHUe0MWdTo&list=PLrEwhHMtkH2BEcfbUUYYtg6RM3p_i5NJI&index=1&t=3s): A one-hour training video on how to complete a risk assessment. 
-- [**Trans Risk Assessment Map**](https://www.erininthemorning.com/p/anti-trans-legislative-risk-assessment-cd3) | Erin Reed: Documents local laws and policies pertaining to trans people in the U.S. specifically. However, avoid over-relying on statewide maps for risk assessment. Individual situations and locations all require separate evaluation, and the political climate of a broad region may not necessarily reflect the risks present at a given event. 
+### Risk assessment  { #risk-assessment updated="2024-12-20" }
+- [Risk Assessment Assignment Checklist | ACOS + Aegis](https://www.acosalliance.org/_files/ugd/c1a6a6_d28c9352aeee47d7ae70522672ace7f1.pdf): Use this quick checklist for every assignment. Sit down with your editor or reporting team to review these questions. They can help clarify expectations, assignment safety needs, and preparation for potential risk.
+- [Risk Assessment Training for Journalists in the Field | CPJ + PEN + IWMF + Aegis](https://www.youtube.com/watch?v=eCHUe0MWdTo&list=PLrEwhHMtkH2BEcfbUUYYtg6RM3p_i5NJI&index=1&t=3s): A one-hour training video on how to complete a risk assessment. 
+- [Trans Risk Assessment Map](https://www.erininthemorning.com/p/anti-trans-legislative-risk-assessment-cd3) | Erin Reed: Documents local laws and policies pertaining to trans people in the U.S. specifically. However, avoid over-relying on statewide maps for risk assessment. Individual situations and locations all require separate evaluation, and the political climate of a broad region may not necessarily reflect the risks present at a given event. 
 
-## Psychological Safety { #subsection-psychological-safety updated="2025–01-01" }
+## Psychological Safety { #subsection-psychological-safety updated="2024-12-20" }
 
 Taking care of your mental health is as important as your physical safety. These resources support journalists in preparing for difficult assignments, recognizing the signs of trauma and managing the mental health impacts of the journalism profession.   
 
-### Mental health resources  { #mental-health updated=”2025-01-01” }
+### Mental health resources  { #mental-health updated="2024-12-20" }
 _General support_
-- [**Psychological First Aid Primer | J-SOS**](https://www.sourceofsafety.org/PSYCHE-PRIMER.pdf)**:** This quick guide helps you respond to a person in psychological distress i.e. having an anxiety, PTSD or panic attack or a person who is  in shock in the immediate aftermath of a traumatic event. 
-- [**Trans Lifeline**](https://translifeline.org): Hotline for peer support and [community-based](https://translifeline.org/resources/community-based-crisis-support/) resources
+- [Psychological First Aid Primer | J-SOS](https://www.sourceofsafety.org/PSYCHE-PRIMER.pdf): This quick guide helps you respond to a person in psychological distress i.e. having an anxiety, PTSD or panic attack or a person who is  in shock in the immediate aftermath of a traumatic event. 
+- [Trans Lifeline](https://translifeline.org): Hotline for peer support and [community-based](https://translifeline.org/resources/community-based-crisis-support/) resources
 
 _Therapy and guides_
-- [**Resources for Journalists Seeking Therapy**](https://www.jtsn.org/resources-for-journalists): Provider directory and other resources from Journalism Trauma Support Network
-- [**Journalists and Mental Health**](https://americanpressinstitute.org/mental-health-resources-for-journalists/): General tips and resources guide from American Press Institute
-- [**Resources for Coping & Safety**](https://www.nabj.org/page/CopingSafetyResources): Trauma support and self-care for Black journalists from NABJ
+- [Resources for Journalists Seeking Therapy](https://www.jtsn.org/resources-for-journalists): Provider directory and other resources from Journalism Trauma Support Network
+- [Journalists and Mental Health](https://americanpressinstitute.org/mental-health-resources-for-journalists/): General tips and resources guide from American Press Institute
+- [Resources for Coping & Safety](https://www.nabj.org/page/CopingSafetyResources): Trauma support and self-care for Black journalists from NABJ
 
-### Safety with sources  { #source-safety updated=”2025-01-01” }
+### Safety with sources  { #source-safety updated="2024-12-20" }
 - Having clear boundaries with sources is _key_. 
 - Never over-promise to a source. Be transparent about the editorial process.
 - Do not get personally or romantically involved with a source.
@@ -105,10 +95,10 @@ _Therapy and guides_
   - Community awareness can [bolster safety](https://rjionline.org/news/reporting-in-spaces-of-civil-unrest/).
 - Making relationships with sources _before_ difficult events or conflict makes them more likely to talk during conflict and builds trust generally. Often, folks are closed-off and protective on the day of a protest, so it may be difficult to make connections.
 
-## Information Security Checklist { #subsection-byline-checklist updated="2025–01-01" }
+## Information Security Checklist { #subsection-byline-checklist updated="2024-12-20" }
 Past bylines are sometimes used as vectors for harassment. If you’re changing your byline, or have previously changed your byline but want to locate additional information associated with your past name, here are some resource checklists and places to look.
 
-### Locating and removing pre-transition information { #checklist-information-removal updated="2025-01-01" }
+### Locating and removing pre-transition information { #checklist-information-removal updated="2024-12-20" }
 - Look yourself up online and remove data
   - Delete or make private all images of a pre-transition self, if necessary
   - Untag yourself from photos or images posted pre-transition, if necessary
@@ -118,14 +108,14 @@ Past bylines are sometimes used as vectors for harassment. If you’re changing 
   - Request for Google or Apple Maps to blur out your address, if applicable
 - Set up 2FA for services using Google Authenticator, Authy, 1Password, or another service, and secure your accounts with them
 - Use a password manager to store and create your passwords
-### Developing a byline change plan { #checklist-byline-change-before updated="2025-01-01" }
+### Developing a byline change plan { #checklist-byline-change-before updated="2024-12-20" }
 - Decide on a day when you would like to socially transition at your workplace
 - Inform your HR and supervisor of your intent to transition
 - Make a list of services (like CMSes, newswire access, professional communication platforms) that will have to be updated if you change your name and its associated email handle
 - Write a coming out note and coordinate with your supervisor on announcements
   - You may also choose to write a Frequently Asked Questions (FAQ) section in your note to answer any questions people may have
 
-### How to change your byline { #checklist-byline-change-during updated="2025-01-01" }
+### How to change your byline { #checklist-byline-change-during updated="2024-12-20" }
 - Change your username and name on social media services: [Facebook](https://www.facebook.com/business/help/420650638385270?id=867336363714190), [Instagram/Threads](https://help.instagram.com/583107688369069), [Twitter/X](https://help.twitter.com/en/managing-your-account/change-x-handle), [LinkedIn display name](https://www.linkedin.com/help/linkedin/answer/a1338854/changing-how-your-name-appears-on-your-profile), [LinkedIn public profile URL](https://www.linkedin.com/help/linkedin/answer/a542685) among others
 - Update services that you use for work, if you have changed your name and associated email handle
 - [Claim your profile](https://help.muckrack.com/en/articles/2510844-step-by-step-process-for-claiming-a-journalist-profile-on-muck-rack) with Muck Rack (if you have yet to do so) and change your name there
@@ -133,7 +123,7 @@ Past bylines are sometimes used as vectors for harassment. If you’re changing 
 - Make a list of places where your former byline would appear, and look up their contacts
 - Request for a change in byline in places you no longer work at
 
-### After you change your byline { #checklist-byline-change-after updated="2025-01-01" }
+### After you change your byline { #checklist-byline-change-after updated="2024-12-20" }
 - Create a separate email to create new social media accounts that will be used to park your old social media handles/usernames
 - Park your old social media handles with a new account
   - Immediately (for Twitter/X, Bluesky or Mastodon)
@@ -142,16 +132,16 @@ Past bylines are sometimes used as vectors for harassment. If you’re changing 
 - Secure these accounts with 2FA
 - Maintain these old accounts once every 6 months to a year
 
-## Digital Security { #subsection-digital-safety updated="2025–01-01" }
-_Assess your digital safety pre-assignment by “doxxing yourself” i.e. seeing what info is available online, who might be able to access it and how and locking down your data, profile and other sensitive info using the tools below._  
+## Digital Security { #subsection-digital-safety updated="2024-12-20" }
+Assess your digital safety pre-assignment by “doxxing yourself” i.e. seeing what info is available online, who might be able to access it, and how. Lock down your data, profile, and other sensitive info using the tools below.  
 
-### Communications { #digital-communications updated=”2025-01-01” }
-- Use encrypted communication (eg. Signal) as much as possible when talking with sources or other reporters.
-- Use a VPN when researching.
+### Communications { #digital-communications updated="2024-12-20" }
+- Use encrypted communication (e.g. Signal) as much as possible when talking with sources or other reporters
+- Use a VPN when researching
 - Consider secure or encrypted data storage
-- Include communications plans and digital threats in your [risk assessment planning](https://rorypecktrust.org/how-we-help/freelance-resources/downloads/). 
+- Include communications plans and digital threats in your [risk assessment planning](https://rorypecktrust.org/how-we-help/freelance-resources/downloads/) (and see our [_risk assessment_](#risk-assessment) resources)
 
-### Digital safety resources { #digital-safety updated=”2025-01-01” }
+### Digital safety resources { #digital-safety updated="2024-12-20" }
 - [Online Harassment Field Manual](https://onlineharassmentfieldmanual.pen.org/) | PEN America 
 - [Digital Safety Kit](https://cpj.org/2019/07/digital-safety-kit-journalists/) | Committee to Protect Journalists
 - [Digital and Physical Safety: Protecting Confidential Sources](https://cpj.org/2021/11/digital-physical-safety-protecting-confidential-sources/) | CPJ
@@ -159,40 +149,47 @@ _Assess your digital safety pre-assignment by “doxxing yourself” i.e. seeing
 - [Physical and Digital Safety: Arrest and detention](https://cpj.org/2021/02/physical-and-digital-safety-arrest-and-detention/) | CPJ
 - [Digital Safety Snacks](https://pen.org/digital-safety-snacks/) | PEN America
 
-### Do-it-yourself information management { #diy-info-management updated=”2025-01-01” }
+### Do-it-yourself information management { #diy-info-management updated="2024-12-20" }
 - [How to dox yourself before someone else can](https://drive.google.com/file/d/1IOLBg7lxqEdqyFGIiZUnpF_4oBJRDNqp/view?usp=sharing)
 - [How to choose the right information removal service](https://drive.google.com/file/d/1FIj_sc-UDyeBLKZx_5lc99gcWI_B_NAp/view?usp=sharing)
-- [How to remove your own information from data brokers](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+- [How to remove your own information from data brokers](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [How other people will find your information — and how to stop them](https://guides.accessnow.org/self-doxing.html)
 - [How to disrupt and prevent digital harassment](https://drive.google.com/file/d/173QIhW2UbWeAEcGWTtPWAmP53m8SMeRo/view?usp=sharing)
 
-### Data broker tools { #data-brokers updated=”2025-01-01” }
-_There are a_ [_number of services_](https://innovation.consumerreports.org/wp-content/uploads/2024/08/Data-Defense_-Evaluating-People-Search-Site-Removal-Services-.pdf) _that will remove your information from data brokers on your behalf — for a fee. Below we offer some discounts for paid services where available._ 
+### Data broker tools { #data-brokers updated="2024-12-20" }
+There are a number of services that will remove your information from data brokers on your behalf — for a fee. Below we offer some discounts for paid services where available. 
 
-_**Remember**__: As you’re opting out, include any / all names you have. Most sites allow inputs for multiple names, as well as family members._
+_Recommended paid tools_
 - [Authy](https://authy.com/)
-- [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [EasyOptOuts](https://easyoptouts.com)
 - [Cryptomator](https://cryptomator.org/) 
 - [DeleteMe](https://joindeleteme.com/)
+
+For more information on these tools, review the [Consumer Reports evaluation](https://innovation.consumerreports.org/wp-content/uploads/2024/08/Data-Defense_-Evaluating-People-Search-Site-Removal-Services-.pdf) of costs, efficiency, and efficacy of data broker opt-out programs. 
+
+**Remember**: As you’re opting out, include any / all names you have. Most sites allow inputs for multiple names, as well as family members’.
+
+_Discounts available_
 - TJA has a 20% membership discount code for DeleteMe’s one-year or two-year plans, which take down information from data brokers. The code works with both family and individual accounts. You can [request that through a form](https://docs.google.com/forms/d/e/1FAIpQLSf9_psCvbcG2NMC81JsTzjSznYksSMHnXaeUpUKoQ0Fihn4Tg/viewform). There are a lot of limitations for this service (ie, it’s apparently better for US than UK users), but it can still save many people hours of work. 
 - IWMF [also offers discounts](https://iwmf.submittable.com/submit/a9bcc475-16cb-4005-aaa9-f59b8e9f2ca1/nsaa-request-for-a-deleteme-subscription?fbclid=PAZXh0bgNhZW0CMTEAAaaqWSN9SLzHXBVyKGygSpVZdZq6_sPOJ_mKBwmDnTFQGD_49hTe9aikfLw_aem_BE0zMnWgboUB8sW4C5JACA) and/or free DeleteMe subscriptions
 - Visa offers [free Norton Lifelock](https://lifelock.norton.com/visabenefit) to most Visa card holders 
 
-**Password Managers**
-_Password managers store your passwords, which allow them to be more secure._
+_Password managers_
 - DuoPass
-- [1Password for Journalists](https://1password.com/for-journalism/)
+- [1Password for Journalists](https://1password.com/for-journalism/) (discounted for journalists)
 - [LastPass](https://www.lastpass.com/products/personal) (free for journalists)
+- [Bitwarden](https://bitwarden.com/) (robust free version)
 
-**Protecting personal data/ protecting against online abuse**
+Password managers store your passwords, which allow them to be more secure. We recommend that all journalists use a personal password manager that is separate from any employer-offered tool. 1Password has particularly good mutli-account support; Bitwarden has a very reliable free, open source plan.
+
+_Protecting personal data/ protecting against online abuse_
 - [Coalition Against Online Violence](https://onlineviolenceresponsehub.org/)
-- [A Guide to Protecting Newsrooms and Journalists Against Online Violence - IWMF](https://www.iwmf.org/newsroom-policy-guide/)
-- [A Mental Health Guide for Journalists Facing Online Violence - IWMF](https://www.iwmf.org/mental-health-guide/)
-- [Online Violence - IWMF](https://www.iwmf.org/programs/online-harassment/)
+- [A Guide to Protecting Newsrooms and Journalists Against Online Violence](https://www.iwmf.org/newsroom-policy-guide/) | IWMF
+- [A Mental Health Guide for Journalists Facing Online Violence](https://www.iwmf.org/mental-health-guide/) | IWMF
+- [Online Violence](https://www.iwmf.org/programs/online-harassment/) | IWMF
 
-## Physical Safety in Protest Coverage { #subsection-protest-physical-safety updated="2025–01-01" }
-### Digital surveillance { #digital-surveillance updated=”2025-01-01” }
+## Physical Safety in Protest Coverage { #subsection-protest-physical-safety updated="2024-12-20" }
+### Digital surveillance { #digital-surveillance updated="2024-12-20" }
 _It’s common knowledge that surveillance is used by law enforcement to target dissidents, but these techniques can also be used against journalists — both by the state and by civilian bad actors._
 
 - Study the digital surveillance tactics used against [activists](https://www.uscannenbergmedia.com/2023/01/26/if-protests-are-now-terrorism-what-is-state-brutality-and-surveillance/) and [January 6th rioters](https://www.isdglobal.org/digital_dispatches/jan-6-series-how-osint-powered-the-largest-criminal-investigation-in-us-history/) to understand ways you might be targeted. 
@@ -200,7 +197,7 @@ _It’s common knowledge that surveillance is used by law enforcement to target 
 - Consider using a VPN on your phone while reporting on protests.
 - Use encrypted communications, like Signal.
 
-### Situational awareness { #situational-awareness updated=”2025-01-01” }
+### Situational awareness { #situational-awareness updated="2024-12-20" }
 The best way to avoid danger is to stay aware of your surroundings. Being aware is a process, and you want to continuously survey, collect information, assess, and reassess.
 
 _Resources for covering protests_
@@ -228,7 +225,7 @@ _Questions to ask during research_
 - Have there been any recent or historical attacks on the press or LGBTQ+ people?
 - Are the local police/sheriffs/etc. known to use certain tactics or use certain munitions? 
 
-### Profile-building  { #profile-building updated=”2025-01-01” }
+### Profile-building  { #profile-building updated="2024-12-20" }
 _Your profile is a combination of your dress, gear, and how you carry yourself. Sometimes you want to stand out and other times you want to blend in. Sometimes you want to look “fancy,” other times plain, other times punk. Deciding how you want to build your profile is up to you, but part of safety planning is to think through how you can best prepare yourself to work effectively and safely, while also recognizing what your attire will say about you to others._ 
 
 _Questions to ask yourself_
@@ -248,14 +245,14 @@ _Questions to ask yourself_
 - Are there any signifiers relevant to the area that could mark me as a member of a group or ideology? Do I want to lean into that or avoid that? (E.g. wearing all black, black/yellow, a red hat, an American flag).
 - If I have multiple gender presentations, which will make me feel the most comfortable, safe, and able to do my job?
 
-### Civil unrest gear and personal protective equipment   { #civil-unrest-ppe updated=”2025-01-01” }
+### Civil unrest gear and personal protective equipment   { #civil-unrest-ppe updated="2024-12-20" }
 Much of the available safety gear for protest and other hazardous reporting environments are made with a cis-male body in mind and are inherently militaristic. We recommend keeping a lower profile for civil unrest environments i.e. eye protection and mask to filter chemical attacks. Keep these handy to don when needed but not in plain sight, if possible. 
 
-- [**PPE Primer | Journalism Source of Safety**](https://www.sourceofsafety.org/PPE-PRIMER.pdf) **|** [J-SOS] : This quick guide is aimed toward basic info for freelancers and needs of a protest environment. 
-- [**SAFE Training: Civil Unrest and High-Risk Events**](https://www.rtdna.org/article/safe_training_part_2_civil_unrest_and_high_risk_events) | RTDNA
-- [**A Guide to PPE (Personal Protective Equipment)**](https://cpj.org/wp-content/uploads/2020/11/PPE-Glossary_CPJ-FINAL.pdf) **|** CPJ: This guide is geared toward a war/conflict environment and is helpful for detailed info but may not be relevant for protest reporting. 
-- [**Civil Unrest Safety Briefing**](https://www.sourceofsafety.org/civil-unrest#civilunrestgear) | J-SOS:  Some key, basic knowledge for preparing yourself to report safely in civil unrest situations. 
-- [**First Aid Briefing**](https://www.sourceofsafety.org/first-aid#firstaidgear) | J-SOS: This resource provides an overview of key first aid knowledge and recommends specific items to have on you for your personal individual first aid kit (I-FAK) 
+- [PPE Primer | Journalism Source of Safety](https://www.sourceofsafety.org/PPE-PRIMER.pdf) | [J-SOS] : This quick guide is aimed toward basic info for freelancers and needs of a protest environment. 
+- [SAFE Training: Civil Unrest and High-Risk Events](https://www.rtdna.org/article/safe_training_part_2_civil_unrest_and_high_risk_events) | RTDNA
+- [A Guide to PPE (Personal Protective Equipment)](https://cpj.org/wp-content/uploads/2020/11/PPE-Glossary_CPJ-FINAL.pdf) | CPJ: This guide is geared toward a war/conflict environment and is helpful for detailed info but may not be relevant for protest reporting. 
+- [Civil Unrest Safety Briefing](https://www.sourceofsafety.org/civil-unrest#civilunrestgear) | J-SOS:  Some key, basic knowledge for preparing yourself to report safely in civil unrest situations. 
+- [First Aid Briefing](https://www.sourceofsafety.org/first-aid#firstaidgear) | J-SOS: This resource provides an overview of key first aid knowledge and recommends specific items to have on you for your personal individual first aid kit (I-FAK) 
 
 _Equipment to consider carrying_
 - Active ear protection and ear plugs
@@ -268,88 +265,88 @@ Experts recommend having access to small tools you can quickly and effectively u
 - Some recommend tactical pens and tasers. However, these items often have regulatory and legal restrictions that change from city-to-city and are difficult to research, especially when purchased online. They must also be used at a close distance, which may hinder escape. Safety experts recommend a tool that allows users to create and maintain physical distance, like pepper spray, over tactical pens. 
 
 _Resources_
-- [**De-escalation and Use of Force**](https://www.youtube.com/watch?v=21mXO37jLLU) [Video Tutorial]
-- [**Self-defense tactics for trans and nonbinary folks**](https://getplume.co/blog/self-defense-for-trans-and-nonbinary-folks/) | Plume
-- [**Should you use a tactical pen for self-defense?**](https://www.youtube.com/watch?v=e2-EDLoFnF4&ab_channel=EliteYou) [Video Tutorial]
+- [De-escalation and Use of Force](https://www.youtube.com/watch?v=21mXO37jLLU) [Video Tutorial]
+- [Self-defense tactics for trans and nonbinary folks](https://getplume.co/blog/self-defense-for-trans-and-nonbinary-folks/) | Plume
+- [Should you use a tactical pen for self-defense?](https://www.youtube.com/watch?v=e2-EDLoFnF4&ab_channel=EliteYou) [Video Tutorial]
 
-## General Physical Safety { #subsection-general-physical-safety updated="2025–01-01" }
-### First aid  { #first-aid updated=”2025-01-01” }
+## General Physical Safety { #subsection-general-physical-safety updated="2024-12-20" }
+### First aid  { #first-aid updated="2024-12-20" }
 It is generally best-practice to carry gloves, gauze, and tourniquettes in high-risk situations.
 
 _Additional first aid resources_
-- [**First Aid Primer**](https://www.sourceofsafety.org/FIRSTAID-PRIMER.pdf) | J-SOS: This quick guide provides an overview of what to look for when your or someone near you has been physically injured. The goal of first aid is to assess and stabilize for trained emergency/medical personnel to take over. 
-- [**How to Apply a Tourniquet**](https://www.youtube.com/watch?v=tOm8lJLRWF0&ab_channel=MassGeneralHospital) [Video tutorial]
-- [**Five Basic First Aid Skills**](https://www.redcross.org.uk/first-aid/learn-first-aid/videos) | British Red Cross 
+- [First Aid Primer](https://www.sourceofsafety.org/FIRSTAID-PRIMER.pdf) | J-SOS: This quick guide provides an overview of what to look for when your or someone near you has been physically injured. The goal of first aid is to assess and stabilize for trained emergency/medical personnel to take over. 
+- [How to Apply a Tourniquet](https://www.youtube.com/watch?v=tOm8lJLRWF0&ab_channel=MassGeneralHospital) [Video tutorial]
+- [Five Basic First Aid Skills](https://www.redcross.org.uk/first-aid/learn-first-aid/videos) | British Red Cross 
 
-### How to find applicable self-defense courses { #self-defense updated=”2025-01-01” }
+### How to find applicable self-defense courses { #self-defense updated="2024-12-20" }
 Some communities have been organizing LGBTQ+-focused self-defense classes. It may be worthwhile to look for a class or group in your area, to build confidence and ensure you are able to get out of dangerous situations safely. 
 
 Look for gyms with classes focused on practical self-defense skills — e.g. tactics like “disable and escape.” Some martial arts forms, such as krav maga and others commonly used by military or police, assume that their practitioners have qualified immunity. These martial arts forms may teach tactics that escalate, rather than diffuse, unsafe situations, or that may increase your legal liability as a civilian. If looking to seriously learn self-defense, it is best to practice both a grappling art and a striking art. Classes on de-escalation and first aid are also recommended.
 
 You can assess whether the gym and trainers are trans-inclusive by calling ahead, reading reviews, or browsing their website. If you have local community who wants to study together, many gyms will allow for smaller, private lessons focused on the group’s needs and skill set.
 
-### Evaluating bathroom access on assignment  { #bathroom-access updated=”2025-01-01” }
+### Evaluating bathroom access on assignment  { #bathroom-access updated="2024-12-20" }
 _Resources_
-- [**Map of Laws for Bathroom Bans**](https://www.lgbtmap.org/equality-maps/nondiscrimination/bathroom_bans) | Movement Advancement Project
-- [**Tips for if Confronted in the Restroom**](https://legacy.lambdalegal.org/know-your-rights/article/trans-bathroom-tips) & [**FAQ about Restroom Use Best Practice**](https://legacy.lambdalegal.org/know-your-rights/article/trans-restroom-faq) | Lambda Legal
-- [**Tips to Share with Allies**](https://19thnews.org/2024/03/bathroom-safety-trans-nonbinary-people/) | The 19th
-- [**Legal Regulations and Tips to Share with Office**](https://www.thehrcfoundation.org/professional-resources/restroom-access-for-transgender-employees)  | HRC
-- [**Best Practices for Office Bathrooms**](https://outandequal.org/wp-content/uploads/2019/02/Best-Practices-Restrooms-2017-1.pdf) | Out and Equal
+- [Map of Laws for Bathroom Bans](https://www.lgbtmap.org/equality-maps/nondiscrimination/bathroom_bans) | Movement Advancement Project
+- [Tips for if Confronted in the Restroom](https://legacy.lambdalegal.org/know-your-rights/article/trans-bathroom-tips) & [FAQ about Restroom Use Best Practice](https://legacy.lambdalegal.org/know-your-rights/article/trans-restroom-faq) | Lambda Legal
+- [Tips to Share with Allies](https://19thnews.org/2024/03/bathroom-safety-trans-nonbinary-people/) | The 19th
+- [Legal Regulations and Tips to Share with Office](https://www.thehrcfoundation.org/professional-resources/restroom-access-for-transgender-employees)  | HRC
+- [Best Practices for Office Bathrooms](https://outandequal.org/wp-content/uploads/2019/02/Best-Practices-Restrooms-2017-1.pdf) | Out and Equal
 
 _Tips_
 - Research ahead if reporting at a new location. (E.g. call ahead; ask sources for recommendations; look up laws, political temperature, or a building map.)
 - If a location is known to be notably hostile, find out: Are there gender-neutral or single-stall restrooms? Is there an LGBTQ+-friendly local business nearby? 
 - Consider the buddy system. Backwatchers are good in most scenarios.
 - Know and believe that you are supposed to be there, so your mannerisms convey that to others.
-# Trans-inclusive Workplace Policies { #section-policies updated="2025-01-01" }
+# Trans-inclusive Workplace Policies { #section-policies updated="2024-12-20" }
 
 ## Written Policy Best Practices { #subsection-written-policies updated="2023-08-05" }
 
-### General policy { #workplace-general updated=”2023-08-05” }
+### General policy { #workplace-general updated="2023-08-05" }
 - Have a workplace write anti-discrimination and anti-harassment policy that explicitly include sex, sexual orientation, gender identity and gender expression as protected categories.
 - Have clear policies that outline expected behavior and protocol concerning the categories below. 
 - Keep a Workplace Transition Plan that follows best practices.
 - Maintain a list of contacts who can answer questions related to the Workplace Transition Plan, records, and internal policies.
 - Introduce all workplace policies to every employee as part of onboarding.
 
-### Workplace education { #workplace-education updated=”2023-08-05” }
+### Workplace education { #workplace-education updated="2023-08-05" }
 - Employers should provide and encourage consistent workplace education on transgender issues, regardless of whether a workplace contains any openly transgender employees. This will improve coverage of transgender communities as well as foster a safer workplace environment for all employees. 
 - Whenever possible, this education should come from professional organizations that provide in-person, full-workplace training. Mandatory online programs are also acceptable if bringing in trained professionals is not feasible.
 - If necessary, additional education should be provided when transgender employees enter the workplace. However, general education already provided to employees should cover any topics that would become relevant upon an out transgender employee entering the workplace.
 - LGBTQ and other underrepresented employees should not be asked to provide workplace education to their coworkers.
-### LGBTQ issues coverage { #lgbtq-coverage updated=”2023-08-05” }
+### LGBTQ issues coverage { #lgbtq-coverage updated="2023-08-05" }
 - LGBTQ and other under-represented employees should not be expected to provide editorial guidance or sensitivity reads outside of the scope of their typical work.
 - LGBTQ employees should not be taken off any story because of their gender identity or sexual orientation. 
 - LGBTQ employees should not be automatically assigned stories on LGBTQ issues solely because of their gender identity or sexual orientation.
-### Privacy { #privacy updated=”2023-08-05” }
+### Privacy { #privacy updated="2023-08-05" }
 - Employees have a right to decide whether and when to disclose and discuss their gender and identity.
 - Management, human resources, and other colleagues should not disclose or discuss an employee’s transgender status without obtaining prior consent.
 - Disclosing an employee’s transgender status can constitute a violation of medical privacy laws, such as HIPAA.
-### Names and pronouns { #names-pronouns updated=”2023-08-05” }
+### Names and pronouns { #names-pronouns updated="2023-08-05" }
 - All records should reflect an employee’s chosen name, rather than legal name, even if they have not changed their legal name — unless required by outside institutions (such as by payroll and bank records).
 - As best practice, newsrooms should update past and future bylines for transgender employees without requiring documentation. This is a matter of both accuracy and safety, as the easy availability of trans journalists’ past bylines facilitates harassment. 
 - In newsrooms with technical systems that would re-publish past stories if bylines were updated (e.g. news wires), updating bylines may out employees or cause other issues. It's important to inform employees of how and where updated information could appear, and also to consider this while developing internal policies around byline changes.
 - In newsrooms that use CMS systems that share stories between multiple partner sites, old bylines and user profiles may appear on other sites for which the employer does not have edit access. Appoint a manager or human resources employee to contact other outlets to request byline and profile updates for transgender employees. 
 - Do not require employees to disclose pronouns in places such as email signatures, business cards, or social accounts. Instead, provide all employees with a newsroom-wide, consistent format for voluntarily including pronouns in relevant venues. Encourage employees to participate regardless of their genders. For additional information, see [_Pronoun Disclosure on Professional Platforms_](#subsection-pronoun-disclosure)_._
-### Harassment policies { #harassment-policies updated=”2023-08-05” }
+### Harassment policies { #harassment-policies updated="2023-08-05" }
 - ​​Persistent, malicious refusal to use correct names and pronouns can legally constitute harassment. The relevant laws for your workplace should be noted in workplace anti-harassment and anti-discrimination policies.
 - All newsrooms should have policies and procedures for dealing with harassment directed toward reporters by the public. These policies should cover in-person, in-the-field incidents of harassment as well as online harassment. Those policies should specifically include trans journalists. 
 - For additional information on external safety and harassment policies, 
-### Sex-segregated job assignments and workplace events { #sex-segregation updated=”2023-08-05” }
+### Sex-segregated job assignments and workplace events { #sex-segregation updated="2023-08-05" }
 - Employees should generally be classified according to their lived gender, not assigned sex at birth, at workplace events unless they choose otherwise.
 - While determining reporting assignments, do not make assumptions about whether a transgender employee would be comfortable or uncomfortable attending and reporting on an event or community that separates groups by gender. Consult the employee. 
-### Restrooms and locker rooms { #restrooms updated=”2023-08-05” }
+### Restrooms and locker rooms { #restrooms updated="2023-08-05" }
 - It is best practice to have single-use, gender-neutral restrooms available to all employees.
 - Transgender employees should not be denied access to common restrooms or restricted to a single-use restroom.
 - Transgender employees should be allowed to use any restrooms and locker rooms that best correspond to their gender. 
-### Dress codes { #dress-codes updated=”2023-08-05” }
+### Dress codes { #dress-codes updated="2023-08-05" }
 - It is best practice to have a dress code that does not restrict manner of dress based on gender and identity.
 - Transgender employees should be able to follow the dress code most appropriate to their gender or gender expression. 
-### Health insurance { #health-insurance updated=”2023-08-05” }
+### Health insurance { #health-insurance updated="2023-08-05" }
 - Employers should seek employee medical insurance plans that include and cover transgender health care.
 - Transition-related care should be eligible for any workplace medical leave plans, both individual and state-mandated.
 
-## Pronoun Disclosure on Professional Platforms { #subsection-pronoun-disclosure updated="2025-01-01" }
+## Pronoun Disclosure on Professional Platforms { #subsection-pronoun-disclosure updated="2024-12-20" }
 
 Pronouns are increasingly a standard part of many workplaces’ professional email signatures, along with titles, social media handles, and other boilerplate information. 
 
@@ -413,13 +410,13 @@ This guide walks through important questions and best practices for employers wh
 - Would they prefer to announce new names and pronouns to relevant coworkers or communicate the information one-on-one? 
 - Would they prefer to announce new names and pronouns themselves or have a supervisor communicate relevant information in a meeting or via email? 
 
-# Additional Resources { #section-additional-resources updated="2025-01-01" }
+# Additional Resources { #section-additional-resources updated="2024-12-20" }
 
-### Workers’ rights toolkits { #read-worker-toolkits updated="2025-01-01" }
+### Workers’ rights toolkits { #read-worker-toolkits updated="2024-12-20" }
 - The Freelance Solidarity Project’s [New to Freelancing? A Resources Guide](https://sites.google.com/view/fsp-resources/home)
 - Beyond Binary Legal [Trans & Nonbinary Workers’ Toolkit](https://legalaidatwork.org/new-toolkit-for-transgender-and-nonbinary-workers/)
 
-### Employment resources { #read-employment-resources updated="2025-01-01" }
+### Employment resources { #read-employment-resources updated="2024-12-20" }
 - [OpenNews’ DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms](https://opennews.org/what/community/dei-coalition/join/)
 - [The Open Notebook’s Diversity, Equity, and Inclusion Resources](https://www.theopennotebook.com/diversity-equity-and-inclusion-resources/)
 - [Transgender Law Center’s Employment Resources](https://transgenderlawcenter.org/resources/employment/)
