@@ -1,11 +1,11 @@
 {
-  "name": "workerguide",
+  "name": "workplaceguide",
   "description": "",
   "version": "0.0.1",
   "author": "Ændra Rininsland",
   "repository": {
     "type": "git",
-    "url": "https://github.com/transja/workerguide.transjournalists.org.git"
+    "url": "https://github.com/transja/workplaceguide.transjournalists.org.git"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.81.0",

@@ -1,4 +1,4 @@
-workerguide.transjournalists.org
+workplaceguide.transjournalists.org
 ======================================================
 
 This news app is built on Chalkbeat's `interactive template <https://github.com/chalkbeat/interactive-template>`, which was then adapted to `styleguide.transjournalists.org`. Check the readme for that template for more details about the structure and mechanics of the app, as well as how to start your own project.
@@ -14,8 +14,8 @@ To run this project you will need:
 
 With those installed, you can then set the project up using your terminal:
 
-#. Pull the code - ``git clone git@github.com:transja/workerguide.transjournalists.org``
-#. Enter the project folder - ``cd workerguide.transjournalists.org``
+#. Pull the code - ``git clone git@github.com:transja/workplaceguide.transjournalists.org``
+#. Enter the project folder - ``cd workplaceguide.transjournalists.org``
 #. Install dependencies from NPM - ``npm install``
 #. Start the server - ``grunt``
 #. To authenticate your user profile, copy ``auth.json`` from the TJA password vault and save it in the root directory as ``auth.json``
