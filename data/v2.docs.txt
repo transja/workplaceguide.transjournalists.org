@@ -162,7 +162,7 @@ _Recommended paid tools_
 
 For more information on these tools, review the [Consumer Reports evaluation](https://innovation.consumerreports.org/wp-content/uploads/2024/08/Data-Defense_-Evaluating-People-Search-Site-Removal-Services-.pdf) of costs, efficiency, and efficacy of data broker opt-out programs. 
 
-**Remember**: As you’re opting out, include any / all names you have. Most sites allow inputs for multiple names, as well as those of family members.
+**Remember**: As you’re opting out, include any/all names you have used legally or professionally. Most sites allow inputs for multiple names, as well as those of family members.
 
 _Discounts available_
 - TJA has a 20% membership discount code for DeleteMe’s one-year or two-year plans, which take down information from data brokers. The code works with both family and individual accounts. You can [request that through a form](https://docs.google.com/forms/d/e/1FAIpQLSf9_psCvbcG2NMC81JsTzjSznYksSMHnXaeUpUKoQ0Fihn4Tg/viewform). There are a lot of limitations to this service (e.g. it’s apparently better for US than UK users), but it can still save many people hours of work. 
@@ -177,7 +177,7 @@ _Password managers_
 
 Password managers store your passwords, which allows them to be more secure. We recommend that all journalists use a personal password manager that is separate from any employer-offered tool. 1Password has particularly good mutli-account support; Bitwarden has a very reliable free, open source plan.
 
-_Protecting personal data/ protecting against online abuse_
+_Guides to protecting_ _personal data/protecting against online abuse_
 - [Coalition Against Online Violence](https://onlineviolenceresponsehub.org/)
 - [A Guide to Protecting Newsrooms and Journalists Against Online Violence](https://www.iwmf.org/newsroom-policy-guide/) | IWMF
 - [A Mental Health Guide for Journalists Facing Online Violence](https://www.iwmf.org/mental-health-guide/) | IWMF
