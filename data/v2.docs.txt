@@ -45,10 +45,8 @@ Receiving a full, in-person safety training prepares reporters to understand dig
   - [PDF](https://drive.google.com/file/d/1IryAFCPIXVubd18HeutAcz_wyV4hVqnS/view?usp=sharing)
 - [IWMF training: Demystifying Digital Security](http://members.transjournalists.org/page-18090)
 
-### Free safety services for journalists  { #free-safety-resources updated="2024-12-20" }
-- **[Through January]** [Election hub helpline](https://knightelectionhub.org/) for all safety concerns — physical or digital, proactive or reactive
-  - Journalists and news outlets can email urgentcare@electionsos.org with the word “SAFETY” in the subject line. 
-_IMPORTANT NOTE: Let us know you’re facing a safety concern and need support, but please DO NOT describe any safety issues in detail over email. A care coordinator will reach out as soon as possible to set up a secure communication channel. Support is available in English and may be available in Spanish and Arabic, depending on need._
+### Free safety services for journalists  { #free-safety-resources updated="2025-02-07" }
+- [INN](https://inn.org/resources/press-freedom-and-safety-hub/) [Press Freedom & Safety Hub](https://inn.org/resources/press-freedom-and-safety-hub/)
 - [IWMF free security consultations for journalists who may face digital threats](https://iwmf.submittable.com/submit/165075/one-on-one-safety-consultation)
 - [PEN America online abuse defense training program](https://pen.org/online-abuse-defense-training-program/)
 - The [Online Violence Response Hub](https://onlineviolenceresponsehub.org/) consolidates over 130 resources for critical areas such as digital security training, documentation and reporting abuse, emergency assistance, newsroom protocols, strategies for responding to abuse, and legal support.
@@ -411,11 +409,12 @@ This guide walks through important questions and best practices for employers wh
 - Would they prefer to announce new names and pronouns to relevant coworkers or communicate the information one-on-one? 
 - Would they prefer to announce new names and pronouns themselves or have a supervisor communicate relevant information in a meeting or via email? 
 
-# Additional Resources { #section-additional-resources updated="2024-12-20" }
+# Additional Resources { #section-additional-resources updated="2025-02-24" }
 
-### Workers’ rights toolkits { #read-worker-toolkits updated="2024-12-20" }
+### Workers’ rights toolkits { #read-worker-toolkits updated="2025-02-07" }
 - The Freelance Solidarity Project’s [New to Freelancing? A Resources Guide](https://sites.google.com/view/fsp-resources/home)
 - Beyond Binary Legal [Trans & Nonbinary Workers’ Toolkit](https://legalaidatwork.org/new-toolkit-for-transgender-and-nonbinary-workers/)
+- The Freelance Solidarity Project’s [Know Your Rights: Resources for trans, non-binary & gender-nonconforming media workers](https://freelancesolidarity.org/kyr-trans-media-workers/)
 
 ### Employment resources { #read-employment-resources updated="2024-12-20" }
 - [OpenNews’ DEI Coalition For Anti-Racist, Equitable, and Just Newsrooms](https://opennews.org/what/community/dei-coalition/join/)
