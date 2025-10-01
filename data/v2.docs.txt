@@ -45,9 +45,10 @@ Receiving a full, in-person safety training prepares reporters to understand dig
   - [PDF](https://drive.google.com/file/d/1IryAFCPIXVubd18HeutAcz_wyV4hVqnS/view?usp=sharing)
 - [IWMF training: Demystifying Digital Security](http://members.transjournalists.org/page-18090)
 
-### Free safety services for journalists  { #free-safety-resources updated="2025-02-07" }
+### Free safety services for journalists  { #free-safety-resources updated="2025-06-14" }
 - [INN](https://inn.org/resources/press-freedom-and-safety-hub/) [Press Freedom & Safety Hub](https://inn.org/resources/press-freedom-and-safety-hub/)
 - [IWMF free security consultations for journalists who may face digital threats](https://iwmf.submittable.com/submit/165075/one-on-one-safety-consultation)
+- [Journalism Source of Safety online toolkits](https://www.sourceofsafety.org/)
 - [PEN America online abuse defense training program](https://pen.org/online-abuse-defense-training-program/)
 - The [Online Violence Response Hub](https://onlineviolenceresponsehub.org/) consolidates over 130 resources for critical areas such as digital security training, documentation and reporting abuse, emergency assistance, newsroom protocols, strategies for responding to abuse, and legal support.
 - [SAFE Journalist Training and Resources](https://www.rtdna.org/safety) | RTDNA
@@ -92,8 +93,8 @@ _Therapy and guides_
   - Community awareness can [bolster safety](https://rjionline.org/news/reporting-in-spaces-of-civil-unrest/).
 - Building relationships with sources _before_ difficult events or conflict makes them more likely to talk during conflict and builds trust generally. Often, folks are closed off and protective on the day of a protest, so it may be difficult to make connections.
 
-## Information Security Checklist { #subsection-byline-checklist updated="2024-12-20" }
-Past bylines are sometimes used as vectors for harassment. If you’re changing your byline, or have previously changed your byline but want to locate additional information associated with your past name, here are some resource checklists and places to look.
+## Information Security Checklist { #subsection-byline-checklist updated="2025-10-01" }
+Past bylines are sometimes used as vectors for harassment. If you’re changing your byline, or have previously changed your byline but want to locate additional information associated with your past name, here are some resource checklists and places to look. To read advice from journalists who have changed their name, try [How Trans Journalists Can Stay Safe and Well While Changing Their Bylines](https://www.theopennotebook.com/2025/07/22/how-trans-journalists-can-stay-safe-and-well-while-changing-their-bylines/) from The Open Notebook.
 
 ### Locating and removing pre-transition information { #checklist-information-removal updated="2024-12-20" }
 - Look yourself up online and remove data
