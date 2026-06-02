@@ -1,6 +1,6 @@
 [[toc]]
 
-# Workplace Resources Guide { #intro updated="2025-01-29" }
+# Workplace Resources Guide { #intro updated="2026-06-02" }
 
 This Workplace Resources Guide compiles tools from the journalism industry, LGBTQ+ organizations, legal experts, and security advisors. The guide addresses newsroom leaders who may be seeking to support trans employees or contractors as well as workers who may need resources to present to their manager. It also contains numerous do-it-yourself toolkits for journalists.
 
@@ -126,7 +126,7 @@ Past bylines are sometimes used as vectors for harassment. If you’re changing 
 - Secure these accounts with two factor authentication.
 - Maintain these old accounts once every 6 to 12 months.
 
-## Digital Security { #subsection-digital-safety updated="2024-12-20" }
+## Digital Security { #subsection-digital-safety updated="2026-06-02" }
 Assess your digital safety pre-assignment by “doxxing yourself”: Look yourself up online to see what information is available, who might be able to access it, and how. Lock down your data, profile, and other sensitive info using the tools below.  
 
 ### Communications { #digital-communications updated="2024-12-20" }
