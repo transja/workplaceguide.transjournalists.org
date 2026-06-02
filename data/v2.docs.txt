@@ -150,7 +150,7 @@ Assess your digital safety pre-assignment by “doxxing yourself”: Look yourse
 - [How other people will find your information — and how to stop them](https://guides.accessnow.org/self-doxing.html)
 - [How to disrupt and prevent digital harassment](https://drive.google.com/file/d/173QIhW2UbWeAEcGWTtPWAmP53m8SMeRo/view?usp=sharing)
 
-### Data broker tools { #data-brokers updated="2024-12-20" }
+### Data broker tools { #data-brokers updated="2026-06-02" }
 There are a number of services that will remove your information from data brokers on your behalf — for a fee. Below we offer some discounts for paid services where available. 
 
 _Recommended paid tools_
@@ -164,8 +164,8 @@ For more information on these tools, review the [Consumer Reports evaluation](ht
 **Remember**: As you’re opting out, include any/all names you have used legally or professionally. Most sites allow inputs for multiple names, as well as those of family members.
 
 _Discounts available_
-- TJA has a 20% membership discount code for DeleteMe’s one-year or two-year plans, which take down information from data brokers. The code works with both family and individual accounts. You can [request that through a form](https://docs.google.com/forms/d/e/1FAIpQLSf9_psCvbcG2NMC81JsTzjSznYksSMHnXaeUpUKoQ0Fihn4Tg/viewform). There are a lot of limitations to this service (e.g. it’s apparently better for US than UK users), but it can still save many people hours of work. 
-- IWMF [also offers discounts](https://iwmf.submittable.com/submit/a9bcc475-16cb-4005-aaa9-f59b8e9f2ca1/nsaa-request-for-a-deleteme-subscription?fbclid=PAZXh0bgNhZW0CMTEAAaaqWSN9SLzHXBVyKGygSpVZdZq6_sPOJ_mKBwmDnTFQGD_49hTe9aikfLw_aem_BE0zMnWgboUB8sW4C5JACA) and/or free DeleteMe subscriptions.
+- TJA has a 25% membership discount code for [EasyOptOuts](https://easyoptouts.com). Each code is good for up to 5 uses, allowing members to sign up friends, family and co-workers. You can [request that through this form](https://docs.google.com/forms/d/e/1FAIpQLSdFrpvr_aHCyNQAnJqfnWAdfZ6kLqflLUrj8tXU_7egkl0HvQ/viewform?usp=header). Active membership status will be verified. 
+- TJA has a 20% membership discount code for DeleteMe’s one-year or two-year plans. The code works with both family and individual accounts. Active members should visit their dashboard in their TJA [Member Portal](https://members.transjournalists.org) to access. 
 - Visa offers [free Norton Lifelock](https://lifelock.norton.com/visabenefit) to most Visa card holders.
 
 _Password managers_
